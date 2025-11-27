@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/willatran/boba-shops-in-the-bay-area-2024/data
+http://resource.tcdc.or.th/ebook/BIC-Restaurant-Guide-30Dec2016.pdf
+https://www.kaggle.com/code/fionaguoguolu/boba-shops-in-the-bay-area-stats
+http://resource.tcdc.or.th/ebook/BIC-Restaurant-Guide-30Dec2016.pdf

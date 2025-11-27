@@ -1,0 +1,1142 @@
+,id,name,rating,price,review_count,address,city,lat,long
+0,6mm3INzOXv50sfFKsEnDZA,Gong Cha,3.5,$$,194,"1501 Park St, Alameda, CA 94501",Alameda,37.76553,-122.24191
+1,CDVGDmWsMVDGMq_0_9ZjpQ,Malaya Tea Room,4.5,$$$,318,"920 Central Ave, Alameda, CA 94501",Alameda,37.77100878087972,-122.269575
+2,00f_QqY53x-JWoJSBoFc4w,i-Tea,3.2,$,409,"1626 Park St, Alameda, CA 94501",Alameda,37.7673552038867,-122.240029983222
+3,oAtSJMzuwbkUTqx5PZ6Icw,TOMO Tea House,3.8,N/A,11,"825 Marina Village Pkwy, Alameda, CA 94501",Alameda,37.783869,-122.273461
+4,CGBV8HRth6WISB-I2CNVxA,Top Up,4.3,$$,359,"650 Central Ave, Ste G, Alameda, CA 94501",Alameda,37.7707266646251,-122.277582585812
+5,kIM6q7OiC_olzruHoVMMSw,Yokee Milk Tea,4.3,$$,516,"1728 Franklin St, Ste A, Oakland, CA 94612",Oakland,37.8063683,-122.2681935
+6,1WXLyqS4CER9gxL753UwmQ,Mandro,4.1,$$$,77,"1321 Park St, Alameda, CA 94501",Alameda,37.763187,-122.243915
+7,QZ752MmoWX5oLnJOBsPOtA,RareTea,3.5,$$,74,"2670 Fifth St, Ste C, Alameda, CA 94501",Alameda,37.7872478,-122.2800541
+8,3F9XuqKnc6JWAKj3kVUG6g,One Milk Tea,3.8,N/A,23,"2691 Fruitvale Ave, Oakland, CA 94601",Oakland,37.79050086764963,-122.2206049
+9,GXo2S3muSeW2dHmRIJ9RFQ,Sweetheart Cafe,3.7,$,243,"315 9th St, Oakland, CA 94607",Oakland,37.7994484,-122.2700968
+10,Y8nvMt-Tvd6dlgzPK74eDA,Tasty Point,3.8,$$,91,"2412 Santa Clara Ave, Alameda, CA 94501",Alameda,37.764947,-122.241461
+11,LeMuGG53gR9KXdiwGghwQw,Tea On Piedmont,4.4,$$,145,"4098 Piedmont Ave, Oakland, CA 94611",Oakland,37.82642,-122.252
+12,Ue9vnQE-7_o_SZxbB_FX1g,Golden Tea Shop,4.5,$$,283,"901 Franklin St, Ste 128, Oakland, CA 94607",Oakland,37.800593,-122.2722121
+13,Y4JaDkuGs8Xk_dPZu02e2g,UC Dessert,4.1,$$,701,"388 9th St, Ste 159, Oakland, CA 94607",Oakland,37.80046369370517,-122.2717601669154
+14,WUPLoJATMGgOYMsZT7Rx8w,Tapioca Express,3.7,$,291,"129 W Joaquin Ave, San Leandro, CA 94577",San Leandro,37.7240536,-122.15515
+15,iJzVnZWY9EHgapYF4262Zg,i-Tea,4.0,$,645,"388 9th St, Ste 125A, Oakland, CA 94607",Oakland,37.8006135940993,-122.270676903427
+16,gLmOpXSJdYhjuZOSWCP2ag,Suptea Lab,4.7,N/A,72,"3349 Grand Ave, Oakland, CA 94610",Oakland,37.81351601556085,-122.24695851520588
+17,x8oNNBt2m97kON4s3ZlRqg,Mr Green Bubble,3.6,$$,976,"4299 Piedmont Ave, Oakland, CA 94611",Oakland,37.82896,-122.24941
+18,fwnkVZlspcLh9LLCAHOVxg,Yifang Taiwan Fruit Tea,3.7,$$,260,"409 S Shore Ctr, Alameda, CA 94501",Alameda,37.7574646724906,-122.254001143282
+19,9lNhOWr61Q6YN6PIEvo_rA,RareTea,3.5,$$,91,"5817 College Ave, Oakland, CA 94618",Oakland,37.846473,-122.252206
+20,ZQE512IN30bXIhslbtOoiw,Boba Me,4.0,N/A,17,"1342 Park St, Alameda, CA 94501",Alameda,37.76353,-122.24319
+21,f-dRV1GVaqN4rjwhzsD0Qw,Earth Grown Drinks,4.4,N/A,15,"702 Webster St, Oakland, CA 94607",Oakland,37.798602,-122.271479
+22,pYmxRpLywA93u3hJSAyZyg,Quickly,3.2,$,66,"3306 Lakeshore Ave, Oakland, CA 94610",Oakland,37.8106217795691,-122.243926227093
+23,61r_PFlE7HGdcsUvqixZhg,T4,3.4,$$,355,"1068 Webster St, Oakland, CA 94607",Oakland,37.80111432634757,-122.27004078123218
+24,y7splD_3vtIEJS_wCZhOcg,Happy Lemon,3.7,$$,118,"2321 Santa Clara Ave, Alameda, CA 94501",Alameda,37.76567,-122.24228
+25,q6GIeSExBeAVTXmkg-Nn5A,Dek Doi Cafe,4.4,N/A,72,"4125 Piedmont Ave, Oakland, CA 94601",Oakland,37.8270561,-122.2522502
+26,SfvyfHeq75HJ5OplGhgKHA,K Street,4.2,$,93,"3905 Broadway, Oakland, CA 94611",Oakland,37.82707,-122.25744
+27,bcrk5dVXREt5PtiUa2LQhA,Baby Café,3.2,$$,131,"5959 Shellmound St, Ste 6, Emeryville, CA 94608",Emeryville,37.84131580346495,-122.29373391111504
+28,sXMhT_pt2qMkwUVcvY8Z5g,San San Tea House,5.0,N/A,1,"1019 Williams St, San Leandro, CA 94577",San Leandro,37.7162,-122.16255
+29,3iGvzSJSEWwRPGOz4Mnwfg,Boba Guys,3.9,$$,152,"5925 College Ave, Oakland, CA 94618",Oakland,37.8475442,-122.2524644454872
+30,XUpzZR5GoFkTYI5PXhXN6Q,Powderface,3.6,$,484,"3411 E 12th St, Ste 134, Oakland, CA 94601",Oakland,37.775358,-122.224312
+31,vYx-YzC65jzU-9rpvdJjOg,Panda Tea Bar,2.3,$,6,"2630 Fifth St, Alameda, CA 94501",Alameda,37.7872817963362,-122.281433567405
+32,dPdPOiRNl3M8_Nd1uMkWSA,Boba Binge - Uptown,4.5,$,54,"2212 Broadway, Oakland, CA 94612",Oakland,37.81107,-122.26659
+33,dUaukh0d9Vzhr5ToYKps4g,Black Diamond Cafe,4.2,$,378,"6399 Christie Ave, Ste A, Emeryville, CA 94608",Emeryville,37.84285,-122.295585
+34,0Cxbl9uwbtWcscgSVcfavQ,Paddington cafe,4.5,N/A,32,"1952 Mountain Blvd, Oakland, CA 94611",Oakland,37.82827,-122.21041
+35,o4PdehxLcoZvU38lrJ4Yww,Polaris Cafe,4.5,$,164,"5858 Horton St, Ste 151, Emeryville, CA 94608",Emeryville,37.8401992280102,-122.290788797878
+36,TqL8aWLtcMFrx6-sql6Z1Q,Boba Binge,4.5,$,288,"1004 Webster St, Oakland, CA 94607",Oakland,37.80068,-122.27014
+37,OlthmfgcnL8BVSPHAEBYtg,Yogurtland,4.3,$$,144,"2640 Fifth St, B, Alameda, CA 94501",Alameda,37.78684435,-122.280087
+38,mIeQ9mJPrDrqL4EQ9qTfBA,Primavera,4.6,$,82,"4800 Broadway, Oakland, CA 94611",Oakland,37.83325,-122.25279
+39,z05VPvhJgV7p5NZbVO3ZPQ,Quickly,2.7,$,133,"328 10th St, Ste 119, Oakland, CA 94607",Oakland,37.80057,-122.26997
+40,l1v6P0lGlxC5wxVxkx80Mw,Me & Jungle Cafe,4.6,N/A,149,"3943 Piedmont Ave, Piedmont, CA 94611",Piedmont,37.825434,-122.254025
+41,enmmZEoeKi__8JJzXOLxPQ,Cafe Uccello,4.7,$$,228,"340 14th St, Oakland, CA 94612",Oakland,37.80353,-122.26844
+42,lba051AGLL7J3SFdlMZgaA,TF Montclair,3.3,$,62,"2066 Mountain Blvd, Oakland, CA 94611",Oakland,37.8261642,-122.2092056
+43,FCr5hL_hsAes2Zk8XG_LAg,Gelato Firenze,4.0,$,264,"478 Lake Park Ave, Oakland, CA 94610",Oakland,37.81106,-122.24718
+44,eBmqha_AlsNemu0yJX0qeg,Cafe Sorriso,3.9,$,331,"1501 Washington Ave, San Leandro, CA 94577",San Leandro,37.7228,-122.155194
+45,_b9PkdedQWaaJTROJOZDDg,Comeback Cafe,3.9,$,118,"6009 Christie Ave, Emeryville, CA 94608",Emeryville,37.8406617790461,-122.294858023524
+46,kxoOkHV4AMO6p9_Eukilig,Full House Cafe,3.4,$,44,"326-7TH St, Oakland, CA 94607",Oakland,37.7983055,-122.2707977
+47,-4X-Xf_7DjntuNQ5sCCfQQ,Mantea,0.0,N/A,0,"San Leandro, CA 94577",San Leandro,37.715436,-122.166264
+48,WGWcEjb73IV5xYtukWy_0w,Supreme Essence,3.0,$,3,"388 9th St, Ste 125, Oakland, CA 94607",Oakland,37.800671,-122.27121
+49,erjlLTViggaTmc-5_A8V4Q,Nomi Tea,3.8,$$,160,"1475 Solano Ave, Albany, CA 94706",Albany,37.8910023524789,-122.288522780987
+50,eJt-x7RCwbq075nTVpnrfw,Mt. TeaAblo,4.6,$$,59,"2390 Fairview Ave, Ste B, Brentwood, CA 94513",Brentwood,37.96017475820297,-121.72457914110448
+51,DtEkaZ2m1CYeDfo8YqSYsw,Tibear,4.3,$$,251,"1938 Shattuck Ave, Berkeley, CA 94704",Berkeley,37.873138,-122.268722
+52,JekYQpB7cMmKQlYI1UVxyw,Bober Tea & Coffee,4.1,$$,306,"1153 Locust St, Walnut Creek, CA 94596",Walnut Creek,37.895348304159455,-122.061827233399
+53,Li8FLw1ULLGpcesdLPuciw,T4,3.5,$$,200,"13350 San Pablo Ave, San Pablo, CA 94806",San Pablo,37.954766898894,-122.334166861144
+54,6WAov74KqG8Z0e3BBSzuow,Lilikoi Boba,2.7,N/A,61,"3080 El Cerrito Plz, El Cerrito, CA 94530",El Cerrito,37.9012846543175,-122.29965603051448
+55,fZz4TKKdBblNTZE8u0jNEQ,Tala Coffee & Tea,3.8,$,264,"10734 San Pablo Ave, El Cerrito, CA 94530",El Cerrito,37.913812,-122.309249
+56,3CYBPRgXB1wmZXDsBOunCw,Boba Bliss,4.6,$$,1578,"8945 San Ramon Rd, Dublin, CA 94568",Dublin,37.722814,-121.941259
+57,TQe6auub8fcI4nEidgYKYA,Milk Tea Lab,3.8,$$,665,"1972 Contra Costa Blvd, Pleasant Hill, CA 94523",Pleasant Hill,37.9485708483184,-122.058178750759
+58,mNrXJUUDeAPU_HRLd1jwPA,Yumy Gurt,4.3,$,109,"2701 Pinole Valley Rd, Pinole, CA 94564",Pinole,37.9952735900879,-122.285331726074
+59,lr7QNXQCoLWSx3NNFC-ZRg,Tay Tah Cafe,4.0,$,186,"1182 Solano Ave, Albany, CA 94706",Albany,37.89023,-122.29626
+60,OWQP7rcuAedkr0gD_X_tOQ,Bober Tea,4.4,$$,281,"6786 Bernal Ave, Pleasanton, CA 94566",Pleasanton,37.65668,-121.9001
+61,h6z4YRPVx9G21jJ3H5yeYA,Sweet Straw,4.0,$$,164,"2552 Jefferson St, Napa, CA 94558",Napa,38.31101,-122.29628
+62,ubIBeGZhNbCnQDdvmqz0pQ,Boba Ninja,4.0,$,203,"2519B Durant Ave, Berkeley, CA 94704",Berkeley,37.868050887713125,-122.2581362
+63,zqRvYDkBHLRwrNwSKrsl0w,Le Dessert Lab,3.9,$$,123,"3288 Pierce St C113, Richmond, CA 94804",Richmond,37.89918877974311,-122.30703353287672
+64,MgFr3WwEu_fiGEDK1X2G4Q,Feng Cha Teahouse  奉茶,3.9,$$,407,"2528A Durant Ave, Berkeley, CA 94704",Berkeley,37.867704,-122.257685
+65,_IHbBCmMU5GAcKZM-7X52w,Happy Lemon,4.4,$$,210,"712 B Contra Costa Blvd, Pleasant hill, CA 94523",Pleasant hill,37.97105833,-122.064295
+66,r0E9lY-r1n_EiNt_11e8kA,Lilikoi Boba,3.9,$$,85,"3488 Mt Diablo Blvd, Lafayette, CA 94549",Lafayette,37.89303275953202,-122.1154119066157
+67,_Guh3jckXaoCy6LlVh7rGQ,Boba Bliss,4.8,$$,80,"20580 Redwood Rd, Castro Valley, CA 94546",Castro Valley,37.696619,-122.073441
+68,g79QsWhGyFS3XM5dy4k9Ug,Bubbles Boba Tea,4.3,N/A,28,"954 Gravenstein Hwy S, Sebastopol, CA 95472",Sebastopol,38.39162,-122.81735
+69,Q2l7Uy61Bp4UDngOGCDBYQ,TP TEA,4.1,$$,283,"65 E 4th Ave, San Mateo, CA 94401",San Mateo,37.56331919294046,-122.32395302353852
+70,NFiw_tPQw3t7PI8qHkIWPw,TeaZenTea - Livermore,4.3,$$,64,"2187 First St, Livermore, CA 94550",Livermore,37.681372,-121.769015
+71,1vF5lPgh1DjkK1z-7lhkrw,Toco Tea,3.6,$$,94,"101 W American Canyon Rd, Ste 518, American Canyon, CA 94503",American Canyon,38.16563,-122.26166
+72,5i_vY3774jJzE5b1vYUMrg,Teance Fine Teas,4.3,$$,233,"1036 Grayson St, Berkeley, CA 94710",Berkeley,37.85587,-122.28835
+73,Qu6LoTMYDZNNNAPxyEBjog,Kuboba Spot,4.8,$,221,"2618 Telegraph Ave, Berkeley, CA 94704",Berkeley,37.86249,-122.25914
+74,cY8-KnCc1LXYw7u9RRkx0w,Teaspoon,4.2,$$,679,"2125 Polk St, San Francisco, CA 94109",San Francisco,37.7963159707234,-122.421975955367
+75,2g4eIlhSccXcnEQDSOGmbQ,Hello Sweet,4.4,N/A,63,"1657 Willow Pass Rd, Ste B, Concord, CA 94520",Concord,37.972805101106985,-122.04375960358207
+76,GBjdUJd0BM_JO_6mLSl1Pg,Big Bang Boba & Chicken,3.9,$,258,"3079 Travis Blvd, Fairfield, CA 94534",Fairfield,38.25775,-122.0671573
+77,wqbjoeKzk8eVfCgd1jMZtA,Asha Tea House,4.1,$$,1614,"2086 University Ave, Berkeley, CA 94704",Berkeley,37.8719582,-122.268859
+78,c00ZMDyzFNhCYn5XNMTRCw,Tenren's Tea,4.7,N/A,7,"947 Grant Ave, San Francisco, CA 94108",San Francisco,37.79575192552231,-122.4067061394453
+79,VMibyZrQnx1F1qa8llvMPA,Heeretea,4.1,$$,157,"253 S B St, San Mateo, CA 94401",San Mateo,37.565834093342424,-122.3225223236282
+80,yDShxtr8kUaJNgi1696LZA,Toco Tea,4.0,$$,166,"4801 Valley View Rd, El Sobrante , CA 94803",El Sobrante ,37.97160608656882,-122.28782837054936
+81,eZLp42AYHyRs050UfhiQ-Q,Devil & Angel Desserts,4.5,N/A,45,"2357 Oak Grove Rd, Walnut Creek, CA 94598",Walnut Creek,37.92787596970812,-122.0158697674938
+82,l6wMI3_QYw0_NAxqUAr6nA,Sharetea,3.1,$,197,"967 Grand Ave, San Rafael, CA 94901",San Rafael,37.9717057943344,-122.518760114908
+83,S6ZW7VR3-sy-Zc5zLaEx9w,Pink Cloud Tea & More,4.5,N/A,77,"2107 Addison St, Berkeley, CA 94704",Berkeley,37.87139,-122.267339
+84,MZpsHEy0V7Ugku6pMwplwA,TP Tea,4.3,N/A,15,"400 Broadway, Millbrae, CA 94030",Millbrae,37.601786087880065,-122.3926102
+85,w7OqID3ikGD8s4HeZ3pOWw,ThirsTea,4.0,$,202,"6585 Commerce Blvd, Ste H, Rohnert Park, CA 94928",Rohnert Park,38.3452752,-122.7117498
+86,b96ex0qTid1oW8hpAuNsTA,TP TEA,4.3,$$,333,"2383 Telegraph Ave, Berkeley, CA 94704",Berkeley,37.867178,-122.258682
+87,Pwg6JTjLgHX4DXbf5i1eYw,Sharetea,3.9,$$,177,"153 Plaza Dr, Ste 103, Vallejo, CA 94591",Vallejo,38.134978,-122.218522
+88,1Oarv6Que_QwRMyhYaq7mQ,Hui Lau Shan,4.5,$$,339,"2282 Fulton St, Berkeley, CA 94704",Berkeley,37.868171,-122.266317
+89,a_1cALbyEqbNe583ffusSQ,Purple Kow,3.5,$$,737,"2508 Channing Way, Berkeley, CA 94704",Berkeley,37.866891184384755,-122.2584038
+90,LGHq4AOC7IwYZQ-LDLtruQ,Teaspoon - Corte Madera,4.3,$$,50,"132 Corte Madera Town Ctr, Ste 132, Corte Madera, CA 94925",Corte Madera,37.92779,-122.51796
+91,Ydcxae0kjapPcsYM5SxaCA,Boba Birds,4.8,N/A,122,"1569 Tara Hills Dr, Pinole, CA 94564",Pinole,37.995129368181395,-122.3036719521474
+92,bhZdj9c0d_WSd8tN0GDhbQ,Tiger Tea & Juice - Burlingame,4.3,$$,768,"1803 El Camino Real, Burlingame, CA 94010",Burlingame,37.594114,-122.384605
+93,_v9oqd0bkaa2CZrTsws1hw,Hay Tea,3.7,$,41,"2505 Hearst Ave, Berkeley, CA 94709",Berkeley,37.875378,-122.25975
+94,w4ho2Nui5ONcGSSHfsT5rQ,U Cha,4.0,$,826,"2199 Bancroft Way, Berkeley, CA 94720",Berkeley,37.8718211,-122.2601405
+95,JaukgUbyH5hG8qK6Oi1L5w,Feng Cha Tea House,4.4,N/A,156,"7660 Amador Valley Blvd, Ste F, Dublin, CA 94568",Dublin,37.706908,-121.93329
+96,RrFzTEe3gRPuWw6sde3mOA,Wanpo Tea Shop,4.1,$$,134,"1069 El Camino Real, Millbrae, CA 94030",Millbrae,37.606076,-122.398015
+97,qrp5Zip1Tb4-EeBJ13GS-w,Three Tea Bowls - Pop-up Tea Bar,4.7,$,101,"139 Berkeley Sq, Berkeley, CA 94704",Berkeley,37.870773377265934,-122.2680943
+98,nYl2Jkt7N9Qp5dUtw3Ob8w,Cafe Tapioca,4.0,$,211,"1581 Sycamore Ave, Ste 9, Hercules, CA 94547",Hercules,38.00996,-122.270604
+99,pkfziXH-LOVtnxVp7kQuPw,Pink Pink Tea Shoppe,4.4,N/A,164,"60 31st Ave, Ste 285, San Mateo, CA 94403",San Mateo,37.53755175043286,-122.30040853842404
+100,bzplu8ncagwk1LwywMEBuA,By Me Boba Tea,3.9,$$,193,"22 Ross Aly, San Francisco, CA 94108",San Francisco,37.79561,-122.4073
+101,curtgIVp8umXYGmwK647lw,Kuma Cafe,4.0,$$,92,"1128 4th St, San Rafael, CA 94901",San Rafael,37.97344,-122.52891
+102,I97TZBWw3Lb9J2LCGIbR-w,Ume Tea,4.8,N/A,4,"283 Lorton Ave, Burlingame, CA 94010",Burlingame,37.57891,-122.34614
+103,e__RxSCkM5OegSY1Ve_wIA,Coco3,4.1,$$,289,"117 Hickey Blvd, South San Francisco, CA 94080",South San Francisco,37.66553054050113,-122.45235629922176
+104,qa-JvN_UfE7wYB6zkCW3oQ,Tea Square Boba,3.3,N/A,40,"900 North Point St, San Francisco, CA 94109",San Francisco,37.805856334581925,-122.42244425294425
+105,ExuFp1teWDUMbvU4Y-p6jg,Happy Lemon,3.1,$$,65,"3288 Pierce St, Ste D103, Richmond, CA 94804",Richmond,37.898379795483635,-122.3077125
+106,aGwk8e8O9TiZF2iqdX3jag,Sunright Tea Studio - Burlingame,4.5,$$,193,"346 Lorton Ave, Burlingame, CA 94010",Burlingame,37.580055,-122.346647
+107,AdABvu7gwwRjZKzVLQeDOQ,Tea Hut,3.9,$$,572,"2815 California St, San Francisco, CA 94115",San Francisco,37.78783,-122.44073
+108,4QtyWGHpDGd_6T1kc_p1ng,Cha Thai Tea,4.9,$,40,"1796 Shattuck Ave, Berkeley, CA 94709",Berkeley,37.874905,-122.268925
+109,zfuQwvrvzT4NbJo9s3uY1w,Junenov Tea,4.7,$$,178,"238 Golf Club Rd, Pleasant Hill, CA 94523",Pleasant Hill,37.971918272791704,-122.06849595014324
+110,VCX6DazmfXFNvVrJA2u4cg,Qualitea,4.6,$$,129,"1578 Fitzgerald Dr, Ste B, Pinole, CA 94564",Pinole,37.990333,-122.300426
+111,oqQFjeN92F_tDLeNLwVT8w,Bobaville,3.7,$$,493,"346 Gellert Blvd, Daly City, CA 94015",Daly City,37.66737517,-122.46911233
+112,vdzJFOx56593aE_BByoCPA,Sweet Time Dessert,4.7,N/A,7,"3319 Balboa St, San Francisco, CA 94121",San Francisco,37.775654,-122.494495
+113,xFH3tC6Sj4y-hI35hag1Pg,oddcha,4.8,$$,70,"905 F Irwin St, San Rafael, CA 94901",San Rafael,37.971545,-122.521094
+114,LMGouMu2T9IEgqjUgdfuTQ,Lilikoi,4.2,$$,321,"3108 Fillmore St, Ste C, San Francisco, CA 94123",San Francisco,37.79827,-122.43548
+115,tpwI4FFJKca_49EZclArsw,Sharetea,3.8,$$,247,"3700 San Pablo Ave, Ste 2, Hercules, CA 94547",Hercules,38.01219419381374,-122.273832784915
+116,jVI2Gmp8w-tRITsTVSfs-g,Li Cha Tea,3.8,$,183,"1245 N Broadway, Walnut Creek, CA 94596",Walnut Creek,37.898142,-122.059267
+117,LPME3Tfy4-9M9hVkGTWoQA,elaichi co.,4.4,$$,111,"2161 Allston Way, Ste C, Berkeley, CA 94704",Berkeley,37.870019860183085,-122.26647291965224
+118,L4ubcLwuvkYyEMGVKf4lsg,Boba N Me,3.9,N/A,39,"1 Sun Valley Mall, Level 2, Concord, CA 94520",Concord,37.96931687233081,-122.0607003626691
+119,6n_p-USzpOuXKSMAYQ2OGw,Feng Cha Teahouse,4.1,$$,41,"99 Yerba Buena Ln, San Francisco, CA 94103",San Francisco,37.78517632881106,-122.40373912435462
+120,GAjcnzG6lo_pLZqdKCx9yw,Pink Pink Tea Shoppe,4.1,N/A,84,"1737 Post St, Ste 383, San Francisco, CA 94115",San Francisco,37.785148987521026,-122.4308617456493
+121,146WHyGNJg5cQomsQdTf9w,Haiku Teahouse,4.4,$$,98,"1501 Berryessa Rd, Ste 35, San Jose, CA 95133",San Jose,37.36999006320289,-121.8791681842892
+122,uR8vrPZxPWllsF98CWMxgQ,Sharetea,4.2,$,46,"41 Moraga Way, Orinda, CA 94563",Orinda,37.878776044155,-122.181543722122
+123,_E5suNTjgdJOrfB1kxTI9g,i-Tea,4.4,$,144,"1460 Moraga Rd, Moraga, CA 94556",Moraga,37.83601213626798,-122.12660782836105
+124,e5Q7bIyOHzgu0rSxAIsbwQ,The Rolling House,5.0,N/A,25,"3340 San Pablo Dam Rd, Ste M, San Pablo, CA 94803",San Pablo,37.96151,-122.32567
+125,EVpCq4XDSrdWBqbfZHdrtw,Far Leaves Tea,4.5,$$,199,"2626 San Pablo Ave, Berkeley, CA 94702",Berkeley,37.8582295755562,-122.288873371521
+126,v2lmyD4R6XrJkqwH5a5Zjg,Honey Express Bento & Tea,4.6,N/A,8,"279 Jacklin Rd, Milpitas, CA 95035",Milpitas,37.447451,-121.904051
+127,nad6cAVdL-M6gfoAbRy4sg,Tea Spot,3.7,$,219,"3860 Balfour Rd, Ste A, Brentwood, CA 94513",Brentwood,37.924364,-121.706549
+128,Cb0eqMv5g0UoFJxn8HKLvA,Chachago,4.1,$$,159,"39025 State St, Fremont, CA 94538",Fremont,37.55036,-121.98569
+129,1TdJAkxGuZ3NPk7AvV86dg,Teaspoon - Newark,4.7,N/A,37,"39730 Cedar Blvd, Newark, CA 94560",Newark,37.52132736718983,-121.99635534469188
+130,Cou-p-1p8ansnoFEDElftg,Jinju Tea,3.6,N/A,5,"4150 Clement St, San Francisco, CA 94121",San Francisco,37.782018487618046,-122.50504795924928
+131,_FORKWC50Zcws1GACPH-GA,Tea Hut,4.1,$$,89,"325 El Camino Real, Millbrae, CA 94030",Millbrae,37.60159723139979,-122.3913593176934
+132,9B62QCsV1IVmFXdCml3X2Q,Bobaville,4.2,N/A,95,"3811 Noriega St, San Francisco, CA 94122",San Francisco,37.75277,-122.50458
+133,BAFteOqLfjXepygn2td5Jg,Ice Monster,4.1,$$,536,"2230 Oak Grove Rd, Walnut Creek, CA 94598",Walnut Creek,37.9298248,-122.0166397
+134,LtmeVhFDj_FGo0RyyHs3tg,T Time,4.0,N/A,11,"2121 Loveridge Rd, Ste A, Pittsburg, CA 94565",Pittsburg,38.010535,-121.868739
+135,SFr0JWp6wOauxqLp6FiNQA,Happy Lemon,4.0,N/A,100,"2042 Nut Tree Rd, Vacaville, CA 95687",Vacaville,38.35065,-121.952044
+136,rAwat6XvsvURW75asrzdlA,Sharetea,4.2,$$,25,"4705 Century Blvd, Pittsburg, CA 94565",Pittsburg,38.00635509589488,-121.8355046237642
+137,V_lg8ITRNbKpfeqDRIZrKQ,U Dessert Story - Berkeley,4.2,$$,1040,"1849 Shattuck Ave, Berkeley, CA 94709",Berkeley,37.874202,-122.268364
+138,6ik45g5JCcTx_8BiXPYvWg,Co Ba Dessert Tea & Coffee,4.4,$,146,"3730 N 1st St, Ste 110, San Jose, CA 95134",San Jose,37.41091678541052,-121.94613497401431
+139,i-_9tPB0MZ9EkLjlEGTeWQ,Boba & Beyond,4.7,N/A,46,"3550 San Pablo Dam Rd, A2, El Sobrante, CA 94803",El Sobrante,37.96376888477262,-122.3197114486539
+140,qrzOX4s2DRtnwaZJ0OFqZg,Hui Lau Shan,4.6,$$,137,"288 Barber Ct, Milpitas, CA 95035",Milpitas,37.423707,-121.917443
+141,x6SwYi_MWD7nI5qVGRfZCQ,Teaspoon,4.3,$$,245,"25034 Hesperian Blvd, Hayward, CA 94545",Hayward,37.644392,-122.104541
+142,Zb2wjyKDpNT8OyFkzyZl-A,Milk Tea Lab,4.0,$$,109,"839 Irving St, San Francisco, CA 94122",San Francisco,37.7638974662094,-122.4670802
+143,vOXdy5ImuZIOUzObo2T-iA,ZERO& - Livermore,3.9,N/A,41,"2774 Livermore Outlets Dr, Ste 1358, Livermore, CA 94551",Livermore,37.698738,-121.844066
+144,Q9cgPx57ky4QaeeH2UqTTg,Peace Love & Boba,4.2,$,792,"3083 Alamo Dr, Vacaville, CA 95687",Vacaville,38.336413,-121.954482
+145,jzv1Iu7utABtZWAl8tB5Xg,Lilikoi Boba,4.0,N/A,50,"240 Park Rd, Burlingame, CA 94010",Burlingame,37.578483,-122.346851
+146,vMvuR-jIPCDYjJpfiPbT0Q,QTea,4.6,$$,205,"4064 Grafton St, Dublin, CA 94568",Dublin,37.7036401,-121.8658092
+147,cp68CIvyl-TnsZnv94b8-Q,Tea Dojo,3.9,$,153,"321 Nut Tree Rd, Ste 321E, Vacaville, CA 95687",Vacaville,38.36450582506459,-121.95610643148464
+148,er7V2g6XD7kaJ6Kxc0FA1g,Teaspoon - Berkeley,4.0,$$,26,"2129 University Ave, Berkeley, CA 94704",Berkeley,37.8724101,-122.2675352
+149,Hpti4sJH8Pu2koxAlJXPqw,The Alley,3.6,N/A,54,"2315 Telegraph Ave, Berkeley, CA 94704",Berkeley,37.86832,-122.25887
+150,yn5gA62ekL-TzKBBI_rq-A,Boba Guys,4.1,$$,2127,"429 Stockton St, San Francisco, CA 94108",San Francisco,37.79,-122.40729
+151,DHaS9Bjh1c95qHIlS009Hg,Pit Stop Boba Shop,4.3,$,502,"2300 Westborough Blvd, South San Francisco, CA 94080",South San Francisco,37.64351,-122.45347
+152,zvSGFFENkYC1JCoFjQlEWw,Yilan Bento,4.2,$$,79,"653 Clay St, San Francisco, CA 94111",San Francisco,37.79447443866782,-122.40405055254035
+153,caO5TnbD9PHxwZHov36VJg,Sunright Tea Studio - Union City,4.3,$$,306,"34563 Alvarado-Niles Rd, Union City, CA 94587",Union City,37.58643220737729,-122.02003553554523
+154,w3SReQpdtZO-G35hnzy7_g,Ume Tea - Mountain View,4.3,$$,242,"220 Castro St, Mountain View, CA 94041",Mountain View,37.39368082578452,-122.0794569077081
+155,WitmK0ISoVDlxsyNUjxhZg,Tea O’clock,4.5,$$,41,"1384 E 14th St, San Leandro, CA 94577",San Leandro,37.724517,-122.154704
+156,tfpjSGM7Txy1p1rkzCStEA,ONCE Tea,3.8,$$,120,"1081 B St, Hayward, CA 94541",Hayward,37.67355,-122.08114
+157,_Wzv-WD54fxYKIsmERWA_Q,Grapeholic,4.2,$$,197,"102 S El Camino Real, Millbrae, CA 94030",Millbrae,37.598061,-122.386405
+158,kuk1CpdX0BInshkFRmu5cg,Boba Guys,4.0,$$,682,"872 Laurel St, San Carlos, CA 94070",San Carlos,37.5027402543983,-122.256980158539
+159,Kpc-9OvdDdPTavjFArqkIA,ZERO&,4.1,$$,237,"437 Hayes St, San Francisco, CA 94102",San Francisco,37.77654,-122.42358
+160,I0ZWZM3Vs_61JSbyB5UTxw,Kiss My Boba,3.9,$$,158,"221 El Camino Real, San Bruno, CA 94066",San Bruno,37.61834798760752,-122.409672
+161,FMKI17nvO8vzMLqrQEjcHA,BeauTea,3.9,$$,249,"375 Grand Ave, South San Francisco, CA 94080",South San Francisco,37.65527,-122.41202
+162,W3I4ZfyUaG2zVjBpujkfcA,Aqua Club Dessert & Beverage,4.3,$$,1024,"440 San Mateo Ave, Ste N1, San Bruno, CA 94066",San Bruno,37.62256,-122.41094
+163,Cm619_WeZvigYZuMK8modg,Boba Studio,4.5,$$,158,"1389 N Main St, Unit A, Walnut Creek, CA 94596",Walnut Creek,37.89900243035402,-122.0611506
+164,40p191VsNQ8uG0uPiJIlSg,Tea Plus Tea Bar,4.1,N/A,22,"4482 Mission St, San Francisco, CA 94112",San Francisco,37.72615,-122.43405
+165,t6ecFNNrGJ0eopQWVILB-w,Bundow Boba,4.2,N/A,18,"979 Broadway, Ste 110, Millbrae, CA 94030",Millbrae,37.604703,-122.397259
+166,NBUYBPRwEmnYJzajGALmCA,Beyond Tea,4.5,$$,100,"305 Marina Ctr, Suisun City, CA 94585",Suisun City,38.243376175450265,-122.03489328860576
+167,HeUvi1DDds2ehcqexW-wcg,Beach Boba,4.3,$$,212,"1328 Linda Mar Shopping Ctr, Pacifica, CA 94044",Pacifica,37.5941208275141,-122.504626
+168,9aL5lE1CmoVrNmgRf3ia5w,Phin Cafe,4.3,$,344,"34460 Fremont Blvd, Ste D, Fremont, CA 94555",Fremont,37.575053,-122.038712
+169,eR4oDmCWRgtto9KnvHiHqg,Teatime,4.0,$$,130,"1003 El Camino Real, Redwood City, CA 94063",Redwood City,37.4846042071457,-122.232427139501
+170,6mFGgRIfewCZ8zM_XxvF0Q,Tea Moment,4.3,$$,175,"6088 Stevenson Blvd, Fremont, CA 94538",Fremont,37.51840409634824,-121.9901647
+171,lSxl47x0xvpogbj3ILXRxA,Milk Tea Lab,4.2,$,297,"630 El Camino Real, South San Francisco, CA 94080",South San Francisco,37.6492971,-122.4296926
+172,5mYhfv4sSOfMOP-8tsd8Iw,Purtea,4.4,N/A,65,"1422 Ocean Ave, San Francisco, CA 94112",San Francisco,37.724469790960065,-122.4576936
+173,w9iBaBodqmAQzdX_T3JNVw,Societea Teahouse & Eatery,4.1,$,336,"446 San Mateo Ave, San Bruno, CA 94066",San Bruno,37.622841,-122.410957
+174,tiqMX9MDGq0W0m1Rpu8v9Q,Imperial Fruit,5.0,N/A,8,"1142 Grant Ave, San Francisco, CA 94133",San Francisco,37.7975669985766,-122.40683257055294
+175,RxO6Lk7YbTigPjVhVBY3yQ,Bobalicious,4.3,$$,255,"2202 Broadway St, Redwood City, CA 94063",Redwood City,37.487118,-122.229624
+176,_ZKwEQXUA_1ZeuyDnvca4w,Boba Bliss,4.5,$$,508,"685 San Antonio Rd, Ste 15, Mountain View, CA 94040",Mountain View,37.401652,-122.112977
+177,3Mv9ufh_kgljVM5Hq801Xw,Tea It Up,4.0,$$,167,"993 El Camino Real, Menlo Park, CA 94025",Menlo Park,37.452653,-122.181579
+178,hARCiYDKDcdkUd-lR7ZCaA,Tea So,4.3,$$,101,"20669 Santa Maria Ave, Castro Valley, CA 94546",Castro Valley,37.6961077,-122.078579
+179,NU8qoTTl8FFLB3rp8N9eAA,Yifang Taiwan Fruit Tea,3.8,$$,310,"870 Washington St, San Francisco, CA 94108",San Francisco,37.795125,-122.407633
+180,anE7_gCK_tdSPNnWVCKp2g,Sharetea,3.9,$$,269,"2441 San Ramon Valley Blvd, Ste 3, San Ramon, CA 94583",San Ramon,37.7747421264648,-121.977684020996
+181,lz8Kn4blqgUUV3vMBsM_AQ,Asha Tea House,4.0,$$,740,"17 Kearny St, San Francisco, CA 94108",San Francisco,37.7881894888854,-122.40366820246
+182,oghFJUzA9Luy1Q3vYzZ9hQ,Boba X,4.2,$,124,"7375 Amador Valley Blvd, Ste 110, Dublin, CA 94568",Dublin,37.710485111339544,-121.92753494348976
+183,_Tx7Wd5lNgIqU4FqXC13XQ,i-Tea,4.0,$$,630,"20666 Redwood Rd, Castro Valley, CA 94546",Castro Valley,37.695911,-122.072915
+184,DTXD2WlIHsLv_OOOG7zzDg,Sharetea,4.1,$$,89,"2401 Waterman Blvd, Ste C1, Fairfield, CA 94534",Fairfield,38.272600064352,-122.05326745949336
+185,LFw5vTrt7VOHh-mtSIz6jA,Quickly Brentwood,4.4,$$,175,"2415 Empire Ave, Brentwood, CA 94513",Brentwood,37.9603144,-121.7326581
+186,kAUq8PSg7UEDOpUBbVwi0g,Teaspoon,3.8,$$,32,"2375 Railroad Ave, Ste 101, Livermore, CA 94550",Livermore,37.6837,-121.76782
+187,m6AVc_af2XqopM7gscUBcA,K On The Go,4.4,$$,103,"31877 Alvarado Blvd, Union City, CA 94587",Union City,37.5896,-122.07124
+188,blu-Lki84ufB-azvwiSaVA,TS Cafe,4.3,$,154,"4754 Mission St, San Francisco, CA 94112",San Francisco,37.72205594046743,-122.43711280247992
+189,wBvDeIMjm_bq7dfyyusAwg,Purple Kow,3.4,$$,2596,"3620 Balboa St, San Francisco, CA 94121",San Francisco,37.775906,-122.497818
+190,WtGu4TDHFdDm7FJtwdjt4g,Sweet A's,4.0,$,154,"1325 Buchanan Rd, Pittsburg, CA 94565",Pittsburg,37.9986275,-121.87351867
+191,2llqB7nN-Dne7wQ-8LSRTw,P-Town Coffee & Tea,4.4,$$,258,"152 Reina Del Mar Ave, Pacifica, CA 94044",Pacifica,37.6134281,-122.48717910279969
+192,O9ut-lJGzw0QamVJ8HKH4w,Union Square - Little Sweet,3.8,$,194,"75 O'Farrell St, San Francisco, CA 94108",San Francisco,37.7866283657442,-122.406057321507
+193,oI_EPHCudIcgiSxcj2TWUA,Boba Galaxy,4.3,$$,178,"2090 N Capitol Ave, Ste C, San Jose, CA 95132",San Jose,37.40703,-121.88729
+194,vMiM0kaavveZZ61lBe-LJg,Plentea,3.7,$,2142,"341 Kearny St, San Francisco, CA 94108",San Francisco,37.7914264423265,-122.404249032891
+195,vDX8cgSok8godrieuBKBYA,TeaZenTea,4.1,$$,430,"1135 2nd St, Ste C, Brentwood, CA 94513",Brentwood,37.9369147127279,-121.698112115264
+196,1xYxb8SRBEx_V1mjNHht_g,Boba Corner,4.7,N/A,18,"761 2nd St, Brentwood, CA 94513",Brentwood,37.93406692756091,-121.69476461757348
+197,fOiiJhDBImzWfwQ2TWfV8g,Lady Luck Cafe,4.1,$$,97,"956 Grant Ave, San Francisco, CA 94108",San Francisco,37.79588,-122.40649
+198,RwddON9K86BUaQvAT5WBbA,Japantown - Little Sweet,4.1,$$,74,"1660 Geary Blvd B, San Francisco, CA 94115",San Francisco,37.78497,-122.43068
+199,anyi2XunXz-P-t7zMeWqlQ,CAFFE:iN,3.9,$$,616,"1788 Decoto Rd, Union City, CA 94587",Union City,37.58798,-122.01945
+200,TBWeoElqTGHAcgOHCdju8g,T4,3.5,$$,165,"1033 B St, Hayward, CA 94541",Hayward,37.6731435370977,-122.082034402975
+201,D25MYn-lXJebHibyBxpyNQ,Mr Green Bubble,3.6,$$,114,"604 Santa Cruz, West Menlo Park, CA 94025",West Menlo Park,37.453325,-122.18355659697396
+202,w-SOaOeltbnfjNv9iWoIzQ,Aloh-o,4.1,N/A,86,"1367 N McDowell Blvd, E-130, Petaluma, CA 94954",Petaluma,38.2735325198282,-122.666281164165
+203,ZvqV8m1FmLGHCB9VULTPnA,Sharetea,4.1,$,576,"1850 Mount Diablo St, Concord, CA 94520",Concord,37.9761596024036,-122.033636346459
+204,o86gyUxsNYnPIF-kAlznKA,AURA Tea,3.8,$$,176,"121 Spear St, Ste B-05, San Francisco, CA 94105",San Francisco,37.79233593640378,-122.39270767881594
+205,G9Slc9RL25KslNMqGH_mMw,Mints & Honey,4.3,$$,906,"1524 El Camino Real, San Carlos, CA 94070",San Carlos,37.49613,-122.2477
+206,6HlepENtbBpp4tlBIiCqdg,Feng Cha Teahouse,4.2,$$,897,"6180 Jarvis Ave, Ste W, Newark, CA 94560",Newark,37.54872,-122.04929
+207,TkIo6SWq69NIuL8Z6f24cg,Tiger Tea & Juice - San Mateo,4.4,N/A,53,"212 E 3rd Ave, San Mateo, CA 94401",San Mateo,37.565,-122.32287
+208,tc-0kxFG8ByUKl6Y-nfYaA,Boba Guys - San Ramon,3.8,$$,684,"6000 Bollinger Canyon Rd, Ste 1217, San Ramon, CA 94583",San Ramon,37.76336602105679,-121.95949816110615
+209,9eCvIo1rMjUKstDxnIZysw,Happy Lemon,4.4,$$,163,"1320 4th St, San Francisco, CA 94158",San Francisco,37.77153599095925,-122.3914588
+210,oOqFOKQQovc747Ikp4caQQ,Sharetea,3.8,$$,315,"699 Lewelling Blvd, Ste 264, San Leandro, CA 94579",San Leandro,37.687542918534035,-122.13614720213832
+211,EPBxD2-V84eBw_wPCdpcIA,Kudos Tea & Coffee,5.0,N/A,10,"1111 A St, Antioch, CA 94509",Antioch,38.01026,-121.80555
+212,uJybiTK9bh_o4ZfyE5Hdyg,Ume Tea - Davis,4.5,$$,251,"1411 W Covell Blvd, Ste 110, Davis, CA 95616",Davis,38.56238670932121,-121.7654929009828
+213,ux3VV8jQeTvqEcbkF5OHWw,Presotea,4.2,$$,150,"6616 Laguna Blvd, St 120, Elk Grove, CA 95758",Elk Grove,38.422661,-121.426382
+214,t5gZRzphX8OjLPXwjgU5DA,Quickly,3.1,$,267,"145 Plaza Dr, Ste 205, Vallejo, CA 94591",Vallejo,38.13418,-122.2191
+215,JriLESsQhMGHSHhzGN--rQ,Fusion Boba Tea and Snacks,4.3,N/A,68,"1810 E Main St, Ste 102, Woodland, CA 95776",Woodland,38.67685500866871,-121.73709842009568
+216,kgfor09F5nc2VyZ96a1UoA,ZERO& Santa Rosa Plaza,4.2,$$,31,"1071 Santa Rosa Plz, Santa Rosa Plaza, Santa Rosa, CA 95401",Santa Rosa,38.438801,-122.716343
+217,L57MOYty_Fd5GHLjYqYNEw,Pearls Boba and Shaved Ice,4.0,$$,592,"2264 Fair Oaks Blvd, Ste 102, Sacramento, CA 95825",Sacramento,38.5737373950602,-121.41282577099
+218,74HPxc6z0RIQk1rfzoYz5g,Tea Cozy,4.8,$$,148,"1021 R St, Sacramento, CA 95811",Sacramento,38.57145925886492,-121.49661814333898
+219,H2j4yPKCXCaS4uG-NzlbKg,Pearl Novato,4.1,$$,222,"942 Diablo Ave, Novato, CA 94947",Novato,38.10408,-122.57183
+220,dqDCgRpDFugbr2-_zF5jrQ,Bella's Boba Shop,4.3,N/A,9,"563 Eleanor Ave, Sacramento, CA 95815",Sacramento,38.61698693153374,-121.4528569
+221,Xy5HeVgw1URGXiOfalHOCQ,Rose Tea Lounge - Stockton,4.1,$$,77,"5634 N Pershing Ave, Stockton, CA 95207",Stockton,37.999282,-121.325271
+222,gSn2HXoBvJHfisFhPoUySw,YiFang Taiwan Fruit Tea - Elk Grove,4.3,$$,78,"8460 Elk Grove Blvd, Ste 300, Elk Grove, CA 95758",Elk Grove,38.408733,-121.39157
+223,Lf1TlE2rHJ0ltFeMgniR0A,T% Coffee +Tea - Stockton ,4.1,$$,180,"2819 W March Ln, Ste A8, Stockton, CA 95219",Stockton,37.98524,-121.34654
+224,iAyzOp92r2-LyxZgWIlrSQ,Boba Luv,4.7,N/A,97,"1305 Gateway Blvd, Ste E4, Fairfield, CA 94533",Fairfield,38.263924,-122.05035
+225,HMVjrzabgXhhTw5CiSOWbw,Quickly,3.2,$,146,"1880 Mendocino Ave, Ste E, Santa Rosa, CA 95401",Santa Rosa,38.45832,-122.7168
+226,2LNxwDuDgZ-2WR0WB63Z_A,Teaspoon,4.6,$$,152,"110 F St, Davis, CA 95616",Davis,38.5425864530366,-121.739571881615
+227,-OZHuFqscCZnJwI4i628Hg,Pop,4.0,$,244,"563 W Clover Rd, Starbread Bakery, Tracy, CA 95376",Tracy,37.761462883573,-121.434220335483
+228,YGBix8OdS7anGZMogmQqFw,UME Tea - Sacramento,4.0,$,161,"7235 Franklin Blvd, Unit 4, Sacramento, CA 95823",Sacramento,38.49487091206937,-121.4580469319051
+229,_AiDbZWEFIRpDike_bupuA,After Hours Boba & Tea,3.9,$$,55,"800 Main St, Woodland, CA 95695",Woodland,38.67723600000001,-121.7704406
+230,_H0mM4NR1lhEiUQpHdP2GA,Quickly,3.6,$,60,"8 E Washington St, Petaluma, CA 94952",Petaluma,38.2358268680295,-122.639862857759
+231,m45Q9bBvUyJrykKoSRh2Nw,T4 Tracy ,4.1,$,256,"110 W 10th St, Tracy, CA 95376",Tracy,37.73833406203183,-121.42355109571328
+232,aevg5hGU51_KWLe3Gdoxqg,B&B Boba & Banh Mì,4.7,$,108,"137 Peabody Rd, Vacaville, CA 95687",Vacaville,38.352009,-121.974872
+233,Xm-Yd2K-tWgSjcFIflpG0A,Urban Ritual,4.2,$$,638,"140 South B St, San Mateo, CA 94401",San Mateo,37.566537,-122.323725
+234,sPYjLH6B6tEPcNYwlsrIRA,Tea 18,4.4,$$,476,"3880 Truxel Rd, Ste 700, Sacramento, CA 95834",Sacramento,38.63913,-121.50348
+235,YaPtgVlT4J1OUoJGvH_zOQ,RareTea,4.4,N/A,147,"1330 W Hillsdale Blvd, San Mateo, CA 94403",San Mateo,37.5337650304811,-122.32721986908928
+236,vHEXg3iwijfzP2-Jrqj5-Q,Sharetea Stockton,4.1,$$,92,"10318 Trinity Pkwy, Ste A, Stockton, CA 95219",Stockton,38.04903,-121.37308
+237,zFNppF_WlcuEuWSJBtmz3Q,Devil & Angel Desserts,3.3,N/A,18,"910 Admiral Callaghan Ln, Vallejo, CA 94591",Vallejo,38.1321831,-122.2217576
+238,b70F6EQdv-PrtNJ9HO57Hw,MandRo Teahouse,3.9,$$,606,"1260 Lake Blvd, Ste 102A, Davis, CA 95616",Davis,38.5541889,-121.7869827
+239,hIKqEOA80Wl0RpTr6Scaww,Bober Tea,4.1,$$,183,"959 W March Ln, Stockton, CA 95207",Stockton,37.9902028,-121.3180041
+240,3f6WZbK0dWGJuGhrYsKi4g,T% Coffee + Tea - Davis ,4.1,$$,67,"516 2nd St, Davis, CA 95616",Davis,38.54304791360931,-121.7413261
+241,9fHEHCT9PCLQoJ824tNJyQ,T4 Antioch,3.9,$$,145,"4532 Lone Tree Way, Antioch, CA 94531",Antioch,37.965628832079,-121.780964028313
+242,9N2E__lDuJ6Gypp3b-eRYQ,Dragon Tea Cafe,4.4,$$,102,"4400 Elverta Rd, Ste 180, Antelope, CA 95843",Antelope,38.712892441780056,-121.36258763109667
+243,yQe_RxSDUtdSFWn710zgZw,Sweet Straw,4.6,$$,16,"201 W Napa St, Ste 27, Sonoma, CA 95476",Sonoma,38.289934503392985,-122.46257453198416
+244,ifUg_obV56OrkR6C2-ibnA,Bober Tea,4.3,$$,754,"1801 L St, Sacramento, CA 95811",Sacramento,38.575272,-121.482722
+245,YiDHp7sBEEumtua-GtFEig,Boba & Me,3.5,$$,67,"5941 Lone Tree Wy, Ste 400, Brentwood, CA 94513",Brentwood,37.95949766522045,-121.74257757054936
+246,owjPOOxvTzhYIykQ71FNbQ,Sharetea,3.8,N/A,11,"461 Skymaster Dr, Fairfield, CA 94535",Fairfield,38.26940457186329,-121.9494441
+247,voDyoh8T6ZNZ8ZaxL0FZKw,Sweet Lab Boba Tea & Desserts,3.6,$$,175,"1401 S Lower Sacramento Rd, Ste 130, Lodi, CA 95242",Lodi,38.1150526,-121.3070681
+248,yrwUBfAFBuLZ-h_5dOVhuw,RareTea,4.3,$$,73,"2550 W El Camino Ave, Ste 13, Sacramento, CA 95833",Sacramento,38.61309,-121.51838
+249,tCjO8oR2xKEeiPqFRWaJpw,QualiTea,4.2,$$,318,"4023 18th St, San Francisco, CA 94114",San Francisco,37.760835,-122.4333314
+250,gJhNDNTZ3Xt1VKz91C2LSg,Sharetea,3.7,$,117,"220 Main St, San Mateo, CA 94401",San Mateo,37.56634534027399,-122.32264943779248
+251,81YpTDmHXim2lGhSprUCgg,Li Cha Tea,3.6,$,187,"4010 E Ave, Livermore, CA 94550",Livermore,37.68075,-121.748024
+252,vKAO9HNM4n7kGRQH18wIzA,Rose Tea Lounge - Elk Grove,4.0,$$,597,"9160 E Stockton Blvd, Ste 120, Elk Grove, CA 95624",Elk Grove,38.424965,-121.392431
+253,ogDqy21P4Il_h2J8i_y0kQ,Hay Tea,3.7,$,178,"15251 Hesperian Blvd, San Leandro, CA 94578",San Leandro,37.69783,-122.13036
+254,2BHxTEGEPcOfJsoohs-VxQ,Yummy Boba & more,4.5,N/A,50,"1960 Concord Ave, Concord, CA 94520",Concord,37.977103328131086,-122.03683147672044
+255,k_mlzQpZ0Ezw6Dg_I2EXHw,T4,3.3,$,342,"315 Broadway, Millbrae, CA 94030",Millbrae,37.601183,-122.392173
+256,Cm9Je4MW081AgQt6J75-Qw,Tea Juice,3.8,N/A,54,"1156 Laurel St, San Carlos, CA 94070",San Carlos,37.499279,-122.252735
+257,UmO9W8_9i1GddWugF4qlzQ,Devil & Angel Desserts,3.2,$$,458,"2025 Diamond Blvd, Ste F145, Concord, CA 94520",Concord,37.97100995782107,-122.0578996033897
+258,TkjZjvGrbClafjZ785y16w,TP Tea - Pleasanton,4.3,$$,136,"1987 Santa Rita Rd, Ste B, Pleasanton, CA 94566",Pleasanton,37.678762,-121.875509
+259,3mGGoTKfUZy-10mAdA6AFg,Lazi Cow - Arden Arcade,4.2,$$,483,"1582 Howe Ave, Sacramento, CA 95825",Sacramento,38.59487,-121.414055
+260,G1H4mK1J5pypARhgbOyqmg,Blend,4.8,$$,113,"8391 Folsom Blvd, Ste 8, Sacramento, CA 95826",Sacramento,38.54886014589789,-121.39472062017148
+261,WWHMzj0oNHrreDRN4T8Wfg,Ding Tea - Sacramento,3.8,$$,484,"7311 W Stockton Blvd, Ste 120, Sacramento, CA 95823",Sacramento,38.4557269777567,-121.41735590613438
+262,WzsdZ4ELg5a4g8mmICsAQA,T4,3.6,$$,362,"1215 W March Ln, Stockton, CA 95207",Stockton,37.989664,-121.3201641
+263,XJx-HmMf1M0seM3OmhSjCw,T4 Tea For,2.7,N/A,33,"2120 Springs Rd, Vallejo, CA 94591",Vallejo,38.10627,-122.21695
+264,omGi-gmogVl7jDU1Pzh4yQ,Skyview Noodle & Tea,4.3,$$,273,"200 E 3rd St, Pittsburg, CA 94565",Pittsburg,38.0329401103613,-121.882134117186
+265,ubgMoT9fLmwvPtrO2lwC5Q,Mr. Sun - Pleasanton,4.5,$$,73,"440 Main St, Pleasanton, CA 94566",Pleasanton,37.660153328662055,-121.8758518
+266,L38YS2bLjpqcBgziyFHVqQ,One Milk Tea - Sacramento,4.5,$$,327,"4443 Auburn Blvd, Unit J & K, Sacramento, CA 95841",Sacramento,38.64816734739687,-121.36071521165668
+267,gYv1rNRvTc8prBIcx8ft9A,Yum Cha Boba Tea & More,3.8,N/A,54,"380 W Country Club Dr, Brentwood, CA 94513",Brentwood,37.92631050099092,-121.7531616
+268,rU6dwohT5J1ktbU6xFswkg,Yummy House,4.1,$$,268,"2300 Sand Creek Rd, Ste G1, Brentwood, CA 94513",Brentwood,37.943042,-121.735453
+269,IGNGgvi8Y_SkAcE582sEtQ,Big-Bang Boba & Chicken,4.1,$$,162,"4383 Clayton Rd, Concord, CA 94521",Concord,37.964147,-121.989263
+270,UtCwf9qNnK-thftxalDfBA,Bubbles Tea & Dessert,3.9,N/A,21,"4532 Main St, Oakley, CA 94561",Oakley,37.989608983404565,-121.6959061067917
+271,eP4PSbb2gljnLv7wpzsqZg,Happy Lemon,4.0,$$,43,"2440 Sand Creek Rd, Brentwood, CA 94513",Brentwood,37.94159266369488,-121.7374403
+272,zTtQf-quH1yJXdHIWnWFQg,T4 Clayton,3.8,$,170,"5434 Ygnacio Valley Rd, Ste 40, Concord, CA 94521",Concord,37.950077,-121.957965
+273,fD5krGMFDY4f1ZlYfV4B4g,A tea A seat,3.6,N/A,21,"1185 2nd St, Ste G, Brentwood, CA 94513",Brentwood,37.93737180672626,-121.6997334
+274,WyjoWhOJhH8QlXC_bJkP6Q,Surf City Squeeze,4.0,N/A,3,"2556 Somersville Rd, Antioch, CA 94509",Antioch,38.0000664,-121.8419518
+275,qaq_ZrXVpV-IlSNJ7tB_kw,Milk Tea Lab,4.3,$$,118,"5100 Clayton Rd, A-13, Concord, CA 94521",Concord,37.95469,-121.96732
+276,VtfUMaCxwKRoWtnMpHGZCA,Hailey’s Sweet,4.3,N/A,10,"626 1st St, Brentwood, CA 94513",Brentwood,37.932128,-121.694027
+277,Afebgbsil7b0c_1CxkNU0g,Dessert Cafe Concord,4.2,$$,65,"4115 Concord Blvd, Ste 78, Concord, CA 94519",Concord,37.97912604298747,-121.992719
+278,sgdVw9k_HG75K5wPg4aCGw,Quickly,3.0,$,89,"4115 Concord Blvd, Ste 58, Concord, CA 94519",Concord,37.97879750393,-121.992360118228
+279,ntpDBx97eMjCGKH68gGUug,The Bay Nutrition,4.9,N/A,50,"2547 San Jose Dr, Antioch, CA 94509",Antioch,38.000966,-121.837549
+280,iK8IzjqEDIAb9aonWaFFFA,Munchy's Lounge,3.7,N/A,52,"1536 Kirker Pass Rd, Ste B, Clayton, CA 94517",Clayton,37.953488,-121.954958
+281,K_Ven827U20TUSA5p3aXuA,Ya-Ua Yogurt & Boba Tea,3.7,$,116,"1090 Alameda de Las Pulgas, Belmont, CA 94002",Belmont,37.5102232,-122.2938208
+282,69MUzuYkQKkuIOZS51RHMQ,Tea Hut,3.6,$,118,"711 Laurel St, San Carlos, CA 94070",San Carlos,37.50534604764837,-122.25939346001608
+283,mWRUJraG7Z_4JsRIlWl9CQ,Yan's Tea,4.0,$$,41,"885 Laurel St, San Carlos, CA 94070",San Carlos,37.50307,-122.25658
+284,gFl8dZrou2hNHpddplzzAA,Mr. Green Bubble,3.2,$$,101,"2986 S Norfolk St, San Mateo, CA 94403",San Mateo,37.54470507323991,-122.28481421138927
+285,I2eLJoBNZQYMv7GPh5rLbA,Bober Tea & Coffee,3.9,N/A,49,"1189 Laurel St, San Carlos, CA 94070",San Carlos,37.49922,-122.25206
+286,HZPkNjGm2D-a5mHd9W278w,Tpumps,3.8,$$,385,"985 E Hillsdale Blvd, Metro Center Plz, Foster City, CA 94404",Foster City,37.557479,-122.274868
+287,95J81ycJU6t94ATQ1aXtDw,Happy Lemon,3.5,$,237,"780 Alma Ln, Ste 170, Foster City, CA 94404",Foster City,37.559109,-122.267134
+288,FkrRGAxoD-P_Q-vDcGgFhA,Sizzling Lunch - Foster City,4.2,$$,205,"1099 Foster Square Ln, Ste 120, Foster City, CA 94404",Foster City,37.559202,-122.268071
+289,yhx6TeoQrJyveV76QVb3GQ,Uncle Tetsu,4.0,$$,636,"72 Hillsdale Shopping Center, San Mateo, CA 94403",San Mateo,37.53864390664317,-122.3012166746081
+290,e663qQuv7zxI0pc8zUIfxQ,Sharetea Hillsdale,3.0,$$,157,"78 Hillsdale Shopping Ctr, San Mateo, CA 94403",San Mateo,37.5381291954768,-122.30129547614207
+291,hOlulfm43qyf0a7dqGC-7A,Quickly,3.2,$,101,"969K Edgewater Blvd, Foster City, CA 94404",Foster City,37.544414,-122.270628
+292,WWbaBY0K6usihKHs6S_lbA,SF Gelateria,4.6,N/A,99,"2621 Broadway, Redwood City, CA 94063",Redwood City,37.48615118811773,-122.23369804492027
+293,sRfCxslZU0hE5A8YenQuLQ,Rrags Caffe,4.2,$$,236,"1383 E 2nd St, Benicia, CA 94510",Benicia,38.0543882,-122.1526928
+294,qT-_1jAtqkSiWkCi-tlBAg,Quickly Benicia,3.8,N/A,52,"822 Southampton Rd, Benicia, CA 94510",Benicia,38.06592585569405,-122.16528174455684
+295,YX2sXMTg-NCnuVGCiDkZtQ,Bober Tea & Coffee,4.2,$$,252,"1029 Arnold Dr, Martinez, CA 94553",Martinez,37.99543,-122.10837
+296,s-ihKanDRDHTD8U49HFA5Q,Lovejoy's Tea Room,4.3,$$,1385,"1351 Church St, San Francisco, CA 94114",San Francisco,37.74919,-122.42689
+297,rint9WSyhzjR1e20nbMDJw,Yifang Taiwan Fruit Tea,4.5,$$,42,"1349 Locust St, Ste B, Walnut Creek, CA 94596",Walnut Creek,37.89834505615618,-122.0621008595256
+298,YR_z_2sDCdLuEVQKLOTfeA,Milky Way Tea Shoppe,4.3,$$,21,"4288 Dublin Blvd, Ste 104, Dublin, CA 94568",Dublin,37.70449907406939,-121.87535557402212
+299,xVqhyeFFo3dBc8PLk7DEVg,Dartealing Lounge,3.9,$$,479,"470 3rd St, San Francisco, CA 94107",San Francisco,37.7815,-122.39645
+300,dNbc4h01iUXW8zsUOucKng,Teaspoon Pinole,4.4,$$,63,"1360 Fitzgerald Dr, Pinole, CA 94564",Pinole,37.986259499453006,-122.31071487519344
+301,m4H1fiJGkYAANDIpSm37Rw,Mr. Green Bubble,3.5,$$,339,"1539 Locust St, Walnut Creek, CA 94596",Walnut Creek,37.9000639934234,-122.062495370938
+302,OET95j8SPWCWiZX9LMuxOw,Teapot,3.5,$,173,"60 Golf Club Rd, Ste A, Pleasant Hill, CA 94523",Pleasant Hill,37.972,-122.0656
+303,4HZRHw82XE3LSuNHKfgjBQ,Hey! I Am Yogost,4.2,$$,253,"2725 Stoneridge Dr, Ste 107, Pleasanton, CA 94588",Pleasanton,37.69712,-121.85038
+304,f1ET_D8Dhz4R89pNli1UGA,Double Rainbow Cafe,4.2,$,278,"860 4th St, San Rafael, CA 94901",San Rafael,37.97295065863259,-122.52530604153434
+305,MaCs5PceHHsR_khVc_eWTg,Okashi Fusion,4.3,$$,810,"1679 E Monte Vista Ave, Ste 103, Vacaville, CA 95688",Vacaville,38.3700674,-121.96065810924708
+306,fVo3X5s8u6LsNWfYhRL0GA,Bobaloca,3.4,$,305,"1843 Willow Pass Rd, Park & Shop Shopping Center, Concord, CA 94520",Concord,37.975214,-122.038737
+307,tSC90pSRUyd26yIHCTzKhA,Cafe Tapioca,3.7,$,545,"7160 Regional St, Dublin, CA 94568",Dublin,37.70416,-121.93522
+308,Mv4h10gLVue99Z4alCAXVQ,Mochinut,3.8,$$$,31,"2701 Pinole Valley Rd, Ste C, Pinole, CA 94564",Pinole,37.99524312514671,-122.28522636770286
+309,FDWzJzrx2AqOvev4s7V3Ug,1011 Sip Tea,3.9,$$,308,"2127 Irving St, San Francisco, CA 94122",San Francisco,37.76314,-122.48084
+310,Uy_2_nHmgu_KLqlw5da4Bg,T4 - Walnut Creek,3.3,$,300,"1815 Ygnacio Valley Rd, Ste G, Walnut Creek, CA 94598",Walnut Creek,37.9174137,-122.0375497
+311,UyQod6MXP1Nl4G7bZB6v0A,ZERO& Stoneridge,4.2,$$,133,"1732 Stoneridge Mall Rd, Ste D107, Pleasanton, CA 94588",Pleasanton,37.69517654501347,-121.92874644457058
+312,XcSaf-QyS-QZkgdvX9uT_g,Wake Cup,4.6,$,101,"1476 Haight St, San Francisco, CA 94117",San Francisco,37.7701539,-122.446699
+313,6_hMB9raWPCEkarQHMrwuw,Devil & Angel Desserts,3.9,$$,85,"3336 N Texas St, Fairfield, CA 94533",Fairfield,38.289570599834185,-122.0322023
+314,Uvo_Eh_Fk6BGyLdl8W9Bxw,Happy Lemon,3.8,$$,163,"2701 Stoneridge Dr, Ste 101, Pleasanton, CA 94588",Pleasanton,37.6955285,-121.8495894
+315,ztIhKwfyEWfqKnAgSra7sw,Frostea,3.3,$$,203,"5032a Mission St, San Francisco, CA 94112",San Francisco,37.71802316894108,-122.4400807
+316,zG__52sXLa8pRrklRc8Q3g,Happy Lemon,4.4,$$,111,"99 Drumm St, San Francisco, CA 94111",San Francisco,37.79442,-122.39683
+317,vuPcfacHSyloUA74GtgAzw,Honeybear Boba,4.2,$$,220,"801 22nd St, San Francisco, CA 94107",San Francisco,37.75776,-122.38948
+318,rdfrRK1Z7Ib9T8HaaIjvng,BB Tea ,3.8,$$,421,"1314 Noriega St, San Francisco, CA 94122",San Francisco,37.7542929,-122.4779253
+319,SuCg3PrDIgPVURUEl_x39Q,Fat Straw Cafe,3.8,$,158,"980 Murrieta Blvd, Livermore, CA 94550",Livermore,37.6761474995967,-121.785110675949
+320,ioS4L3evy-duiPs9xTEMqw,D7N Coffee & Tea,4.4,N/A,22,"5301 Mission St, Ste B, San Francisco, CA 94112",San Francisco,37.71431,-122.44264
+321,GlHPOCV_nF8JgJF1N8wevw,Rare Tea,3.8,$,584,"2440 Bancroft Way, Berkeley, CA 94704",Berkeley,37.868449890427286,-122.26035931017456
+322,F4YgPOvuCClXTwB9PJk8Qg,Black Sugar,4.4,$$,1001,"320 O'Farrell St, San Francisco, CA 94102",San Francisco,37.78642,-122.41032
+323,SU44-YoeMfQ3VijOrSp-0Q,Virtual TeaKup SF,3.6,$$,73,"601 Mission Blvd N, San Francisco, CA 94158",San Francisco,37.770680861108374,-122.39146109329889
+324,mUfcBzEq2xzE8yXEp8lXeA,i-Tea,3.6,$$,132,"915 Main St, Pleasanton, CA 94566",Pleasanton,37.66591,-121.87418
+325,sLqsR06IpjZVILvZG5mEig,Little Sweet,4.5,N/A,25,"555 20th St, Ste 1, San Francisco, CA 94107",San Francisco,37.76059107258658,-122.3855883
+326,mf52ynzwV0h9dU788DiFGw,Hi Tea,3.3,$$,95,"2591 San Bruno Ave, San Francisco, CA 94134",San Francisco,37.72908,-122.40389
+327,vr3-AAedsZ7V7SLKmY1iQw,i-Tea,3.5,$,552,"2150 Irving St, San Francisco, CA 94122",San Francisco,37.7635307,-122.4811325
+328,-yFZPqNV3XGwMzfadm9l6A,Uji Time Dessert,4.0,$$,1006,"22 Peace Plz, Ste 440, San Francisco, CA 94115",San Francisco,37.7852847,-122.429177
+329,jxJPOjV3UWpE0wMluW68yQ,Steep Pop-Up 2024,4.7,N/A,6,"303 Second St, S 137, San Francisco, CA 94107",San Francisco,37.785437571017184,-122.3957057331481
+330,mVm6qvXJiOvjTvdlIyQwZw,Bubble Queen,4.0,N/A,57,"217 King St, San Francisco, CA 94107",San Francisco,37.77736793120978,-122.3922261
+331,j9tMEV719PzFcc_wp8mzlw,Sweetheart Cafe,3.5,$,630,"2523 Durant Ave, Berkeley, CA 94704",Berkeley,37.8680525,-122.258168
+332,JsuA08k9tqWS3YGL8KR2fQ,Yi Fang Taiwan Fruit Tea,4.0,$$,428,"2516 Bancroft Way, Berkeley, CA 94704",Berkeley,37.86868712916702,-122.258649
+333,ZpyXF5Jy1ucxT1_umGRc3A,Plentea,3.9,$,204,"2430 Durant Ave, Berkeley, CA 94704",Berkeley,37.867543,-122.259575
+334,1JAjGEY52DcoQ6tU3HBEEA,Sharetea,3.6,$$,45,"2328 Telegraph Ave, Berkeley, CA 94704",Berkeley,37.868122,-122.25929
+335,s5Yx4iwQ-bTfmmLRRL1qGQ,813 Cha Siam,4.6,N/A,22,"2965 College Ave, Berkeley, CA 94705",Berkeley,37.856839,-122.252839
+336,VHXG9_iRaxV2QU0JR21JbA,Wow Wow Hawaiian Lemonade,4.5,N/A,28,"2332 Telegraph Ave, Berkeley, CA 94704",Berkeley,37.868191,-122.259316
+337,s_uwKYHa6hqhJ4Xkb5d9IQ,Mochinut Berkeley,3.1,N/A,52,"2969 Shattuck Ave, Berkeley, CA 94705",Berkeley,37.85578451254983,-122.26637497342368
+338,bWTd4CGOd1LKUm-sbFPgmQ,Happy Lemon,4.0,$$,384,"2106 Shattuck Ave, Berkeley, CA 94704",Berkeley,37.87087,-122.26857
+339,b8ieeH8taeS7If6R7FGf8w,Organic Greens | Berkeley,4.2,$$,263,"2177 Kittredge St, Berkeley, CA 94704",Berkeley,37.8687292271306,-122.266450293734
+340,ltTQE83zSM9lqfTmz3bbzg,Caravaggio Gelato Lab,4.5,$$,447,"1797 Shattuck Ave, Ste C, Berkeley, CA 94709",Berkeley,37.8751218549228,-122.268521988134
+341,-bZmCidF9-JI4ufJhk9BHA,Humphry Slocombe - Berkeley,3.7,$$,113,"2948 College Ave, Berkeley, CA 94705",Berkeley,37.85726,-122.2533
+342,LNdmk-ZXmTE8a2xQGL3OeQ,Yogurt Park,4.3,$,1020,"2433 Durant Ave, Ste A, Berkeley, CA 94704",Berkeley,37.8679885864258,-122.259841918945
+343,FwZBCCliGJF26eJ4eL9Baw,Menchie's Frozen Yogurt,4.3,$,193,"1862 Euclid Ave, Berkeley, CA 94709",Berkeley,37.875323,-122.260386
+344,z4hs0U7K8Bq9nUwYU9k1pQ,The Burrow,4.4,$$,213,"109 Visitacion, Brisbane, CA 94005",Brisbane,37.68345371618563,-122.4029527440629
+345,cZWxRNIbH-AEHxqD7EynbA,Ten Ren Tea Company,4.8,$$,8,"419 Eccles Ave, South San Francisco, CA 94080",South San Francisco,37.6573234105139,-122.395812695062
+346,pSVzNRoyaGZJ_hbm0T_tVg,Nameless Tea & Coffee,3.7,$,102,"981 Geneva Ave, San Francisco, CA 94112",San Francisco,37.715926,-122.439534
+347,vt7oGi83g4q3PICj-SXCOA,Mission Blue,5.0,$$,182,"144 Leland Ave, San Francisco, CA 94134",San Francisco,37.71242,-122.40625
+348,KzCFzM46wAy0Bxgu3DwT6w,Teazzert Pho You,4.5,$,111,"880 Geneva Ave, San Francisco, CA 94112",San Francisco,37.716798,-122.441454
+349,0cOWy_tLhszUgzoiAUdGDg,Mr. T Cafe,4.0,$$,298,"4689 Mission St, San Francisco, CA 94112",San Francisco,37.72322,-122.43556
+350,3Qq-WqUWGD1VPAw3B5nviA,Panda Boba,3.6,$,79,"2763 San Bruno Ave, San Francisco, CA 94134",San Francisco,37.7269,-122.403065
+351,vAIHU9GjFLSquh4VkFLIhg,Ty Sandwich,4.4,$,541,"4829 Mission St, San Francisco, CA 94112",San Francisco,37.720911,-122.4374776
+352,VXU2FuAOiB-BzwPNMsMY4A,Lilikoi on Broadway,4.7,N/A,19,"1355 Broadway, Burlingame, CA 94010",Burlingame,37.585065,-122.365325
+353,gM32Rp-wQWV2uwx_gaNHrA,Ume Tea,4.3,N/A,103,"405 Broadway, Millbrae, CA 94030",Millbrae,37.6016709292081,-122.3929323256016
+354,mP-yvVc3Tf_VILkM1w8MdQ,Mints & Honey,4.2,$$,390,"1166 Howard Ave, Burlingame, CA 94010",Burlingame,37.57816154261475,-122.34473833162724
+355,uu31MmYPCXbUJoy2l7cgVA,Happy Lemon,4.1,$,320,"1419 Burlingame Ave, Ste A, Burlingame, CA 94010",Burlingame,37.5773026,-122.3486125
+356,AYt_jNBzzVScvYNRFSaQNw,BAMBU,4.0,$,575,"153 South B St, San Mateo, CA 94401",San Mateo,37.5665365,-122.3232678
+357,jfZ8ueH2I6XfNmUqdCTzhQ,Bigz Boba,3.6,N/A,26,"1115 Burlingame Ave, Burlingame, CA 94010",Burlingame,37.579276057525206,-122.3457131
+358,-8oi7a2g_eeTRR5c7jxnRA,Tpumps - Burlingame,3.9,$,546,"1118 Burlingame Ave, Burlingame, CA 94010",Burlingame,37.5794379623736,-122.34590301239
+359,DWFE92L-OkD-uNeTpdTbdA,Teaspoon San Mateo,3.8,$$,604,"128 E 3rd Ave, San Mateo, CA 94401",San Mateo,37.564318,-122.3238431
+360,pA8NIgMQkpYJcYz50rwbrg,BAMBU,3.9,$,189,"203 El Camino Real, Millbrae, CA 94030",Millbrae,37.60035,-122.3901
+361,hVTdBHiXFr0mJismnAx8Cg,Sweet Indulgence,3.2,$$,668,"298 Broadway, Millbrae, CA 94030",Millbrae,37.600818,-122.391464
+362,Jz6KonwiyY483c3nr3tPUw,TeaEver,3.3,$$,175,"153 El Camino Real, Millbrae, CA 94030",Millbrae,37.599493,-122.389324
+363,gxbBro3yYzZzMe4ttwMf9A,Shuyi Grass Jelly & Tea,3.8,$$,112,"165 E 4th Ave, San Mateo, CA 94401",San Mateo,37.56413,-122.322948
+364,MtnrSw3pvLJbAQ5-5GPcSA,Simple One Cafe,4.0,$$,290,"2025 Gellert Blvd, Ste 202, Daly City, CA 94015",Daly City,37.65014,-122.45387
+365,jdctS17BdwQPOiz6QsXCNA,Boba Bless,5.0,N/A,60,"16 E 3rd Ave, San Mateo, CA 94401",San Mateo,37.563171,-122.325358
+366,CSIH_v9v5z7-0sgw3bGZaQ,Happy Lemon,3.6,$$,355,"1150 El Camino Real, Ste 170, San Bruno, CA 94066",San Bruno,37.63633,-122.418035
+367,7dUJmq4oM-RjaP9gyis7ZQ,Somisomi,4.2,$,236,"134 S B St, San Mateo, CA 94401",San Mateo,37.56639,-122.32371
+368,yu1KtUQT0TeLdpg_o8jBgw,The Partea Girl,5.0,N/A,5,"San Mateo, CA 94401",San Mateo,37.574346,-122.318317
+369,OzmKmEK0Ripui13hQ_9niA,Quickly,2.6,$,268,"1212-A El Camino Real, San Bruno, CA 94066",San Bruno,37.6389399219902,-122.421132050401
+370,XWUI0BwbhGnyl0RION9pJw,La Matcha Cafe,4.6,$,116,"1828 El Camino Real, Ste 102, Burlingame, CA 94010",Burlingame,37.59570884712988,-122.38382323104524
+371,Nb7z1c8jcDozrE-T0OW3hQ,Waterfront Cafe,4.7,$,20,"500 Airport Blvd, Ste 121, Burlingame, CA 94010",Burlingame,37.590323,-122.34142
+372,KMdzW4QetmhXwFTWtVHw0Q,Yifang Taiwan Fruit Tea,4.0,$$,135,"110 S B St, San Mateo, CA 94401",San Mateo,37.56676,-122.324
+373,5p6VBcv9Gny-0kE8Fg5kMQ,Jolly's Old-Fashioned Teas Cream,3.9,N/A,17,"216 Park Rd, Burlingame, CA 94010",Burlingame,37.57772,-122.34575
+374,DIGyDs-nUaQ0r-r-nEC21Q,Sweet Moment,3.9,$,457,"137 E 3rd Ave, San Mateo, CA 94401",San Mateo,37.5648129008036,-122.323827428358
+375,heU4BP6EbA9qMhRFcmimCg,Deja Vu,3.8,$$,223,"1109 Burlingame Ave, Burlingame, CA 94010",Burlingame,37.5795059,-122.3454742
+376,59J7CIiAss8fj3ehU4lGUA,Tong Sui,4.7,$$,488,"250 S B St, San Mateo, CA 94401",San Mateo,37.56572424786998,-122.32283035214957
+377,hDYylx6C3xvCJWshKs_Dsg,Dessert Republic,3.4,$,877,"138 Main St, San Mateo, CA 94401",San Mateo,37.56696749123142,-122.32334077409143
+378,5fud7kjOn1DIXCkeIfaQIQ,Quickly,1.9,$,268,"2288 Westborough Blvd, Ste 102, South San Francisco, CA 94080",South San Francisco,37.6436261,-122.4528791
+379,PSJK9_xorQCplIlOzjMNQQ,Meet Fresh,2.6,$$,448,"277 S B St, San Mateo, CA 94401",San Mateo,37.56579,-122.3223
+380,hiomnLldgu9l1Oka8fUBXg,Boba Guys at Local Kitchens,3.3,N/A,8,"851 Cherry Ave, Ste 2, San Bruno, CA 94066",San Bruno,37.62681361118622,-122.42553333292112
+381,dLbNCk0hioZ8uozb9wjYvA,Sugarcane HQ,4.9,$$,120,"586 San Mateo Ave, Ste A, San Bruno, CA 94066",San Bruno,37.626167370396566,-122.4110437
+382,EGegSXie_KkE84LqnzS0HQ,ICICLES,3.7,$$,285,"222 E 3rd Ave, San Mateo, CA 94401",San Mateo,37.5652199,-122.3225
+383,dOpmPPnkphyzZ_qZtXybCw,Snacks,4.4,$,193,"31 N B St, San Mateo, CA 94401",San Mateo,37.5683428,-122.3254578
+384,vLZ8Kiwqx_iTsbttfD4uHw,Ceré Tea,4.5,$$,211,"18568 Prospect Rd, Saratoga, CA 95070",Saratoga,37.29184668142269,-121.99609869178572
+385,urjr9eJ0SEJH7OPhtp3VHg,Breaktime Tea,4.1,$$,168,"199 E Campbell Ave, Campbell, CA 95008",Campbell,37.28718,-121.946507
+386,GKUNap0t51Y1wtpEarfe2Q,TaoTaoTea,4.4,$,276,"18472 Prospect Rd, Saratoga, CA 95070",Saratoga,37.29148,-121.9941
+387,pWn6dijumniXwr5RK3ruuA,TP Tea,4.1,$$,1089,"10787 S Blaney Ave, Cupertino, CA 95014",Cupertino,37.3112547375622,-122.02363193914
+388,gCbzyFjHOosYV0XdRh1IAQ,Teaspoon,4.1,$$,291,"1875 S Bascom Ave, Ste 160, Campbell, CA 95008",Campbell,37.28845624187831,-121.93405266237752
+389,laFiDARYH61jIi0EaLcyJw,Steepers,4.6,$$,172,"346 E Campbell Ave, Campbell, CA 95008",Campbell,37.28691,-121.94397
+390,LGShCCNcVCYRflmkjSoIFw,Ice Splash,4.5,N/A,82,"2475 Winchester Blvd, Campbell, CA 95008",Campbell,37.278584,-121.950764
+391,7VPsGfRbH_ok0ft4s61u5Q,Boba Drive,4.1,$,56,"2067 Camden Ave, San Jose, CA 95124",San Jose,37.262923,-121.934198
+392,WUocSCRKdWD5R3FIu2UrUw,Tzone Winchester,3.7,$,512,"980 S Winchester Blvd, Ste 20, San Jose, CA 95128",San Jose,37.3094676,-121.949733
+393,t4Q4hajf0ia6iE1VWoiAIw,Cozy Tea Loft,4.4,$$,124,"5152 Moorpark Ave, Ste 50, San Jose, CA 95129",San Jose,37.308865,-121.994167
+394,HBCcOvdTTrODvt95x0Vcvg,Ume Tea,4.8,N/A,47,"4750 Almaden Expy, Ste 136, San Jose, CA 95118",San Jose,37.26140164304566,-121.8758239
+395,3tLIr1YQs5IWhpw3qv7haA,Rose Tea Lounge - Cupertino,4.3,N/A,15,"20080 Stevens Creek Blvd, Cupertino, CA 95014",Cupertino,37.32268913702091,-122.0246713
+396,CCKUGXW9gEu67KuBfd5wqw,UJU,3.8,N/A,53,"969 Story Rd, Unit 6081, San Jose, CA 95122",San Jose,37.332173,-121.858166
+397,-v1DQpkVVo5iX5BnfL8mlw,Ten Ren Tea,4.2,$,1104,"10881 N Wolfe Rd, Cupertino, CA 95014",Cupertino,37.3356575,-122.01493846429145
+398,5X60AuJ7APzhf9UIaO2jYw,Tea Top,4.2,$,576,"6158 Bollinger Rd, San Jose, CA 95129",San Jose,37.3103156,-122.0122607
+399,F8VDKP9c6RmMP482XpqclQ,Chicha San Chen,4.0,$$,821,"20688 Stevens Creek Blvd, Cupertino, CA 95014",Cupertino,37.322569805233165,-122.03480545618984
+400,Jye8Go730o3EEwLd-SV-5Q,Happy Lemon,4.1,$,151,"5379 Prospect Rd, San Jose, CA 95129",San Jose,37.293028,-121.996991
+401,zBm2WwhrrMVa7Wqecfv5og,7 Leaves Cafe,4.0,$,629,"375 Saratoga Ave, San Jose, CA 95129",San Jose,37.321751,-121.971619
+402,Iv8A4PN5rSTPn-OHryWIZA,7 Leaves Cafe,3.9,$$,239,"330 E Hamilton Ave, Campbell, CA 95008",Campbell,37.2940392152753,-121.94442609545132
+403,wRndEdzhrOsNEw53w0t9Nw,TEAZENTEA Saratoga,4.8,N/A,17,"14410 Big Basin Wy, Ste D, Saratoga, CA 95070",Saratoga,37.25876083908201,-122.0322672943548
+404,Am53YFKjoEjen49EQMbU5A,Mr Sun,3.9,$$,504,"20950 Stevens Creek Blvd, Cupertino, CA 95014",Cupertino,37.3226738334968,-122.0405223944291
+405,nn8PuuVImVFCS9_6abL6zw,Boba Pub,3.8,$,631,"1576 Branham Ln, San Jose, CA 95118",San Jose,37.25336,-121.9015
+406,QJxQCJQ-mGkcGT774BcCuw,Gong Cha,3.5,$,555,"1600 Saratoga Ave, Ste 115, Westgate Center Mall, San Jose, CA 95129",San Jose,37.29185,-121.98819
+407,NUa-0CTmZvPJ9I6EWsyoNQ,Boba Guys,3.8,$$,310,"378 Santana Row, Ste 1115, San Jose, CA 95128",San Jose,37.319509807133215,-121.9475639213554
+408,2o6AJMSIcQ1TpgFtkLT8Hg,Snowtime,4.6,$$,187,"715 W Hamilton Ave, Ste 1130, Campbell, CA 95008",Campbell,37.294708,-121.96233
+409,zDEKnU5zzxsBFEvbFbjotQ,Wanpo Tea Shop,4.2,$,245,"19319 Stevens Creek Blvd, Cupertino, CA 95014",Cupertino,37.32333492711171,-122.0069328
+410,xwUvFa57OFRtrb08_BAwXw,N7 Draft Tea + Coffee,4.2,$$,356,"4306 Moorpark Ave, San Jose, CA 95129",San Jose,37.31563,-121.977222
+411,gQInCoEeqCNiSuomfFPkwA,Sweet Gelato Tea Lounge,4.5,$$,2136,"979 Story Rd, Ste 7084, San Jose, CA 95122",San Jose,37.3313361147367,-121.857381949738
+412,l1uK3EbHFw1XbjX4icdLkw,OMG Tea,3.9,$$,255,"1171 Homestead Rd, Ste 115, Santa Clara, CA 95050",Santa Clara,37.34866,-121.94616
+413,Ffsi-SfLkeB8rsF3IvZiQg,Sunright Tea Studio - Sunnyvale,4.3,$$,744,"795 E El Camino Real, Sunnyvale, CA 94087",Sunnyvale,37.35660211284258,-122.01728449048878
+414,xb3-LZYK9Y-H9NcrwHFetw,Tea Fermata,4.1,$,169,"47 N Santa Cruz Ave, Los Gatos, CA 95030",Los Gatos,37.223969,-121.9834061
+415,Y8cb0323lHRxUFWtrVWYRg,Happy Lemon,4.3,$$,835,"20488 Stevens Creek Blvd, Ste 2040, Cupertino, CA 95014",Cupertino,37.32258,-122.03121
+416,5YfQzfTvhzH53TL7feitzw,Gong cha Willow Glen,4.6,$$,37,"1087 Meridian Ave, Ste 10, San Jose, CA 95125",San Jose,37.3046627408436,-121.91413674174434
+417,uzXxUakuyCdh8Rrmz8GmLQ,T4 a cup of tea,3.2,$$,106,"15545 Union Ave, Los Gatos, CA 95032",Los Gatos,37.242834,-121.932355
+418,m86MliEgdPGGtaDobRCtyg,Beastea,4.1,$$,431,"2785 El Camino Real, Santa Clara, CA 95051",Santa Clara,37.35297,-121.97705
+419,Ji1Bbag7-rjEnElcljAf7Q,Teaspoon,4.0,$$,307,"3450 El Camino Real, Ste 103, Santa Clara, CA 95051",Santa Clara,37.35164,-121.99101
+420,63It3KoDNrhx3dauplTf-A,I-Tea SR,4.9,N/A,11,"1510 Monterey Rd, Ste 30, San Jose, CA 95110",San Jose,37.3147,-121.871324
+421,2Ta4aQMyiabTHrm2kSjVPw,Calibear Cyber Cafe,4.4,$,278,"1336 S Mary Ave, Sunnyvale, CA 94087",Sunnyvale,37.350963,-122.049565
+422,PWq5vbC4IcPa_cnRNYvj9g,Boba Pup,3.6,$$,283,"1080 Kiely Blvd, Santa Clara, CA 95051",Santa Clara,37.3459535515411,-121.9791525819904
+423,Y40PICLfP8GypNa0lgDA-A,Milk Tea Lab,3.7,$$,371,"1601 Branham Ln, Spc 3, San Jose, CA 95118",San Jose,37.253381,-121.903175
+424,Xz6-BIQ7GgJ2Vf_cvivAAQ,K Cafe Patisserie & Tea House,3.6,$$,1053,"923 S Bascom Ave, San Jose, CA 95128",San Jose,37.30953,-121.93215
+425,8Z36YI8d9Ji_59T8vicEsw,Auzzy The Bear,4.4,$$,65,"33 E Main St, Los Gatos, CA 95030",Los Gatos,37.22161,-121.98074
+426,IsDySxI5ARi9jIXo0hqTsg,Lilikoi Boba,4.0,N/A,86,"5205 Prospect Rd, Ste 135, San Jose, CA 95129",San Jose,37.29274,-121.9919
+427,Xtth_852Xe8ZkicsokL-9w,Jiaren Cafe,4.4,$$,504,"1171 Homestead Rd, Ste 140B, Santa Clara, CA 95050",Santa Clara,37.34855903388084,-121.9457352410898
+428,Ps8tEZjklbROFuf_RHNkKw,O2 Valley,4.4,$$,539,"19058 Stevens Creek Blvd, Cupertino, CA 95014",Cupertino,37.322543,-122.0058113
+429,sIX8t5osbOR8TTc00EkW9Q,Ume Tea,4.1,$$,781,"10887 N Wolfe Rd, Cupertino, CA 95014",Cupertino,37.335783,-122.01567
+430,s-3mL5DKsGg8ZfrOdjIiQA,Tapioca Express,3.7,$$,653,"81 Curtner Ave, Ste 40, San Jose, CA 95125",San Jose,37.30300767585449,-121.86473213869247
+431,BgWCbMJEBkB97EKFeqML5w,CAFFE:iN - Santa Clara,4.2,N/A,167,"2421 The Alameda, Ste 101, Santa Clara, CA 95050",Santa Clara,37.34495,-121.93441
+432,Q0s4evO-h2RHNGRr5QFBAA,Tea Era,3.7,$,830,"20916 Homestead Rd, Ste F, Cupertino, CA 95014",Cupertino,37.33718615373284,-122.04036263043756
+433,SAhmG1WzFdS4lpX7A-nt-Q,Teaspoon Saratoga,3.9,$,857,"4328 Moorpark Ave, San Jose, CA 95129",San Jose,37.3157651,-121.9782757
+434,gtibpAMLxdWUFh5hEJQ5eA,Wow Tea Drink,4.0,N/A,85,"19505 Stevens Creek Blvd, Ste 102, Cupertino, CA 95014",Cupertino,37.32328,-122.01283
+435,wjNtmxZ30SIp4yQxKLu3oQ,TP Tea,3.9,$$,227,"925 Blossom Hill Rd, San Jose, CA 95123",San Jose,37.2517892,-121.8657786
+436,3QdXVo0Q0B9lPfH0BWUCUg,Izumi Matcha,4.4,$$,345,"19740 Stevens Creek Blvd, Cupertino, CA 95014",Cupertino,37.32181926916682,-122.01809194458608
+437,ohJFdFxPYgELfVfUdOVa-Q,Matcha Cafe Maiko,4.5,$$,277,"2855 Stevens Creek Blvd, Ste 9254, Santa Clara, CA 95050",Santa Clara,37.32611803451168,-121.94560890344547
+438,0j6Aqhm8YIWZhGzGvEiNyQ,Sunright Tea Studio- San Jose,4.4,$$,89,"1401 W San Carlos St, San Jose, CA 95126",San Jose,37.32371760335851,-121.914036203466
+439,y-mz7YDamI9dNwa-9io4xQ,Lilikoi Boba,3.9,$$,137,"1228 Lincoln Ave, San Jose, CA 95125",San Jose,37.30628,-121.89919
+440,YnxCCpifPOHg0YHp-oIE0A,Tea Lyfe Drinks,4.0,$$,1191,"989 Story Rd, Ste 8018, San Jose, CA 95122",San Jose,37.3323443189417,-121.857742217231
+441,44nT_uh-OqlSL-bUBpH40w,Babo Boba Cafe,4.0,$$,169,"19960 Homestead Rd, Cupertino, CA 95014",Cupertino,37.33695271218115,-122.02246426237728
+442,NFGHbLU0we3NrPy7V6NKIA,Ding Tea,4.2,N/A,39,"88 E San Carlos St, San Jose, CA 95112",San Jose,37.33224556770218,-121.8853658175819
+443,-Hpc5mnAEIkNjd_TK-3Fvw,Teaqueria,4.4,$$,297,"894 Emory St, San Jose, CA 95126",San Jose,37.340702,-121.917644
+444,YtacX8mcIV5HkxUSsNkWHw,R&B Tea - San Jose,3.1,$$,228,"929 Story Rd, Ste 2039, San Jose, CA 95122",San Jose,37.33227887703843,-121.85884980222184
+445,ODeBeh44LaJnFKeSgqBRcw,R&B Tea - Santa Clara,3.3,$$,248,"2855 Stevens Creek Blvd, Ste 2456, Santa Clara, CA 95050",Santa Clara,37.32604869882355,-121.9441136159456
+446,rLVARsQCSoc3cHnYIWZgRA,Pink Pink Tea Shoppe,4.3,$$,394,"2855 Stevens Creek Blvd, Ste 2299, Santa Clara, CA 95050",Santa Clara,37.32543840209093,-121.9455351300357
+447,pURfosgtSwdyGM6qN_3_ew,Macu Tea - Cupertino,3.9,N/A,49,"10445 S De Anza Blvd, Unit 103, Cupertino, CA 95014",Cupertino,37.316838465743466,-122.0338243988214
+448,HfO9nHCxnBO8my8wUT51pA,Boba Bar,3.7,$,655,"310 S 3rd St, San Jose, CA 95112",San Jose,37.332423,-121.884592
+449,CJoHqj5BZPjVCWVKQy6jOQ,Gong Cha,4.0,$,168,"1641 Hollenbeck Ave, Sunnyvale, CA 94087",Sunnyvale,37.33929,-122.04255
+450,jzhQs68BV9WnzNif-ZJOag,BAMBU,3.7,$$,332,"949 Mclaughlin Ave, San Jose, CA 95122",San Jose,37.33409,-121.8559
+451,HZFDC51aNd4RkOUlh28ZZQ,Jasmine Kocha,4.2,$$,196,"3129 Meridian Ave, Ste 20, San Jose, CA 95124",San Jose,37.26882,-121.90573
+452,wXcogVq77mvdGcji2MF_aQ,T% Coffee + Tea - Santa Clara,4.0,$$,265,"3030 El Camino Real, Santa Clara, CA 95051",Santa Clara,37.35159,-121.981496
+453,cSUaarsW2iWC9Ul7YEEyyw,Orange Square,4.0,$$,258,"2605 Homestead Rd, Santa Clara, CA 95051",Santa Clara,37.3400451313842,-121.9727835770976
+454,ZsiuGbHCJUsjvKU5sY7qVA,Boba Guys at Local Kitchens,3.3,N/A,13,"21666 Stevens Creek Blvd, Cupertino, CA 95014",Cupertino,37.322757637004855,-122.053518
+455,XFJPThNHiuo9v6f9jdzXIQ,Nha Cafe,4.8,N/A,152,"2006 El Camino Real, Santa Clara, CA 95050",Santa Clara,37.35198,-121.961143
+456,GIvRTs14uMe6MVtabqtRHg,Orange Square - Cupertino,4.3,N/A,31,"20343 Stevens Creek Blvd, Cupertino, CA 95014",Cupertino,37.32355,-122.02954
+457,__1u_aMbKuUJDYigwvAvSQ,Creative SIPS,4.3,$$,36,"San Jose, CA 95128",San Jose,37.3136978149414,-121.946624755859
+458,f6DWEGW0CUjwji79Q2w5ZA,Kung Fu Tea,3.6,$$,229,"457 Saratoga Ave, San Jose, CA 95129",San Jose,37.319759,-121.974874
+459,cQJqlnADNw4GQgsOo1ifVw,Iscu Tea,4.4,$,83,"387 S 1st St, Ste 120, San Jose, CA 95113",San Jose,37.330192,-121.886535
+460,lk8uabbBY45bJt2BYXf1BA,Chu Choa Tea,4.4,N/A,5,"949 Ruff Dr K15, San Jose, CA 95110",San Jose,37.34952,-121.9123
+461,jNPqeweU9yLaVRhDUyhkAg,T4 - Los Gatos,4.1,N/A,9,"15545 Union Ave, Los Gatos, CA 95032",Los Gatos,37.242796370058166,-121.93233119368055
+462,vF9eq5cuVqWH5V64AHfLOA,Feng Cha Tea House,4.1,$$,47,"5353 Almaden Expy, Ste M26, San Jose, CA 95118",San Jose,37.25106542184431,-121.8792431918546
+463,az6ksrNQp3Orf82zihRaQA,Cotton Cafe & Tea Wheel Pie,3.7,N/A,26,"949 Ruff Dr, Ste K32, San Jose, CA 95110",San Jose,37.34951,-121.91216
+464,KziD2xJxCLXLAp3kum0PFg,T-Square Coffee & Tea,4.7,$$,151,"1102 Bird Ave, Ste 20, San Jose, CA 95125",San Jose,37.311101,-121.89518
+465,_hCZVy-xj4Udl4-jimaWsw,Fantasia Coffee & Tea,3.9,$$,1211,"10933 N Wolfe Rd, Cupertino, CA 95014",Cupertino,37.3361159244324,-122.015890307529
+466,WEiX3Bgxy3c_c7Wk5v6ezA,Tong Sui,4.5,N/A,75,"2855 Stevens Creek Blvd, Ste 2337, Santa Clara, CA 95050",Santa Clara,37.325372,-121.945398
+467,BxvjGQw3Jx5J23UzSrs2dg,Aloha Fresh,4.4,$$,604,"225 Jackson St, San Jose, CA 95112",San Jose,37.3493323363192,-121.89401664085
+468,gG03VL-YqchZswPM0CiqYQ,Lucky Tea,3.6,$$,280,"2855 Stevens Creek Blvd, Ste 2170, Santa Clara, CA 95050",Santa Clara,37.325292,-121.947217
+469,LuDHcsEL6lEyqO_kINAL5g,Rabbit Rabbit Tea,3.6,$$,512,"2855 Stevens Creek Blvd, Santa Clara, CA 95050",Santa Clara,37.325523,-121.946402
+470,r0t_6HvX0FTnpvAxsjOXyw,Teaspoon,4.2,$$,146,"4750 Almaden Expy, Ste 116, San Jose, CA 95118",San Jose,37.2616155106052,-121.87559156569218
+471,q_ikJBwwrBx6utuJcaguUw,Taro’s Boba Bar ,5.0,N/A,20,"San Jose, CA 95112",San Jose,37.34442439472216,-121.88350909156196
+472,m1GUQ9xTFnbF0s-vyMU5Sg,Milk Tea Lab,3.8,$,146,"1175 East Julian St, Ste 40, San Jose, CA 95116",San Jose,37.3514594,-121.8717155
+473,TR_XNE7esPIqAboI_Lxj5Q,Lacàphê,4.4,$$,630,"740 Story Rd, Ste 5, San Jose, CA 95122",San Jose,37.328851143881224,-121.85826450214076
+474,D--5kG1Vxjwg3NhxtPOFRQ,Teaologist,3.9,N/A,12,"96 E Santa Clara St, San Jose, CA 95113",San Jose,37.33690923053928,-121.8885233
+475,tzggr5Os_Ks0n4tjYfmRfA,Feng Cha - San Jose,4.5,N/A,13,"5353 Almaden Expy, Ste M26, San Jose, CA 95118",San Jose,37.25116660232335,-121.87922374567408
+476,tHmSy4HrLlP3OUjwsiFrjg,ZERO& Cupertino Village,4.0,$$,84,"10815 N Wolfe Rd, Ste 102, Cupertino, CA 95014",Cupertino,37.335499,-122.014655
+477,-ALbvsKKmj7SAoDW8kSbUw,Shihlin Taiwan Street Snacks,4.0,$$,22,"10445 S De Anza Blvd, Ste 102, Cupertino, CA 95014",Cupertino,37.316699,-122.033824
+478,2ZobdeSIEukkWfoBgFa9zA,Tpumps,4.2,$$,198,"7290 Bollinger Rd, San Jose, CA 95129",San Jose,37.3121295472596,-122.031830782864
+479,YSKAK_3Gb0iovtBk7eSUPA,7 Leaves Cafe,4.3,$$,202,"11111 N Wolfe Rd, Cupertino, CA 95014",Cupertino,37.33726010896906,-122.01467138445332
+480,b71-knMDIRTQc2AJ3mxycQ,Tan-Cha,4.1,$$,227,"2706 Homestead Rd, Santa Clara, CA 95051",Santa Clara,37.338263,-121.974385
+481,rgp9qx5S5FoEaCnRmoRs8g,Sharetea,3.4,$$,313,"2855 Stevens Creek Blvd, Santa Clara, CA 95050",Santa Clara,37.325649,-121.946112
+482,2icqjmaL61k-Lw0Uya6S5g,Yi Fang Taiwan Fruit Tea,3.4,$$,234,"1147 S De Anza Blvd, San Jose, CA 95129",San Jose,37.3047055,-122.033181
+483,k6G6EMUaDEMZ03ZSG4U9Tw,Tea Alley,3.5,$,187,"40 S 1st St, San Jose, CA 95113",San Jose,37.33544000053426,-121.88985251165673
+484,yoTeM7vyZD3D93QW7vD8eA,Meet Fresh,3.0,$$,1479,"19449 Stevens Creek Blvd, Ste 120, Cupertino, CA 95014",Cupertino,37.324468,-122.011184
+485,iMxvmdSfcBk0EnJAOrAKqA,Mr. Green Bubble,3.5,$$,31,"10118 Bandley Dr, Ste G, Cupertino, CA 95014",Cupertino,37.32471136217948,-122.03415564108892
+486,Fd_4uo02Okw3lWW8Ghil9Q,Tastea,4.0,$$,107,"979 Story Rd, Ste 7075, San Jose, CA 95122",San Jose,37.331383,-121.857336
+487,G_kNDp6zC39woiEyUsc0ag,Tleaf Teapresso,3.8,$,351,"860 Blossom Hill Rd, San Jose, CA 95123",San Jose,37.248688599353,-121.857970789389
+488,G8uWLQLHlvWHBfNUm2ayGg,Cafe LaTTea,3.8,$,1005,"19501 Stevens Creek Blvd, Ste 101, Cupertino, CA 95014",Cupertino,37.323241317778,-122.012261466162
+489,4hc7siWI1hG_orZ2cChpHg,Bitter Sweet,3.9,$$,1165,"20560 Town Center Ln, Cupertino, CA 95014",Cupertino,37.3181638185566,-122.03151641898
+490,9qiWRFH9Va7Lznnw1o_U3Q,Shake Tea,4.1,$,141,"925 Blossom Hill Rd, Ste 1378, San Jose, CA 95123",San Jose,37.25199,-121.86203
+491,FN5KWmNXUskTVPq8rAERrQ,Sinceretea,4.2,$$,474,"392 E Taylor St, San Jose, CA 95112",San Jose,37.3529399,-121.89176
+492,F9QzmEEkaxuIjrTdSPWMGQ,Hui Lau Shan,4.3,$$,741,"19620 Stevens Creek Blvd, Ste 190, Cupertino, CA 95014",Cupertino,37.32223828618734,-122.01667093695076
+493,7Tc6icuUa4dvMS4ncCPU-A,Fancy Flavors,4.4,$$,292,"1645 Saratoga Ave, Ste 20, San Jose, CA 95129",San Jose,37.29294204994949,-121.99132629344004
+494,-2uqO831mNvqTVrc7rzjLA,Cocohodo,4.0,$,660,"1082 E El Camino Real, Ste 6, Sunnyvale, CA 94087",Sunnyvale,37.3517264451999,-122.002505609904
+495,2to40TAguN26WJ5ifjqxoQ,Phuc Long,3.4,N/A,173,"979 Story Rd, Ste 7000, San Jose, CA 95122",San Jose,37.33102400596112,-121.85714817549992
+496,8iInQnTeLQ17nCtjlE7szQ,An Vat Co Beo,3.3,N/A,27,"226 W Alma Ave, Ste 50, San Jose, CA 95125",San Jose,37.31308526795148,-121.87808609772918
+497,v8DV5tTlbY0DArST1HImmQ,Tea Degree,4.2,N/A,5,"211 S 9th St, San Jose, CA 95112",San Jose,37.3364857518089,-121.881077128665
+498,KskPUra-j2ZJ0ukJ_6tjLA,Tea Plus,3.7,$,101,"2421 The Alameda, Ste 101, Santa Clara, CA 95050",Santa Clara,37.3450526014,-121.934343044
+499,S0VBBKmgAweGQoEveqVHIA,Friends Coffee & Tea,4.7,$,69,"1029 S Bascom Ave, San Jose, CA 95128",San Jose,37.306856,-121.93233
+500,cMAaIxvaz4UI45iY-fpKcQ,Teazu,3.5,$,373,"969 Story Rd, Ste 6033, San Jose, CA 95122",San Jose,37.3323285394546,-121.858550940763
+501,IXBx-wWKa6vI-WYJ775l9A,Tan-Cha,3.4,$$,616,"19600 Vallco Pkwy, Ste 100, Cupertino, CA 95014",Cupertino,37.32538524309171,-122.0114917022174
+502,C-aJW3qzATQIemOlJ2O5lw,Hanlin Tea Room - Cupertino,3.8,$$,148,"10271 Torre Ave, Cupertino, CA 95014",Cupertino,37.318547,-122.029552
+503,EwRn6VVZ8Fctp-HbkSAkUQ,Soyful Desserts,4.0,$$,756,"999 Story Rd, Unit 9048, San Jose, CA 95122",San Jose,37.33169,-121.856804
+504,DemQ4xwoGqdSZKOk0BqF3Q,QQQ Tea,3.4,$,142,"1600 S De Anza Blvd, Ste 20, San Jose, CA 95129",San Jose,37.29537,-122.03138
+505,l-JMdvz1ISKc_TnPNHNnqw,Tea Villa,3.6,N/A,20,"2215 The Alameda, Santa Clara, CA 95050",Santa Clara,37.34455404736285,-121.9324096978865
+506,by5pL5x2x7OOmETZgAkMlA,Breaktime Tea,3.8,$,668,"110 E San Fernando St, San Jose, CA 95112",San Jose,37.33534,-121.88654
+507,LGLAYY_41k32zc5vh7Ncew,Honeyberry,3.6,$,1091,"3488 El Camino Real, Santa Clara, CA 95051",Santa Clara,37.3515681496377,-121.992844729458
+508,TCox67R045ISb4zaCMFKag,One Zo,2.8,N/A,10,"925 Blossom Hill Rd, Ste 1384, San Jose, CA 95123",San Jose,37.25262976677078,-121.86474314799877
+509,vtreDBhntdXHzkqFjk4YTw,Somisomi,4.1,$,399,"2855 Stevens Creek Blvd, Santa Clara, CA 95050",Santa Clara,37.32508319928281,-121.9474623513504
+510,3enS4ObyvNjOEZaAQh-TWA,Happy Lemon,4.1,$$,198,"10963 N Wolfe Rd, Cupertino, CA 95014",Cupertino,37.3362576564015,-122.015137771311
+511,S_PSD6sxYaLD4G2M-RB1AQ,Sharetea,3.0,N/A,45,"35 W Main St, Los Gatos, CA 95030",Los Gatos,37.22175,-121.982788
+512,P9yr-UpBpslWgH0nr6MsBQ,Dr.ink,4.4,$$,574,"77 N Almaden Ave, Ste 70, San Jose, CA 95110",San Jose,37.33632758116021,-121.89540826040644
+513,xP1V8AERfxJtgJvnzjkhgw,Tous Les Jours,3.6,$$,351,"3535 Homestead Rd, Santa Clara, CA 95051",Santa Clara,37.33882,-121.99497
+514,yw6z_cKHCE5E2IlUyLrGOQ,Jazen Tea,3.3,$$,177,"1089 S De Anza Blvd, San Jose, CA 95129",San Jose,37.3065639,-122.0328361
+515,xibNfQX9uBi0K3V8VJ5_vg,ZERO& Westfield Valley Fair,3.4,$$,105,"2855 Stevens Creek Blvd, Ste 1160, Santa Clara, CA 95050",Santa Clara,37.32492,-121.94722
+516,UIx5Tlk4WYeydPayNHOn4w,Beard Papa's,3.9,$$,924,"19748 Stevens Creek Blvd, Cupertino, CA 95014",Cupertino,37.3218361506423,-122.018152737672
+517,Tmb3BceGDtb_CJSGv2vQ9g,Buon Me Cafe,3.6,N/A,130,"1111 Story Rd, Ste 1003, San Jose, CA 95122",San Jose,37.333344,-121.856808
+518,doW36pAqDUeYD_Ij192sTg,Yumi Yogurt - Santa Clara,4.0,$,925,"3787 Stevens Creek Blvd, Ste 102, Santa Clara, CA 95051",Santa Clara,37.324123,-121.968707
+519,aHcSAHWKDAEwxyhAZPT7SQ,ICICLES,3.9,$$$,1296,"1275 Lincoln Ave, Ste 1, San Jose, CA 95125",San Jose,37.30503,-121.8996
+520,lVEpmxmY9pyci0IEX5-BMA,Lucky Tea,4.3,N/A,287,"956 Story Rd, San Jose, CA 95122",San Jose,37.33055,-121.8564759
+521,w6WAU7BTDu11cCLKF5ydLw,Music Tunnel KTV Cafe,3.9,$$,512,"1132 S De Anza Blvd, Ste 10, San Jose, CA 95129",San Jose,37.30529,-122.03167
+522,xmfV7IZSNN0bRxnGgUU2Jw,Justeas,3.3,$$,13,"1433 Branham Ln, San Jose, CA 95118",San Jose,37.351732304502995,-122.0319137
+523,-U8xaVqbWTeu-EFvD5rZ8A,Liang's Village,3.7,$$,1362,"20530 Stevens Creek Blvd, Cupertino, CA 95014",Cupertino,37.32193580792568,-122.03299160673112
+524,AklYknzc45TEaVQGkxIQsQ,Din Tai Fung,3.7,$$,5132,"2855 Stevens Creek Blvd, Ste 1259, Santa Clara, CA 95050",Santa Clara,37.32622743888757,-121.9440876744016
+525,T53muMzvWL24W9czU1TKbw,Alexander's Patisserie,3.5,$$,226,"19379 Stevens Creek Blvd, Cupertino, CA 95014",Cupertino,37.32355031784,-122.00928695491
+526,S0-ArdqD8lRb24jz_KfGpA,Urban Ritual,4.3,$$,366,"100 N Almaden Ave, San Jose, CA 95110",San Jose,37.33639,-121.89494
+527,SAsBy_ad08-kLX4qHCMP6A,Sul & Beans,3.7,$$,563,"19540 Vallco Pkwy, Ste 160, Cupertino, CA 95014",Cupertino,37.32468275369757,-122.01052335831918
+528,66-SSpkh_8xQFByUrra9dg,The Sweet Corner,3.5,$$,951,"989 Story Rd, Ste 8039, San Jose, CA 95122",San Jose,37.33277,-121.85802
+529,dWQ_sSJhu5RX5-QYvvItGA,Portuguese Tasty Desserts,4.9,$$,125,"1085 El Camino Real, Santa Clara, CA 95050",Santa Clara,37.35430144400808,-121.94825191449269
+530,Waqfw6Fhrogiu7-TrTxTXg,Jazen Tea,2.6,$,100,"3484 El Camino Real, Santa Clara, CA 95051",Santa Clara,37.3515863912688,-121.99270148474
+531,L1-QkFKT6Cf4PUeTOOSntA,Happy Lemon,3.8,N/A,105,"919 Story Road, Ste 1148, San Jose, CA 95122",San Jose,37.33144757967982,-121.85806730384924
+532,MIpbExykm-Odn4kAlH_-jg,Happy Lemon Premier,4.2,$,273,"567 Coleman Ave, Ste 10, San Jose, CA 95110",San Jose,37.340535994211216,-121.90641581165713
+533,7pIW3YUL4hW4JOByOljR9A,Com Tam Thien Huong,3.4,$$,694,"909 Story Rd, Ste 100, San Jose, CA 95122",San Jose,37.33044952344626,-121.85754496604206
+534,yHqnvB3IU5u0QHlhcHVzCw,Teazer,2.0,N/A,2,"82 East Santa Clara St, San Jose, CA 95113",San Jose,37.336821,-121.888603
+535,uHeq-wPYj5zlZwWBRuqkWQ,Bobateani,4.9,$,58,"75 E Santa Clara St, Fl 6, San Jose, CA 95113",San Jose,37.33709,-121.88941
+536,kXw8lC_7ARftYcTdb6b-cg,Mochinut - Oakridge,3.4,N/A,74,"925 Blossom Hill Rd, Unit 1319, San Jose, CA 95123",San Jose,37.25244217458977,-121.86428324491276
+537,Tf4fE4Equ-ZCSZ6ByFi7bw,Hui Lau Shan,4.2,$$,95,"2855 Stevens Creek Blvd, Space 2462, Santa Clara, CA 95050",Santa Clara,37.32637762862505,-121.9446671198809
+538,2_tE0P1HkgzxESXeA7dI6g,CA Bakehouse,4.3,$$,953,"979 Story Rd, Unit 7066, San Jose, CA 95122",San Jose,37.331610851219914,-121.85735101004408
+539,5NiD2Z6yNUI9Ps3OxwXtWA,Jell & Chill,3.3,N/A,40,"2855 Stevens Creek Blvd, Santa Clara, CA 95050",Santa Clara,37.32481090366734,-121.947338238056
+540,aFgVZKvUTNqmDeTsXHc2oQ,BoBo Drinks,2.6,$,739,"779 Story Rd, Ste 80, San Jose, CA 95122",San Jose,37.32946,-121.85928
+541,d0gwGOAxRkRgjYiAeAn75A,Lee's Sandwiches ,3.9,$$,49,"88 E San Carlos St, San Jose, CA 95112",San Jose,37.33204987771435,-121.88515998423098
+542,rydhQKD0uXeNlk7ncgbXAA,Cream,3.8,$,309,"19501 Stevens Creek Blvd, Ste 102, Cupertino, CA 95014",Cupertino,37.3232226,-122.012159
+543,28j02Y5sWAOLu5uQvwYdgw,Mochinut - San Jose,4.0,$$,161,"100 N Almaden Ave, Ste 180, San Jose, CA 95110",San Jose,37.33640796777206,-121.89486898119904
+544,2Hb2lNLxK4LcmxlxTH3wNQ,CoCo Fresh Tea & Juice Valley Fair,3.3,$$,144,"2855 Stevens Creek Blvd, Ste 1089, Santa Clara, CA 95050",Santa Clara,37.325601,-121.9450002
+545,Uvpk8KmUM02ihXpcpKP2tQ,Gong Cha,3.3,$,195,"140 Paseo De San Antonio, San Jose, CA 95112",San Jose,37.3336854519061,-121.88474
+546,wf4iBSOju5Qqkd7iWvBtIA,Nuoc Mia Vien Dong 2,3.9,$,610,"919 Story Rd, Unit 1160, San Jose, CA 95122",San Jose,37.331161,-121.858134
+547,_Vvn9jsUC0hPKVDq7KM17A,Somisomi,4.2,$,1404,"19540 Vallco Pkwy, Ste 160, Cupertino, CA 95014",Cupertino,37.32502,-122.011019
+548,TgeumXEjB-40yGBQiXK68Q,Cup N Cone,4.7,$$,88,"1334 S Mary Ave, Ste 1334, Sunnyvale, CA 94087",Sunnyvale,37.35065,-122.04952
+549,skB9lEtYyvdOfucrWujBUA,Amor Cafe and Tea Oakridge,3.4,$,87,"925 Blossom Hill Rd, Ste 1744, San Jose, CA 95123",San Jose,37.2519376,-121.86126591170236
+550,_uizCNXF1J2VxEKfG2Yhgw,Pho Passion and Mintea Bar,3.8,$$,275,"301 E Santa Clara St, Unit A, San Jose, CA 95113",San Jose,37.339545,-121.884187
+551,tZjkrtoy_dY8KRd0nSb77w,Jell & Chill,3.6,N/A,135,"10815 N Wolfe Rd, Cupertino, CA 95014",Cupertino,37.33544,-122.01444
+552,AUpxH3u9h9QGP2dotE5otQ,Bon Beignet,3.6,N/A,43,"779 Story Rd, Ste 80, San Jose, CA 95122",San Jose,37.32946,-121.85928
+553,_7MUBpUFjsCW_hzjLuQxlQ,Southland Flavor Cafe,3.6,$$,676,"10825 N Wolfe Rd, Ste 220, Cupertino, CA 95014",Cupertino,37.3354161466346,-122.015400796935
+554,IyVUpd6v51tlY1pby6Iq5A,Frozo's Frozen Yogurt,3.8,$,621,"1000 Lafayette St, Santa Clara, CA 95050",Santa Clara,37.35053,-121.94389
+555,yTo9kkSY_vjC7homRxfwDg,Te'Amo Boba Tea x Mochi Donut,3.8,$$,434,"3646 Village Dr, Castro Valley, CA 94546",Castro Valley,37.698,-122.07638
+556,Efl1ewOtGqtn5Z9eEKLmwg,T4,2.8,$,195,"18911 Lake Chabot Rd, Castro Valley, CA 94546",Castro Valley,37.70864,-122.09134
+557,m-pntK3m-VS5CikrykRB4g,Quickly,2.8,$,210,"20893 Redwood Rd, Castro Valley, CA 94546",Castro Valley,37.6946571,-122.0740549
+558,WSTDjw5ITIFQVbiM59JBpA,Tao's Fresh,4.4,$$,288,"15809 Channel St, San Lorenzo, CA 94580",San Lorenzo,37.67672,-122.143169
+559,UHsqqO4fJ3wQV8ugronl6Q,Happy Lemon,3.5,$$,36,"3805 E Castro Valley Blvd, Castro Valley, CA 94552",Castro Valley,37.6945611562823,-122.05218650400636
+560,fjmf6q0h6lxKLPihKS2vQg,i-Tea,4.1,$$,553,"177 Pelton Ctr Way, San Leandro, CA 94577",San Leandro,37.722769,-122.154214
+561,Z1_7j0DK0qmTkZTBxyKgHA,Gong Cha Hayward,4.1,$$,67,"20513 Hesperian Blvd, Hayward, CA 94541",Hayward,37.665821,-122.118598
+562,jWGO5lhcZuQkaXV4XSwHIw,Quickly,3.0,$,70,"27316 Hesperian Blvd, Hayward, CA 94545",Hayward,37.63196,-122.09605
+563,nHOnHIH1wjv0t7TeKDX58A,Sip & Savor,4.8,N/A,47,"26953 Mission Blvd, Ste M, Hayward, CA 94544",Hayward,37.644378,-122.062465
+564,p-4ZGpaEhwwslMIK3zinXg,Tea Villa,3.7,$$,70,"29237 Mission Blvd, Hayward, CA 94544",Hayward,37.63283,-122.05095
+565,5rFcrE_CLAq5F4UBSAr91g,T4,3.1,$,673,"1443 E 14th St, Unit B, San Leandro, CA 94577",San Leandro,37.7238006022325,-122.154675069941
+566,ZF8PGhDPkl4cozYSnLcZBg,Chachago,2.8,N/A,8,"1025 A St, Hayward, CA 94541",Hayward,37.67413759462121,-122.0828436
+567,YU0iL-wEpV1mI627lUa5fA,Creative SIPS,4.7,N/A,23,"16395 E 14th St, San Leandro, CA 94578",San Leandro,37.694838,-122.114042
+568,IpmtrWdSgSe0QlemmescyQ,Happy Lemon,3.6,$$,238,"699 Lewelling Blvd, Ste 35, San Leandro, CA 94579",San Leandro,37.6877745392303,-122.13767404765969
+569,5uN2JTJ_dtI7fThtCOsCHg,Happy Lemon,4.6,$$,117,"3110 Crow Canyon Pl, Ste B-1, San Ramon, CA 94583",San Ramon,37.77752,-121.97255
+570,XwlI7s2obIvbunZXZi3VNw,R&B Tea - San Ramon,4.0,$$,128,"2475 San Ramon Valley Blvd, Ste 4, San Ramon, CA 94583",San Ramon,37.7738,-121.977612
+571,YeW1zZOeWBRJ48c7-X6hwA,Pho Hoa & Jazen Tea,4.0,$$,327,"3205 Crow Canyon Pl, San Ramon, CA 94583",San Ramon,37.776706,-121.971335
+572,FnS0Rxyb59oIlKJ0uMU_tQ,Boba Nation,4.4,$$,47,"1 Southland Dr, Shop  114, Hayward, CA 94545",Hayward,37.6510232929182,-122.10182
+573,9t-PSdnwprzQ4bRpDoRdWw,Sharetea,3.9,$$,109,"24351 Southland Dr, Hayward, CA 94545",Hayward,37.65265,-122.1042
+574,wZL_sySI0rVgNelnsGEzDQ,Quickly,3.0,$,94,"17940 Hesperian Blvd, San Lorenzo, CA 94580",San Lorenzo,37.6729889960689,-122.122139773525
+575,VQerTa0_VsGWm6tnxK-dmQ,Quickly,3.1,$,78,"15000 Farnsworth St, San Leandro, CA 94579",San Leandro,37.69112,-122.151278
+576,DW6Lh8ae7qQu24An9pdi9Q,Xenia's Gelato,3.9,$,14,"27552 Tampa Ave, Hayward, CA 94544",Hayward,37.6319072655317,-122.075347587842
+577,DUaNDjOYZkNy42mwkWuQyg,D T Dim Sum & Tea,3.6,$$,527,"1970 Lewelling Blvd, San Leandro, CA 94579",San Leandro,37.679444,-122.154684
+578,R0qfTWoelnhixKB7cmip3Q,Surf City Squeeze,3.2,$$,21,"1 Southland Mall Dr, Ste 072, Hayward, CA 94545",Hayward,37.6515,-122.101575
+579,KW4Ao9eN01JHTOGQB_i4SA,Fanale Drinks,1.0,N/A,2,"790 Sandoval Way, Hayward, CA 94544",Hayward,37.62111,-122.05477
+580,t6o_goUBbsvpETBfh1uteQ,United Paleteria y Neveria,3.6,$,95,"137 Pelton Center Way, San Leandro, CA 94577",San Leandro,37.72278,-122.15377
+581,iUmbKyDGGWawQIthH_Plkg,Teaspoon,4.3,$$,63,"2151 Salvio St, Concord, CA 94520",Concord,37.978008,-122.034393
+582,9pg0Yv2ZaA5ZkN4TUfoBgw,Breaktime Tea,4.5,$$,90,"790 Oak Grove Rd, Ste C1, Concord, CA 94518",Concord,37.938493,-122.024158
+583,lxSe6gMhscHsh-dsnc2_nA,Teaspoon,4.2,$$,70,"2977 Ygnacio Valley Rd, Walnut Creek, CA 94598",Walnut Creek,37.926289087271485,-122.0146928
+584,jlPt9YYpGdjuX_GB4oKTWQ,Saigon Bistro,3.6,$$,918,"1701 Willow Pass Rd, Ste F, Concord, CA 94520",Concord,37.973981721353994,-122.04150613387456
+585,SrVPfy_bFjJajT3nVC_ybg,Uji Time Dessert,4.2,$$,216,"1679 Willow Pass Rd, Concord, CA 94520",Concord,37.97341,-122.04203
+586,4BjTYFr61yZyoBPaAeQ1Fg,Mochinut - Concord,4.3,N/A,195,"1801 Sutter St, Ste H, Concord, CA 94520",Concord,37.973315104278335,-122.03824173420276
+587,eJOtQJQUWfnl_xNL_4HTjQ,Bondadoso Coffee and Tea Collective,4.3,$,649,"2195 N Broadway St, Walnut Creek, CA 94596",Walnut Creek,37.9100964,-122.06248860716676
+588,aG8Tl7YNKTL5kE4n1T0TWg,Surf City Squeeze,3.3,$,61,"282 Sun Valley Mall, Spc K-101, Space K-101, Concord, CA 94520",Concord,37.969208,-122.061346
+589,5JbhXwdZrJJxbzoHcXQ_Hw,Panache Caffe,4.1,$,140,"3653 Mt Diablo Blvd, Lafayette, CA 94549",Lafayette,37.8906068,-122.1277333
+590,iXE-cOJ-Zjqw-Ppqywp7fw,Chalogy,4.1,$,75,"1349 Locust St, Ste A, Walnut Creek, CA 94596",Walnut Creek,37.8981,-122.06206
+591,2rJhnZtSSkfR1cdCUXxa_Q,Crumbl - Concord,3.1,$$,514,"2015 Diamond Blvd, Ste E-150, Concord, CA 94520",Concord,37.9713492,-122.0566621
+592,168JCbfPASa30FoHZZaIEg,Boba Guys,4.0,$,777,"1522 Fillmore St, San Francisco, CA 94115",San Francisco,37.7835723012686,-122.43270881474
+593,47ZJmCp8O7HsiXmwA33Slw,My Bottle Tea & Coffee,4.2,N/A,40,"3005 Silver Creek Rd, Ste 120, San Jose, CA 95121",San Jose,37.30973,-121.81354
+594,Xlpn65pb_N3dOAh4r3CPRg,Teaspoon,4.2,$$,83,"2060 Santa Rosa Ave, Ste B1, Santa Rosa, CA 95407",Santa Rosa,38.4181,-122.712151
+595,pe6gWOOmCOp2lV1BDLmhiA,BAMBU,3.9,$,676,"6050 Geary Blvd, San Francisco, CA 94121",San Francisco,37.7804,-122.48458
+596,r4bC7cNa-EAppRmvwck5jw,Aloh-o,3.2,N/A,62,"800 Redwood Hwy, Ste 114, Mill Valley, CA 94941",Mill Valley,37.898284654118335,-122.5141584243896
+597,w1uCJEPCnMaE4eHrctjyCg,Lovey's Tea Shoppe,4.4,$$,315,"4430 Coast Hwy, Pacifica, CA 94044",Pacifica,37.609369,-122.494654
+598,JUp30yMPWuSXtPG5Vboymw,Quarters Teahouse,4.9,N/A,17,"1111 Taraval St, San Francisco, CA 94116",San Francisco,37.742792,-122.478174
+599,mezq8L-VuAkqYhIxFi3qYA,Tea Annie,4.0,$,202,"1712 Miramonte Ave, Ste A, Mountain View, CA 94040",Mountain View,37.3723,-122.08801
+600,Y0TZKv0YU0c_naSxkWMsYw,Let's Roll,4.4,$$,30,"2421 Clement St, San Francisco, CA 94121",San Francisco,37.78185279104134,-122.4852958
+601,U0Ab8EohVIY17wWC-Pc3TA,Gong Cha,3.8,$$,395,"439 Waverley St, Palo Alto, CA 94301",Palo Alto,37.447628,-122.160728
+602,tHvgE2qHhY4sSCMQ7vRCbA,K On the Go,4.3,$$,184,"261 W Calaveras Blvd, Milpitas, CA 95035",Milpitas,37.427861520798,-121.9115091
+603,4DN2wJ7kpT7Ri0DSkqXbWQ,Ten Ren Tea,4.3,$,866,"1732 N Milpitas Blvd, Milpitas, CA 95035",Milpitas,37.4555854711176,-121.909984275479
+604,wlChvd_E28RJBNd7RYH7Sw,Yi Fang Taiwan Fruit Tea,4.4,$$,202,"645 Irving St, San Francisco, CA 94122",San Francisco,37.76385,-122.46497
+605,sc48tb_OFrzb1BqqevAuvg,Teaspoon Los Altos,3.9,$$,1015,"4546 El Camino Real, Los Altos, CA 94022",Los Altos,37.401254171244,-122.114469291963
+606,tByCp65MqGLeAE_2EfKoUw,Moomo Tea,4.3,$$,267,"715 Sunnyvale Saratoga Rd, Sunnyvale, CA 94087",Sunnyvale,37.367406620016965,-122.033443
+607,uQZWL_sSwEnyEO-RchtO9Q,BAMBU,3.4,$,472,"189 W Washington Ave, Sunnyvale, CA 94086",Sunnyvale,37.37632,-122.03125
+608,o4HE0lP3JnEMDdnL7fcHkg,Tastea,4.0,$$,268,"114 E El Camino Real, Sunnyvale, CA 94087",Sunnyvale,37.366107,-122.031368
+609,13zmcyBajcObO6ntCOD0uQ,Tea Era,3.9,$,1673,"271 Castro St, Mountain View, CA 94041",Mountain View,37.3929561,-122.0792811
+610,VX7R42WUqqkkqw2dGRX13g,Feng Cha,4.6,N/A,20,"1040 Grant Rd, Ste 350, Mountain View, CA 94040",Mountain View,37.3795786289211,-122.0741173972075
+611,MBsmVkpfos-50Ai9XBnraQ,Mochi Waffle Corner ,4.3,$,131,"805 E El Camino Real, Ste F, Mountain View, CA 94040",Mountain View,37.37566,-122.06196
+612,yQt6uz2m_Ix3-zQOqUs1QA,Yi Fang Taiwan Fruit Tea,4.1,N/A,123,"143 Castro St, Mountain View, CA 94041",Mountain View,37.39446430331029,-122.0783804380321
+613,vwTE29Q4sh8eZFydMU9Cdg,MoonTea,4.2,$$,125,"513 S Pastoria Ave, Sunnyvale, CA 94086",Sunnyvale,37.37043718780045,-122.0410635
+614,KfXpRlOq7YLUhbfuvgKvoQ,Pekoe,3.9,N/A,151,"939 W El Camino Real, Sunnyvale, CA 94087",Sunnyvale,37.3717447,-122.0460903353957
+615,R9hUPmEzMcdLbDy94Ls3iQ,Teazzi Tea Shop,4.1,N/A,190,"200 W McKinley Ave, Ste 105, Sunnyvale, CA 94086",Sunnyvale,37.37446762768437,-122.03253504478828
+616,rOe8-DJ7dFW_sqmWY6FtwQ,Ktea Cafe,3.9,$,364,"139 S Murphy Ave, Ste B, Sunnyvale, CA 94086",Sunnyvale,37.3770679,-122.0305125
+617,rCBVxm_qOFrXSoTisugvPg,TP Tea,4.2,$$,67,"567 E El Camino Real, Ste B, Sunnyvale, CA 94087",Sunnyvale,37.363564,-122.026035
+618,PoHUn6cDV8uQqn-_CuKgjw,Chun Yang Tea,4.1,$$,225,"1120 Kifer Rd, Ste C, Sunnyvale, CA 94086",Sunnyvale,37.37328985370428,-121.99966342331312
+619,K1jfltjJ59i2FCfbpQKd9Q,Chick & Tea - Sunnyvale,3.7,$$,249,"587 E El Camino Real, Sunnyvale, CA 94087",Sunnyvale,37.3626756,-122.0257344
+620,2D4BJ55JuON3eooNP6pCzA,Bober Tea,3.5,$$,270,"231 W Washington Ave, Sunnyvale, CA 94086",Sunnyvale,37.3764,-122.03162
+621,lSxLULahBJrbAfNAHTbmnA,R&B Tea - Sunnyvale,4.2,N/A,33,"568 E El Camino Real, Sunnyvale, CA 94087",Sunnyvale,37.362453129145194,-122.0272947
+622,S2ccyF_QlWhqiWEBEAM23w,Teaspoon,3.6,$$,71,"134 Castro St, Mountain View, CA 94041",Mountain View,37.394726,-122.07878
+623,G_AKAgQIzPp0otTcDWPW-Q,Pastel Tea Lounge,3.9,N/A,62,"1161 Lawrence Expy, Sunnyvale, CA 94089",Sunnyvale,37.39739,-121.99672
+624,Sf-GVp2exZ_p-S7deZp7Hw,Boba Guys,3.9,N/A,57,"201 1st St, Los Altos, CA 94022",Los Altos,37.37863882139123,-122.1182382
+625,scN_RHovlnr12EDuO92wxQ,BAMBU,4.6,$,47,"3700 Thomas Rd, Ste 101, Santa Clara, CA 95054",Santa Clara,37.386288,-121.960759
+626,V_hE0jTOG-h4sQesCqh5kw,Verde Tea Cafe,3.4,$,1183,"852 Villa St, Mountain View, CA 94041",Mountain View,37.39423,-122.07954
+627,swkEDm67BAYzELj4MNJSSw,Happy Lemon,4.3,$$,76,"742 Villa St, Mountain View, CA 94041",Mountain View,37.39368635050309,-122.07837493798311
+628,_rlHLZf345cMulwLZqMJxg,Tong Sui,4.3,$$$,668,"927 E Arques Ave, Ste 151, Sunnyvale, CA 94085",Sunnyvale,37.381387,-122.007585
+629,_W3J1DwcoLmeCkGsdth1Pw,Sunnywich Cafe,4.4,$,87,"223 East Maude Ave, Sunnyvale, CA 94085",Sunnyvale,37.3878822408982,-122.024536281978
+630,calRHdr5m0KTiV18qkSH4Q,Sweet Diplomacy,4.4,N/A,211,"209 1st St, Los Altos, CA 94022",Los Altos,37.378601,-122.117934
+631,Y3kud7rdJayknEtpMDONBw,Lisa's Tea Treasures,3.8,$$,286,"167 Main St, Los Altos, CA 94022",Los Altos,37.3791381,-122.114947
+632,u7jkh72lArCE6wO734-kKg,Happy Lemon,4.1,$,323,"520 Lawrence Expy, Ste 301, Sunnyvale, CA 94085",Sunnyvale,37.38287,-121.99508
+633,f_QRM3QTcdUYe3fDuJq7pg,Boba Drive,4.0,$,500,"677 Tasman Dr, Sunnyvale, CA 94089",Sunnyvale,37.403205,-122.008605
+634,bQKPl0RJRKjX3K3GU3OwQg,Chaiyo  Boba,4.5,N/A,11,"101 S Murphy Ave, Sunnyvale, CA 94086",Sunnyvale,37.377648,-122.030315
+635,jg3nl0MQDEpTRLHYdKwRKQ,Meet Fresh,2.8,$$,199,"3958 Rivermark Plz, Santa Clara, CA 95054",Santa Clara,37.394989,-121.946781
+636,PsLD76F5PAv6rfN3ofyA9w,Queen House,3.4,$$,909,"273 Castro St, Mountain View, CA 94041",Mountain View,37.39293,-122.07925
+637,4PbV4jf7mwY6kXWL-bK7IQ,Ocha Tea Café & Restaurant,3.3,$$,633,"1350 Grant Rd, Ste 8, Mountain View, CA 94040",Mountain View,37.3770405227974,-122.076683293475
+638,4bs7O6lGsvz6muhBE1tsCA,Cafe 86,4.2,$,171,"738 Villa St, Mountain View, CA 94041",Mountain View,37.393634,-122.0782005668648
+639,RVUaRde2ceXVIuA5KXMieA,Mr Sun Tea,3.7,$$,141,"801 W El Camino Real, Mountain View, CA 94040",Mountain View,37.38558,-122.08427
+640,ZpkgFuJ3CFKgNZTObTDw6Q,Hanabusa Café,3.7,$$,694,"201 S Mary Ave, Ste 1, Sunnyvale, CA 94086",Sunnyvale,37.378639,-122.04662
+641,Qj28r73QxOwZVzlGlD511w,Fantasia Coffee & Tea,3.0,$$,522,"3969 Rivermark Plz, Santa Clara, CA 95054",Santa Clara,37.3953035880334,-121.946540661156
+642,DDlVI9ZuVpCN-0D9setS5A,Pho Hoa & Jazen Tea,3.4,$$,605,"3147 Mission College Blvd, Santa Clara, CA 95054",Santa Clara,37.389509,-121.983566
+643,G0yia3d7g84_azPrWlr3oA,Gong cha,3.9,$,143,"2712 Augustine Dr, Ste 110, Santa Clara, CA 95054",Santa Clara,37.381582,-121.974879
+644,MhFzzBJiehMNwnsdMMF_Gw,Yeti Tea &,4.2,N/A,46,"6178 Mission St, Daly City, CA 94014",Daly City,37.70693806267754,-122.4587324
+645,a4B5GqMVvelxUGs7kEgLZQ,Yifang Taiwan Fruit Tea - Colma,3.3,$$,248,"4923 Junipero Serra Blvd, Colma, CA 94014",Colma,37.67446517,-122.46550933
+646,xhW1trRxLbYLW0lsnNM8WA,Tiger Tea & Juice - Daly City,4.2,$$,66,"79 Skyline Plz, Daly City, CA 94015",Daly City,37.6820109104605,-122.48732334326576
+647,eVmfHVTi_T5HVtwMnbDzEA,SweetHoney Dessert  - Colma,3.8,$$,937,"15 Colma Blvd, Colma, CA 94014",Colma,37.6771849,-122.4688645
+648,rrNm7ZwvcwFvQZDNoHkfJA,7 Leaves Cafe,3.4,N/A,129,"3931 Alemany Blvd, Ste 2003, San Francisco, CA 94132",San Francisco,37.7103569,-122.4675354
+649,kXt-6oFKY6hdv3z99soZyA,My Cup of Tea,3.7,$$,317,"2666 Ocean Ave, San Francisco, CA 94132",San Francisco,37.7324479375044,-122.474476604064
+650,0eK-22YX4XvpWDMpoQGHmw,Teaever,3.0,N/A,37,"950 King Dr, Daly City, CA 94015",Daly City,37.651443,-122.468541
+651,erYYJowEw5Z_gqXdT0XuQQ,Tpumps,3.6,$,1274,"1916 Irving St, San Francisco, CA 94122",San Francisco,37.7636264,-122.4785915
+652,P8ig_SMgDLZAU-uJxahRyg,Tea World,4.3,N/A,10,"3573 Callan Blvd, South San Francisco, CA 94080",South San Francisco,37.64341615056905,-122.4633936077322
+653,bJVG2kiZS9bStgtzmIS7KA,Dots,4.2,$$,219,"1330 Ocean Ave, San Francisco, CA 94112",San Francisco,37.72422984529108,-122.4570393894637
+654,khpoEMBwgQitHAqVVMrOog,Boba Guys,4.1,$$,419,"1002 16th St, San Francisco, CA 94107",San Francisco,37.7665676429306,-122.397055947925
+655,tH3p2yvKNcP-qi3kjA9SnA,Milktopia,4.1,$$,104,"1139 Taraval St, San Francisco, CA 94116",San Francisco,37.742812717526185,-122.4785801
+656,blbSYWVZP4p7p5LsTEZ8Ow,YY Coffee & Milk Tea,3.9,$$,52,"2620 Ocean Ave, San Francisco, CA 94132",San Francisco,37.73197561154166,-122.47352542946383
+657,L34UEAPljCFLcgdn1EIMvw,Sweet Cupz,3.8,$$,79,"1490 Ocean Ave, San Francisco, CA 94112",San Francisco,37.72453,-122.45788
+658,XhbkZ-5nUJ3bRy7uKPx7iQ,Mr Szechuan,4.4,$$,747,"890 Taraval St, San Francisco, CA 94116",San Francisco,37.74331,-122.47544
+659,xji2vmCj8kqsbA_cvd5hvw,Wonderful Dessert & Cafe,4.2,$$,1369,"2035 Irving St, San Francisco, CA 94122",San Francisco,37.7633252984489,-122.4799839282236
+660,1fDiDH5aboQ9Jr9Yqhozpg,Happy Lemon,3.9,$$,191,"3 Serramonte Ctr, Unit 118 A, Daly City, CA 94015",Daly City,37.669602,-122.46941
+661,1Jd60TVbJ4YxK7Hv0sTObQ,District Tea,4.3,$,455,"2154 Mission St, San Francisco, CA 94110",San Francisco,37.7625055,-122.41963973183654
+662,sIqBYWmmqxM6WLkXOgG4pA,The Fate Tea House,4.2,N/A,55,"1181 Ocean Ave, San Francisco, CA 94112",San Francisco,37.723451,-122.454897
+663,RmSm5ps0zgYer9xxApBVrQ,Golden Island Cafe,3.5,$,1024,"1300 Noriega St, San Francisco, CA 94122",San Francisco,37.75436,-122.47783
+664,daoE5bWLpRyQW3mUs-vRPw,Foam Tea House,4.1,$,245,"1745 Taraval St, San Francisco, CA 94116",San Francisco,37.7424899,-122.48508
+665,mTCkX1HoltvvjEoGKnJnnw,Ye Ye Coconut Snacks,4.1,N/A,28,"1143 Taraval St, San Francisco, CA 94116",San Francisco,37.742769,-122.4786
+666,JGu91FLy2_BpyIFhyozLEQ,Wanpo Tea Shop - San Francisco,3.1,$$,52,"3251 20th Ave, San Francisco, CA 94132",San Francisco,37.72772665229493,-122.4769749
+667,50zXDc6IqJl7hTho6Xb7bQ,Inner Sunset - Little Sweet,3.8,$$,361,"1253 9th Ave, San Francisco, CA 94122",San Francisco,37.76493,-122.46665
+668,aVskw5NKrs7ibAQ54E_bZw,U :Dessert Story,4.4,$$,2882,"3489 16th St, San Francisco, CA 94114",San Francisco,37.7642642124321,-122.430517340788
+669,O-W4vnk2PKCJ9AD0KGDJ6g,5 Degree Tea House,3.2,$,163,"2527 San Bruno Ave, San Francisco, CA 94134",San Francisco,37.7297882161009,-122.404394377602
+670,xpxqr2WJRbLaBakdUrlfTw,STIX,4.1,$,390,"1155 Taraval St, San Francisco, CA 94116",San Francisco,37.74275495830315,-122.47870291413388
+671,W7MHV3wkXnrp6o3YvkdSXQ,Tea Hut,3.6,$$,212,"1541 Sloat Blvd, San Francisco, CA 94132",San Francisco,37.73304,-122.48972
+672,-XlUFPOYhUq9sIGJd6873g,OH Dessert Cafe,4.1,$$,492,"1919 Irving St, San Francisco, CA 94122",San Francisco,37.76322,-122.47851
+673,jZbEgXtwXUAIRSzl_e94rg,Zero & Stonestown Galleria,3.0,N/A,24,"3251 20th Ave, Space 154, San Francisco, CA 94132",San Francisco,37.7277303,-122.4769749
+674,0Rn1XAatRxzHa68PPUPLVw,Devil Angel Desserts,2.8,$$,47,"133 Serramonte Ctr, Daly City, CA 94015",Daly City,37.671559702544,-122.47075441382744
+675,gqJbs_-9rAGFQzC1QZXd1g,Tea Plus,2.9,$,166,"2541 San Bruno Ave, San Francisco, CA 94134",San Francisco,37.72973,-122.40418
+676,V5k0gdkT8PvX3VUZu3ws2A,SK TEA,4.3,$,45,"2250 Irving St, San Francisco, CA 94122",San Francisco,37.763507,-122.482372
+677,Tes8t6pLTfiH2Q1TwNjyRA,TJ Cups,4.0,$$,363,"2437 Noriega St, San Francisco, CA 94122",San Francisco,37.75339,-122.48993
+678,RqgWlpeFjR-ky6smod6jnA,Teazo,3.8,$,214,"1050 Taraval St, San Francisco, CA 94116",San Francisco,37.74311,-122.47766
+679,zVROhyVPlt0Yl4iMtuzwEQ,Tea World,3.7,$$,228,"90 Eureka Sq, Ste E, Pacifica, CA 94044",Pacifica,37.6337492,-122.4887216
+680,UplVWsp1X7MjOR2W3cYwEg,Quickly,1.8,$,120,"3251 20th Ave, Ste 160, Stonetown Galleria, San Francisco, CA 94132",San Francisco,37.72791,-122.47708
+681,TCAHJi_MU-MeJ_OSY1hbWQ,Steep,3.8,N/A,25,"3491 19th St, San Francisco, CA 94110",San Francisco,37.75994,-122.42112
+682,NsvzBa88kK7ZFsKnqc_-QA,b&b - Banh Mi & Boba,4.0,$,359,"1634 Irving St, San Francisco, CA 94122",San Francisco,37.763757967137586,-122.47565950346976
+683,mnHtVB5o1H3Z7lyTrj90HQ,Amausaan Uji Matcha,3.5,N/A,119,"3 Serramonte Ctr, Daly City, CA 94015",Daly City,37.6696031,-122.469413
+684,TVLTQ51W6sxp7tL2QQjovg,Quickly,2.5,$,450,"2116 Irving St, San Francisco, CA 94122",San Francisco,37.7635499240053,-122.480735656075
+685,WXAjDSOPkhm1vz4aYoLoqA,Happy Cow Creamery & Tea,4.0,$,110,"2291 3rd St, San Francisco, CA 94107",San Francisco,37.76059,-122.38812
+686,z7yT8d8gIWEMjK6VIsPsCg,Rise & Grind Coffee and Tea,4.3,$$,135,"2598 Folsom St, San Francisco, CA 94110",San Francisco,37.755818,-122.414605
+687,Y6iIyjKPVY1u2OplOSkh-Q,Perfect Pour Cafe,4.4,$,386,"2500 Francisco Blvd, Pacifica, CA 94044",Pacifica,37.6297815,-122.4899466
+688,mFn0iCjmnvFloONM5DEmlw,Tea FM,3.5,$,198,"3251 20th Ave, San Francisco, CA 94132",San Francisco,37.727742,-122.477049
+689,r_ogKPEIROAsruFt1CGeOw,Quickly,2.1,$,198,"3 Serramonte Ctr, Serramonte Shopping Center, Daly City, CA 94015",Daly City,37.66963,-122.46942
+690,MBj0Tg6SmNJmkl7aCXtq5Q,Matcha Cafe Maiko,4.5,$$,324,"3251 20th Ave, Ste 250K, San Francisco, CA 94132",San Francisco,37.728106,-122.4770808
+691,Id2aVe9l5YQlHtlXnGye-Q,Wooly Pig,4.5,$$,881,"2295 3rd St, San Francisco, CA 94107",San Francisco,37.760662161462,-122.388421141818
+692,MQv3nVGFKOVb8iFO9oc1IA,Little Heaven,4.7,$,239,"2348 Mission St, San Francisco, CA 94110",San Francisco,37.75947086725384,-122.4194361
+693,QRrVqIORkVzaNXRmQCiAuw,"UpForDayz Coffee, Tea & Juice",4.6,$,227,"1198 Valencia St, San Francisco, CA 94110",San Francisco,37.7538,-122.42099
+694,ofFgj0sd8iDQunY00hhDVQ,Garden Creamery,4.7,$$,1471,"3566 20th St, San Francisco, CA 94110",San Francisco,37.75869,-122.420435
+695,YgN8JscqrzhPGaVjO3DWxw,Not Latte,4.0,$,181,"2142 Irving St, San Francisco, CA 94122",San Francisco,37.76353,-122.48113
+696,tS2ka1uSjwo7jdWIWDpuCw,New Taraval Cafe,4.3,$$,663,"1054 Taraval St, San Francisco, CA 94116",San Francisco,37.74310182353412,-122.47775128530064
+697,iTJ3jZ-dli9WLOrVsFXr6A,San Francisco's Hometown Creamery,4.3,$$,1039,"1290 9th Ave, San Francisco, CA 94122",San Francisco,37.7643108,-122.4661588
+698,RLuVFabZ6BR-BzBPmI1Uzg,Cafe La Flore Irving,4.4,$$,546,"1340 Irving St, San Francisco, CA 94122",San Francisco,37.76399,-122.47243
+699,WKEFt4vsfJrIrUIpXUXhSA,Precita Park Cafe,3.5,$$,492,"500 Precita Ave, San Francisco, CA 94110",San Francisco,37.74699,-122.4104
+700,ruQafjN4HzqqA7djgnGBhg,T4,3.0,$$,235,"11020 Bollinger Canyon Rd, Ste F, San Ramon, CA 94582",San Ramon,37.7749533109683,-121.924073739229
+701,ivjQ4yx8yoz-89hQ2CYKwA,Happy Lemon,3.9,N/A,80,"3450 Camino Tassajara, Danville, CA 94506",Danville,37.79792,-121.91972583
+702,vAbj3IkulzFqjKDJSvQcdg,Teaspoon,3.7,$$,213,"164 Market Pl, San Ramon, CA 94583",San Ramon,37.763293,-121.951868
+703,SIF-j6JUJQ_xVBYFQqVAug,Molly Jasmine,4.5,$$,69,"225 G St, Davis, CA 95616",Davis,38.54437,-121.739359
+704,rvSKxE0wWQtv1E_JDvqK3Q,Akira Coffee & Tea,4.1,$,135,"620 W Covell Blvd, Ste A, Davis, CA 95616",Davis,38.56028233,-121.7567905
+705,U0_DUIITYCDr_1ZDEx00vA,Lazi Cow - Davis,3.5,$,524,"407 G St, Ste 4, Davis, CA 95616",Davis,38.5465,-121.74006
+706,YjZU2bMvf3Pj2E-art5vag,T4 Davis,3.8,$,206,"132 E St, Ste 190, Davis, CA 95616",Davis,38.54283,-121.74059
+707,_fFoiuDEICw3YgtPcHEOlg,Why Not Boba,3.3,N/A,30,"612 4th St, Davis, CA 95616",Davis,38.54572,-121.74162
+708,pAdcE9DSO7nCH8JIITOnrw,Mochinut - Davis,3.8,$$,49,"516 2nd St, Davis, CA 95616",Davis,38.54293,-121.74136
+709,lFxN0ZJLsE3Fe5-AIkh77w,Teabo Café,3.5,$,643,"2191 Cowell Blvd, Ste E, Davis, CA 95618",Davis,38.5407655197016,-121.724717874066
+710,W737Oh1NERPNG7dV34_UzA,i-Tea,3.5,$,164,"236 A St, Davis, CA 95616",Davis,38.5434225,-121.74682783
+711,1yX9J8mVdgphs5YATd3qzw,Rare Tea - Davis,3.5,$,195,"207 3rd St, Ste 110, Davis, CA 95616",Davis,38.543737,-121.746878
+712,bPMBHzVjBSqUooIk9pGm4w,Sharetea,3.9,$$,62,"208 F St, Davis, CA 95616",Davis,38.543788,-121.739864
+713,bBqM3gtToeAd06vr9Tmmmw,Honey D Cafe,3.7,$$,93,"213 E St, Ste C, Davis, CA 95616",Davis,38.54363,-121.74154
+714,SKb590oZIxCR2CGdrUduJg,Aggie Yogurt,4.1,N/A,22,"425 2nd St, Davis, CA 95616",Davis,38.543261,-121.742521
+715,7VQK5AgOvY5IkySVZe0-rQ,Sweet and Shavery,4.6,$,436,"210 E St, Davis, CA 95616",Davis,38.5435066,-121.7411137
+716,2xtdP8Pv72Cs5Ziqx8ympw,TeaZenTea - Dublin,3.9,N/A,56,"7197 Village Pkwy, Dublin, CA 94568",Dublin,37.709845,-121.926466
+717,Vd_UQk6FuHhfxoEMEHmMgQ,T4,3.2,$,270,"9140 Alcosta Blvd, Ste C, San Ramon, CA 94583",San Ramon,37.73021,-121.93009
+718,DDwIUOEMaWIktdar4I0Exw,Kamurocho,4.6,$$,343,"5321 Hopyard Rd, Pleasanton, CA 94588",Pleasanton,37.699605,-121.903804
+719,llMIEx8ZlSQHGqpRhf0-oQ,Gong Cha Dublin,4.0,$$,41,"6851 Amador Plaza Rd, Ste 104A, Dublin, CA 94568",Dublin,37.705985,-121.927809
+720,fv3QdG62yzTlvL4vn-wrag,T4,3.0,$$,504,"3744 Fallon Rd, Dublin, CA 94568",Dublin,37.7038018033117,-121.851168151661
+721,CFHzb6FtIhRCzqroNzyqOQ,Teavoli Boba,3.9,$$,61,"3998 Summit Rd, Dublin, CA 94568",Dublin,37.704216071584845,-121.86422
+722,PUaCWsNtLwLx8jBdQsdLFw,Bober Tea,4.3,$$,153,"21001 San Ramon Valley Blvd, Ste E4, San Ramon, CA 94583",San Ramon,37.7238166038314,-121.94298583920566
+723,6yLLaWPsmTnIdhCuG-eXGg,Boba & More,3.5,N/A,12,"5286 Iron Horse Pkwy, Ste B, Dublin, CA 94568",Dublin,37.70411,-121.89736
+724,HEqLy_PkExH-uCsG1uV1yw,Ume Tea,3.8,N/A,54,"4299 Valley Ave, Pleasanton, CA 94566",Pleasanton,37.677033898609025,-121.8753247
+725,iBUAhGRyQbzVIicDNHK-SQ,Blossom Bee,4.1,$$,820,"7335 Village Pkwy, Dublin, CA 94568",Dublin,37.710858467095,-121.926419734955
+726,JQmJpC6-nvS4SVKV_wT5ZA,Mochi Dough,4.2,N/A,15,"21001 San Ramon Valley Blvd, Ste  E4, San Ramon, CA 94583",San Ramon,37.724592087417406,-121.9432447
+727,N1E1LTyKpBkeisPdoJPn6w,Happy Lemon,4.3,$$,264,"3150 Santa Rita Rd, Ste B, Pleasanton, CA 94566",Pleasanton,37.69099,-121.878
+728,dzVHLAsLYm2h0xElrSoEdA,Honey Tea,3.9,$$,114,"2705 Stoneridge Dr, Ste K, Pleasanton, CA 94588",Pleasanton,37.695555,-121.849025
+729,wO3kuEQ1vo8vVlFmwKdTEg,Boba Nation,4.1,N/A,37,"1 Stoneridge Mall Rd, Ste 2241, Pleasanton, CA 94588",Pleasanton,37.694563402601354,-121.92819955063884
+730,WgKJ9ByxdIfT8hu8k0H9Lw,Sodam,4.5,$,473,"7992 Amador Valley Blvd, Dublin, CA 94568",Dublin,37.7053459,-121.9360922
+731,EXMYNhI4WVAKy769tZ9K2Q,Teaspoon,3.5,$$,55,"4640 Tassajara Rd, Ste A, Dublin, CA 94568",Dublin,37.70801,-121.8731
+732,zABstp-tOC85BBdokatO4A,TeaZenTea,4.5,N/A,42,"624 Main St, Pleasanton, CA 94566",Pleasanton,37.66196,-121.87486
+733,S6EzlILvBMirRWHutUjFJQ,Tapioca Express,3.4,$$,913,"1707 Decoto Rd, Union City, CA 94587",Union City,37.58940122880957,-122.02176904326524
+734,JgchjHxuaA5uu7fW44dT8g,ChaChaCha-99TeaHouse,4.1,$$,643,"3623 Thornton Ave, Fremont, CA 94536",Fremont,37.56295,-122.01004
+735,CVp4RB8nyZ2lJss09LhcrQ,ZERO& SFPO KIOSK,4.2,$$,62,"2774 Livermore Outlet Dr, Ste K102, Livermore, CA 94551",Livermore,37.698888552820705,-121.84466362945392
+736,UhFVjYO4Pb6i12mJgcSRmA,Icicles,3.9,$$,353,"647 Main St, Pleasanton, CA 94566",Pleasanton,37.662393848707424,-121.87514945014182
+737,FwpekEYtAO1OCl3s44sB_Q,Bobafinitea,3.7,$$,58,"4233 Rosewood Dr, Ste 9, Pleasanton, CA 94588",Pleasanton,37.6984034,-121.8740231
+738,8Zn5qKMqFN_XuxKRI9k3Mw,Chick & T Bento,3.7,$$,57,"4247 Rosewood Drive Suite17, Pleasanton, CA 94588",Pleasanton,37.698373,-121.873471
+739,bHTz18T5mAey-ypzLwMJwA,Joy4tea,3.7,$$,225,"32148 Alvarado Blvd, Union City, CA 94587",Union City,37.5894163879108,-122.067683412499
+740,2kPSk8KOXZEPFJ15IwKv2Q,Tea Heart,2.0,$$,151,"3608 Livermore Outlets Dr, Ste 60, Pleasanton, CA 94588",Pleasanton,37.700669,-121.841842
+741,D7JmJ01v1pJW3IZvi5WSdw,Quickly,2.9,$$,87,"2463 Stoneridge Mall Rd, Ste E202, Pleasanton, CA 94588",Pleasanton,37.6943855,-121.9246361
+742,DrHirT-N27yQhnxjEcjx_A,Arisa Dessert,3.4,N/A,5,"4233 Rosewood Dr, Pleasanton, CA 94588",Pleasanton,37.69848,-121.87549
+743,oCRZQWy0X9dXJIoFILEv7A,Shihlin Taiwan Street Snacks,3.7,$$,184,"2705 Stoneridge Dr, Unit F, Pleasanton, CA 94588",Pleasanton,37.695646942396245,-121.8490931092573
+744,kD_3N-wsDw-prA_kk1DN5A,Yi Fang Taiwan Fruit Tea - Fremont,4.5,$$,219,"34133 Fremont Blvd, Fremont, CA 94555",Fremont,37.575695,-122.04422833
+745,zI3SJCRjBNynllr5U-O8Tw,Tyme For Tea & Co,3.7,$$$,561,"37501 Niles Blvd, Fremont, CA 94536",Fremont,37.5766677856445,-121.979217529297
+746,v7wqA_dzR-FqPkVru08WaQ,Ain't Common,3.7,N/A,56,"36400 Fremont Blvd, Fremont, CA 94536",Fremont,37.5631017024065,-122.0153556137832
+747,IaxYAx9dCESpC_bHuSbU3g,R&B Tea - Fremont,3.6,$$,111,"37120 Fremont Blvd, Unit I, Fremont, CA 94536",Fremont,37.559862,-122.009635
+748,PwRJJaWpADxU4Oik7KtGYQ,Tea Heart Kiosk,1.8,N/A,33,"2774 Livermore Outlets Dr, Livermore, CA 94551",Livermore,37.6988859,-121.84465256533556
+749,wsamdFor_6oQzs-B4qxm4w,Gong cha - Union City,3.1,$$,35,"31812 Alvarado Blvd, Union City, CA 94587",Union City,37.591718,-122.071188
+750,eKgrLxohxvG0hNxw41bKeg,Milk & Honey Cafe,4.2,$$,1182,"34265 Fremont Blvd, Fremont, CA 94555",Fremont,37.57537,-122.04262
+751,XLZ2QbO3MkS0N7PJ6PFqCA,TOCOTEA,3.6,$$,120,"32360 Dyer St, Union City, CA 94587",Union City,37.59793,-122.0693
+752,L7tejVrbawg8e8_fPAg98A,Ululani’s Hawaiian Shave Ice - Livermore,4.4,$$,317,"3016 W Jack London Blvd, Livermore, CA 94588",Livermore,37.69682397687939,-121.8464986
+753,RfEs-s4CFMO6DpY6aHRPyA,OvAsians,4.5,$$,176,"1548 N Vasco Rd, Livermore, CA 94551",Livermore,37.718203665381616,-121.72461773617783
+754,k-dn5-OM1GfaKVD3Y8rrsg,Surf City Squeeze,3.3,$$,49,"2465 Stoneridge Mall Rd, Ste 207, Pleasanton, CA 94566",Pleasanton,37.695941,-121.92942
+755,rYlcVCQ5acLPDuQQ-MfLPA,Cafe 86,4.1,$,407,"34391 Alvarado-Niles Rd, Union City, CA 94587",Union City,37.587125,-122.0218524
+756,lviRyilneXkxIXs2lXfVrw,Mr Green Bubble,3.5,$$,509,"1644 Decoto Rd, Union City, CA 94587",Union City,37.589549,-122.019883
+757,Uwm-gnTKCCNTI2PcGd8AeQ,McDonald's,1.7,$,331,"6800 Santa Rita Rd, Pleasanton, CA 94588",Pleasanton,37.7006534373148,-121.871453885688
+758,7qK7f4Wp6LEc1MNu8yQSvg,Sana Tea & Dessert,4.1,$$,111,"36476 Fremont Blvd, Fremont, CA 94536",Fremont,37.56269,-122.01509
+759,ciRlDzmrJupIkqQIXMkJOQ,Boba Queen,3.4,$,202,"34420 Fremont Blvd, Fremont, CA 94555",Fremont,37.5757,-122.03977
+760,6yV_yKXWTEgmBbg27T9-Xg,Bun Appetit,4.3,$$$,1295,"37120 Fremont Blvd, Ste A, Fremont, CA 94536",Fremont,37.559903868343,-122.009873324027
+761,1kacff4KLyu0Yt-Mbk3tMA,Happy Lemon,3.7,$,216,"1780 Decoto Rd, Union City, CA 94587",Union City,37.58814,-122.0194
+762,RnA_tbStCMS7ODoPToQ-PA,Berry & Berry Yogurt,2.5,N/A,2,"2774 Livermore Outlets Dr, Ste 2612, Livermore Premium Outlets, Livermore, CA 94551",Livermore,37.69836451436413,-121.84512974940614
+763,PSBE3TG-hzEf1c8ZxdHRjg,FroZone Gelato,3.0,$,59,"32170 Dyer St, Union City, CA 94587",Union City,37.5987578871446,-122.070314884186
+764,3142Umkt_hB8R6pLC7vv_g,Che-Lo,4.0,$,579,"1767 Decoto Blvd, Union City, CA 94587",Union City,37.5895628278523,-122.022492714298
+765,RerJ7IHDY2dP8f5w-R0urA,Jenjon's Cafe,4.0,$,503,"1704 Decoto Rd, Union City, CA 94587",Union City,37.589058513675,-122.01876368886
+766,WdPcjgZ5vtpZVO-f9C_e6w,Sweet Mex,4.4,$$,243,"34697 Alvarado Niles Rd, Union City, CA 94587",Union City,37.586225709283,-122.019305102636
+767,AfIS4wSUG9Qz9a1eqTMPLQ,Lemon Gals,4.9,N/A,80,"2450 Road 20, San Pablo, CA 94806",San Pablo,37.96284768738989,-122.33989762944782
+768,8dS-zbUSHNEGiXKyn7akWw,Quickly,3.1,$$,132,"2434 San Pablo Ave, Pinole, CA 94564",Pinole,38.006156,-122.290101
+769,DymDd1SnPZdOm0HyxUgV-g,Limon Frozen Yogurt,2.9,$,189,"2300 El Portal Dr, San Pablo, CA 94806",San Pablo,37.9660453796387,-122.343246459961
+770,1EBL_fZ0QEuJ92XhB6v7jw,Tutti Frutti,3.6,$,144,"3334 N Texas St, Ste C, Fairfield, CA 94533",Fairfield,38.2890102925701,-122.033686637878
+771,6cyggIovYqGar9lR9H3upg,T4 Tea For U,2.9,$,383,"2700 N Texas St, Fairfield, CA 94533",Fairfield,38.276763,-122.033541
+772,OfDHsRT8AIzYkcusPWiWtw,Milk Tea Lab,4.0,$$,162,"136 B Peabody Rd, Vacaville, CA 95687",Vacaville,38.352552,-121.97741
+773,h2_Fy4CYH3o1QSP_lyHptw,Mochinut Vacaville,3.8,N/A,89,"1661 E Monte Vista Ave, P-102, Vacaville, CA 95688",Vacaville,38.36932115200231,-121.9629778898166
+774,xJnrCzQEOCdI0fQZi7vAwA,Rare Tea,3.9,N/A,27,"1670 E Monte Vista Ave, Vacaville, CA 95688",Vacaville,38.3686556,-121.96002
+775,p6Vn02hTn6n4KgMWWtiFQQ,Sweet U Cafe & Catering,4.8,$$,90,"1201 Radio Rd, Ste 150, Redwood City, CA 94065",Redwood City,37.54285,-122.231846
+776,Bznk3HCyvDX8RTNj3F5bGw,Royaltea USA,4.1,$$,455,"38509 Fremont Blvd, Fremont, CA 94536",Fremont,37.5513151288033,-121.993849799037
+777,ArDQt5NlOkTSW8KM94AIGA,Ume Tea,4.2,$$,362,"6018 Stevenson Blvd, Fremont, CA 94538",Fremont,37.51927783249342,-121.9897608
+778,sYoq_t_EztPd5kw_PjeJYw,Sharetea,3.6,$$,212,"3948 Washington Blvd, Fremont, CA 94538",Fremont,37.53195,-121.95789
+779,DEkDvCFZGkQUOkQGqQw-BQ,Rose Tea Lounge - Fremont,4.3,$$,422,"46461 Mission Blvd, Fremont, CA 94539",Fremont,37.492294,-121.927883
+780,_BIAeUEG2bVM8PKqTNtfew,MandRo Teahouse,4.0,$$,860,"34956 Newark Blvd, Newark, CA 94560",Newark,37.551539,-122.050236
+781,zm5Hs8qDX6oAmdkJVR4KFA,Tpumps - Fremont,4.1,$,227,"42130 Blacow Rd, Fremont, CA 94538",Fremont,37.52428,-121.95725
+782,tBmkgYw6_IM9xx-O4gYjdw,T4,3.3,$,433,"46132 Warm Springs Blvd, Ste 133, Fremont, CA 94539",Fremont,37.4932967,-121.9312981
+783,x-weIpceJ9hQfaikdX3new,Meet Fresh,3.1,$$,508,"43337 Boscell Rd, P9-C, Fremont, CA 94538",Fremont,37.5032112218375,-121.976278407313
+784,eGyV8LS9Qqcc8Ak_7Vjraw,i-Tea,3.0,$$,478,"43421 Christy St, Fremont, CA 94538",Fremont,37.504992442164,-121.971231736243
+785,ZJ3R4c8W6Gn28CaVCmz34g,Tapioca Express,3.1,$,68,"41200 Blacow Rd, Ste G, Fremont, CA 94538",Fremont,37.523163,-121.970688
+786,vNPVKXst564PEfDGDMt1-w,Tastea,3.9,$$,219,"5970 Mowry Ave, Ste N, Newark, CA 94560",Newark,37.525087,-122.0064443
+787,zQv6ck31vMhaxrnbRuh3jg,Brian Black Tea,4.0,$$,343,"43982 Pacific Commons Blvd, Fremont, CA 94538",Fremont,37.50098636156102,-121.969142
+788,arja37Alzubz2qE1inejRg,Hay Tea,3.7,$$,77,"35284 Newark Blvd, Newark, CA 94560",Newark,37.54887427582771,-122.0449330177778
+789,W4emw1Z34E78qnqKgEih9w,TeaTop,4.3,$$,244,"39269 Cedar Blvd, Newark, CA 94560",Newark,37.52237,-122.00396
+790,Yfknpb9JvPdbV8L2K96Qvg,TeaZenTea Fremont,3.7,$$,195,"43360 Mission Blvd, Ste 120, Fremont, CA 94539",Fremont,37.532599,-121.919505
+791,XVLWjBEjnhHNhmmsumajfA,Boba Nation,4.1,N/A,49,"2086 Newpark Mall, Shop  1036, Newark, CA 94560",Newark,37.5263584861116,-122.00183760323152
+792,ca8AFS-4VgozfTW-5Qmdrw,Truewin Tea Shoppe,4.1,$$,107,"34925 Newark Blvd, Newark, CA 94560",Newark,37.550779,-122.051027
+793,35P9eU80usy0F1NL9rhLPw,Yokee Milk Tea,4.2,N/A,35,"46164 Warm Springs Blvd, Ste 234, Fremont, CA 94539",Fremont,37.493756,-121.930189
+794,aW0blLKFlnnWpgIFzveHZA,i-Tea,3.9,$,935,"760 E Calaveras Blvd, Milpitas, CA 95035",Milpitas,37.43274,-121.89277
+795,zrqb_QKz_RHxp3PTArSB1Q,Teaspoon Milpitas,3.9,$$,594,"201 W Calaveras Blvd, Milpitas, CA 95035",Milpitas,37.42868,-121.91132
+796,BOPWhJpQ0Tr9fLye7r6GHQ,TeaZenTea Newark,3.8,$$,53,"5632 Thornton Ave, Newark, CA 94560",Newark,37.541281972044466,-122.02596959182392
+797,vcHMHXhrLTo6kvn_mrPDWQ,Umi Tea,4.1,$$,59,"43691 Mission Blvd, Fremont, CA 94539",Fremont,37.5263,-121.91828
+798,NQ8vWOK6KCU0kBstUX47ug,R&B Tea - Nitro,3.6,$$,129,"60 S Abel St, Milpitas, CA 95035",Milpitas,37.4293,-121.90817
+799,iiTn8iD4DVtTwSEAr3igcg,Tata Teahouse,2.9,$,274,"39230 Argonaut Way, Fremont, CA 94538",Fremont,37.543782,-121.986825
+800,Y1Hf7gbQDfokNgXSGIZnoQ,Happy Lemon,4.0,$$,284,"46873 Warm Spring Blvd, Fremont, CA 94539",Fremont,37.488188,-121.930199
+801,p-U6iSfhGzMAd6cMh_rT9g,Feng Cha - Milpitas,3.8,$$,264,"489 E Calaveras Blvd, Milpitas Town Center, Milpitas, CA 95035",Milpitas,37.433686,-121.89778
+802,8lnvH3Z90z1WnHhRvbZDpQ,Happy Lemon,4.2,$$,162,"39151 Cedar Blvd, Newark, CA 94560",Newark,37.5236813,-122.0057602
+803,p93ZvHRgMe6XvNoowTEvqw,Bayleaf Tea,4.6,$$,332,"367 Cypress Dr, Milpitas, CA 95035",Milpitas,37.421434998168955,-121.9215881677999
+804,gmzkQNL0F20o4haUIVv6og,TeaTop,4.2,$,392,"82 Ranch Dr, Milpitas, CA 95035",Milpitas,37.42644,-121.92162
+805,8pIPOs0QkonoI0RtpHL1qw,UMI Tea & Ramen ,4.0,$$,60,"43691 Mission Blvd, Fremont, CA 94539",Fremont,37.52637,-121.91849
+806,uJf07yMoZSuW8PkAwvwzAQ,Tea Time,3.8,$$,484,"542 Ramona St, Palo Alto, CA 94301",Palo Alto,37.4446105957031,-122.161544799805
+807,8Q0bLI8u3wTKR9hyZEsC-g,Sunright Tea Studio - Milpitas,4.1,$$,227,"1693 N Milpitas Blvd, Milpitas, CA 95035",Milpitas,37.45497740904795,-121.9115747790836
+808,NXWwNBGUCSX4Ypa4VuqFQg,Mr Sun Tea,3.9,$$,294,"40526 Albrae St, Fremont, CA 94538",Fremont,37.51976,-121.98758
+809,TqtZsMq58VAveFuJ4cYhmA,Pekoe,3.9,$$,398,"996 Lundy Ave, San Jose, CA 95133",San Jose,37.373802,-121.872138
+810,3XNw6TDbzKulloBH4BjxcQ,Xing Fu Tang,3.5,$$,427,"1735 N Milpitas Blvd, Milpitas, CA 95035",Milpitas,37.455431,-121.911772
+811,c2317yvpdlqY8hulmyrLkA,Macu Tea - Berryessa,4.3,$$,74,"1196 N Capitol Ave, San Jose, CA 95132",San Jose,37.388632,-121.861273
+812,vgseXwt9c975jus_PBM-zA,Anton,4.6,$$$,1290,"1969 Otoole Way, San Jose, CA 95131",San Jose,37.38477,-121.9074193
+813,CpjUgGc1W1gN9Me54qA37A,Wanpo Tea Shop,3.6,$$,287,"660 Stanford Shopping Ctr, Ste 721, Palo Alto, CA 94304",Palo Alto,37.44269358440173,-122.17261271244202
+814,CbQlP9Q8_R1kUhX4-hi7EA,TeaZenTea Milpitas,3.6,$,113,"1535 Landess Ave, Ste 147, Milpitas, CA 95035",Milpitas,37.41662,-121.877
+815,_R-weK9--owVbn30xNi4iw,Orange Square - Milpitas,3.9,N/A,48,"1790 Milmont Dr, Milpitas, CA 95035",Milpitas,37.45492840913191,-121.91589158650818
+816,8zoqoUTfrGjBkIlU2rib3Q,Ume Tea,4.2,$$,672,"272 Barber Ct, Milpitas, CA 95035",Milpitas,37.423732,-121.917868
+817,QCLryOdExq3xzqePXnWxIA,Tong Sui,4.5,$$,320,"265 W Calaveras Blvd, Milpitas, CA 95035",Milpitas,37.427802,-121.911367
+818,VMWFoZFqmMJ4xxjpUwRATw,Mr. Green Bubble,3.1,$$,129,"43743 Boscell Rd, Fremont, CA 94538",Fremont,37.5002429985752,-121.973929655556
+819,iAbHGBkiMyy84w9z_9unEQ,BAMBU,3.7,$,280,"89 S Park Victoria Dr, Milpitas, CA 95035",Milpitas,37.433871,-121.884118
+820,_0rfWk4byOKGvvL8z0WHmQ,X Tea,4.3,$$,116,"1694 Berryessa Rd, San Jose, CA 95133",San Jose,37.37276330133244,-121.87386975379428
+821,c813X7TX_FLiYFxIihWvpQ,One Zo,3.3,$$,63,"46551 Mission Blvd, Unit 102, Inside 99 Ranch Market, Fremont, CA 94539",Fremont,37.4920694,-121.9295516
+822,LGRlUVxJ815GJBxAY-tCWA,Mr Sun Tea,4.1,$$,124,"436 University Ave, Palo Alto, CA 94301",Palo Alto,37.44741030551034,-122.1598543716518
+823,A7CGhWS1Zj1urA8q3CsStg,Heuk Hwa Dang,3.4,$$,84,"279 W Calaveras Blvd, Milpitas, CA 95035",Milpitas,37.427423,-121.91128
+824,X4jb8BGofvo5Fj36sC60dQ,Amausaan Uji Matcha,3.9,$$,319,"39658 Cedar Blvd, Newark, CA 94560",Newark,37.52184,-121.99731
+825,nLkVgsxecsI78-22SvNkzw,Rabbit Rabbit Cream,3.8,$$,275,"78 Stanford Shopping Ctr, Palo Alto, CA 94304",Palo Alto,37.4441,-122.16997
+826,KIabCVtMF-7nY9BAi1OfPQ,Cafe Mei,4.2,$$,205,"43761 Boscell Rd, Ste 5125, Fremont, CA 94538",Fremont,37.499997,-121.973649
+827,rgR8liM7pNzNsOWDVwNIpw,Tisane,3.9,N/A,11,"2671 Cropley Ave, San Jose, CA 95132",San Jose,37.4042,-121.881935
+828,RLE0gSLufT1WwpOaaJIScA,Ume Tea,4.6,$$,112,"450 Great Mall Dr, Ste 139A, Milpitas, CA 95035",Milpitas,37.417545417614946,-121.89754174263284
+829,mog4wAikb1EnzwWSnKt-BQ,Tamper Room Cafe & Gallery,4.5,$,250,"43737 Boscell Rd, Fremont, CA 94538",Fremont,37.50032611915454,-121.9738943
+830,Y4wgkkCvoclvVxTkTS8MCw,Tiger Tea & Juice - San Jose,4.7,$$,607,"1706 Oakland Rd, Ste 25, San Jose, CA 95131",San Jose,37.3834901708966,-121.893125809729
+831,3aABBgYCk2j-ySlF-MwlzA,Chick & Tea Taiwanese Soul Food,3.6,$$,365,"1723 N Milpitas Blvd, Milpitas, CA 95035",Milpitas,37.4551887512207,-121.911521911621
+832,K827SJBsFZycv4NDfVF9_A,Bober Tea & Coffee,4.1,$$,99,"121 Lytton Ave, Palo Alto, CA 94301",Palo Alto,37.444662,-122.165241
+833,Rg9g_jpn2oyGRWRjjW9ZNA,Bobaholics,4.0,$,565,"1055 E Brokaw Rd, Ste 40, San Jose, CA 95131",San Jose,37.3830098,-121.8969438
+834,IC78czdLXY8KJcr5YuokEA,Tao‘s Fresh,4.4,$$,194,"6185 Jarvis Ave, Newark, CA 94560",Newark,37.549585,-122.050394
+835,gHHG2ohMqIF-IG9Rn4DWQg,HE&C TEA+POT,4.2,$$$,220,"544 Emerson St, Palo Alto, CA 94301",Palo Alto,37.44397,-122.16209
+836,LEfPknFaPilXut_xfMjYfA,T4,3.3,$$,400,"165 University Ave, Palo Alto, CA 94301",Palo Alto,37.4445114135742,-122.163368225098
+837,ZYFWGN0zCRlwTQuM-0suvA,3Catea,3.5,$$,77,"1777 N Milpitas Blvd, Milpitas, CA 95035",Milpitas,37.45518,-121.91151
+838,I1ayNBZjC0ixju_IVprKrQ,Boba Guys,3.8,$$,599,"855 El Camino Real, Ste 120, Palo Alto, CA 94301",Palo Alto,37.43844,-122.159
+839,WeIqIWEG9HKpNlkuMB6Zzg,Kiss My Boba Food Truck,3.4,N/A,21,"Hayward, CA 94545",Hayward,37.63873,-122.10685
+840,KWsl_LiiJjQ0eAPxpOx7xA,El Frutiloco,4.8,N/A,58,"38521 Fremont Blvd, Fremont, CA 94536",Fremont,37.55094,-121.99365
+841,gQonIrI86Q6Q6eB_9DzE_Q,Huong Lan Sandwiches,3.5,$$,421,"39055 Cedar Blvd, Ste 116, Newark, CA 94560",Newark,37.523534938875,-122.00805296709
+842,9zI75Xd-PbLxb7S_gFea2g,Crepe & Tea Bar,4.1,$,123,"2078 Newpark Mall, Newark, CA 94560",Newark,37.5282308,-122.0002458
+843,dBVwdKyHFFXq0JDx2-vI9Q,Shihlin Taiwan Street Snacks,4.4,$$,64,"46551 Mission Blvd, Ste 105, Fremont, CA 94539",Fremont,37.4920694,-121.9295516
+844,vIC6NMct6v9a3k2XAgNUJA,Dish N Dash - Fremont,4.3,$$,981,"43514 Christy St, Fremont, CA 94538",Fremont,37.5048876,-121.9701053
+845,RBEt6ptA1Nn3MLcMfRJELg,CoCo Bubble Tea,3.5,N/A,6,"1766 N Milpitas Blvd, Milpitas, CA 95035",Milpitas,37.45593471494324,-121.90999642883618
+846,j3MBkgIE6f-yssqlR2ILGA,Kung Fu Tea,4.2,$,158,"318 University Ave, Palo Alto, CA 94301",Palo Alto,37.446113,-122.161025
+847,cwcS_d5_gY1aJ3W2gwAfLA,Teaspoon,3.5,$$,109,"46809 Warm Springs Blvd, Fremont, CA 94539",Fremont,37.489032,-121.929396
+848,B73-dcihcnAwkE0FJCysTg,Pop Tea Bar,3.9,$,329,"456 Cambridge Ave, Palo Alto, CA 94306",Palo Alto,37.42655,-122.14632
+849,VxQ737AWFYKp2zixON6ofA,Teaspoon Hostetter,3.9,$$,221,"1698 Hostetter Rd, San Jose, CA 95131",San Jose,37.387028766942485,-121.88359751230315
+850,psdxoXeHpmjduLrc7bUGcw,Ume Tea,3.9,$$,213,"421 California Ave, Palo Alto, CA 94306",Palo Alto,37.42613375761519,-122.144726225448
+851,JqMx1pTXdiWHmrXjpLKFUQ,Acha Coffee & Tea,4.5,N/A,50,"3245 Sierra Rd, San Jose, CA 95132",San Jose,37.399414,-121.848318
+852,IKdSK_0rJBY8Jlp-okS3Tg,101 Tea Plantation,3.5,N/A,28,"46859 Warm Springs Blvd, Fremont, CA 94539",Fremont,37.488297,-121.930111
+853,JGcmSx6tBCFZZaHxboAbow,Yi Fang Taiwan Fruit Tea - Milpitas,4.0,$$,411,"212 Barber Ct, Milpitas, CA 95035",Milpitas,37.423515,-121.918402
+854,sDS0BLUMvJnEuw68ni4EGg,Fantasia Coffee & Tea,3.8,$$,1327,"528 Barber Ln, Milpitas, CA 95035",Milpitas,37.4208151690146,-121.916592059012
+855,dtC7Fkml6Fkroq0NGxKerQ,Shihlin Taiwan Street Snacks,4.1,$$,860,"522 Barber Ln, Milpitas, CA 95035",Milpitas,37.420773,-121.916405
+856,xv7RWGJ2KXbMXieP0lqIyQ,Te'Amo Boba Tea x Mochi Donut,3.6,$$,201,"4131 El Camino Real, Ste 101, Palo Alto, CA 94306",Palo Alto,37.41319,-122.12512
+857,DsIIH_fD-RPFzXrGvNwBdg,Tastea,3.9,$$,1055,"1160 N Capitol Ave, San Jose, CA 95132",San Jose,37.38766570190803,-121.86019135497666
+858,KBwS5BqYUyNCM92wRewl4w,Soul Sweets ,4.0,N/A,163,"222 Mount Hermon Rd, Ste K, Scotts Valley, CA 95066",Scotts Valley,37.04731923699055,-122.0265478511006
+859,9YtSWFkk2GDqaUL2Imp7vw,Boba Bay,3.9,N/A,53,"110 Capitola Ave, Ste 3, Capitola, CA 95010",Capitola,36.97301,-121.95081
+860,2G7EDdQ9jAtmhDetVx_gkA,TeaLite Drinks & Snow,4.1,$,252,"624 Tennant Station, Morgan Hill, CA 95037",Morgan Hill,37.1133500672568,-121.638360587448
+861,XImL_Ol91QOByvOnfQA2vQ,T4 Morgan Hill,3.7,$$,187,"114 Cochrane Plz, Morgan Hill, CA 95037",Morgan Hill,37.1503828990931,-121.652958668383
+862,tMsgLEI3rcA4czX2C7jTpw,TZone - Santa Cruz,3.4,$,168,"1717 Mission St, Santa Cruz, CA 95060",Santa Cruz,36.96502,-122.04133
+863,zZrNgHj0dy1_p5Wd-0i5OA,iCrave,4.5,$,223,"1601 41st Ave, Ste Q, Capitola, CA 95010",Capitola,36.9728501053974,-121.966594130149
+864,SX84XqxDsw5wzllbWGsmgg,EYEfiniTEA Optique & Lounge,4.4,$,249,"15700 Monterey Rd, Ste 100, Morgan Hill, CA 95037",Morgan Hill,37.11050573367104,-121.63878675064312
+865,UBKXNY413IKp-P4zQqvsJQ,Snow Boba,4.4,$$,43,"6029 Snell Ave, San Jose, CA 95123",San Jose,37.23805822293055,-121.83191142976284
+866,TF08Dl8-kv665gRX3E1rqA,Cafes Quan,4.5,N/A,60,"1816 Tully Rd, Ste 184, San Jose, CA 95122",San Jose,37.32204,-121.82368
+867,i27B_IfFNomthg0S-I11xQ,Ume Tea,3.9,N/A,115,"46 Front St, Santa Cruz, CA 95060",Santa Cruz,36.9638589028906,-122.024393
+868,atEk48ea7lnDQnJo2ntHLQ,Dessert Lounge,4.0,N/A,30,"1058 S Green Valley Rd, Watsonville, CA 95076",Watsonville,36.918086,-121.783719
+869,74i0E1Od68LpW6tpCRS6UQ,Pink Pantherz Espresso,3.3,N/A,67,"2797 El Camino Real, Redwood City, CA 94061",Redwood City,37.47092,-122.21366
+870,_sjnAJCIaM0gGV-VsnSuDg,Mr Z’s Crepes & Teas,3.4,$$,142,"45 Aviation Way, Ste 2, Watsonville, CA 95076",Watsonville,36.933747,-121.785904
+871,O2p83zIuHCnvTH7dzUvTpA,Quickly,2.9,$,173,"300 Walnut St, Redwood City, CA 94063",Redwood City,37.4917931901457,-122.224192531477
+872,VQPtsRVNTFkFptcXDTtIyg,Urban Ritual,4.4,$,1073,"488 Fell St, San Francisco, CA 94102",San Francisco,37.77576,-122.42585
+873,W_sOyDeNhhY27T_OMd11Mw,BubbleCups,4.4,$,108,"1940 Piner Rd, Ste 400, Santa Rosa, CA 95403",Santa Rosa,38.46685,-122.74909
+874,sSiUcnbwPQ4ssHY3EMV0Fw,Matcha Cafe Maiko,4.5,$$,1498,"1581 Webster St, San Francisco, CA 94115",San Francisco,37.785051,-122.432095
+875,kYdVnVQBg5A9D9O5r0nHog,Tong Sui,4.7,$$,393,"540 Bryant St, Palo Alto, CA 94301",Palo Alto,37.44524,-122.161
+876,7j8XPmtZENp8x4s742jBzg,O2 valley,4.1,$$,101,"452 University Ave, Palo Alto, CA 94301",Palo Alto,37.447583,-122.159603
+877,pBQoVycTB_l_2eiIkfrwkg,Teaspoon,3.5,$$,195,"2675 Middlefield Rd, Ste C, Palo Alto, CA 94306",Palo Alto,37.434085,-122.129446
+878,sLYsHKIEKW6hIRQdm-soMA,Konditorei,3.9,$,142,"3130 Alpine Rd, Ste 284, Portola Valley, CA 94028",Portola Valley,37.401358,-122.1928743
+879,aV6Sd688CD4drkiFEFREAA,Mademoiselle Colette,4.1,$$,604,"816 Santa Cruz Ave, Menlo Park, CA 94025",Menlo Park,37.45088858501855,-122.1853792766882
+880,rKogCfxbl1yn3kfY8GeyrA,Wild Berry Yogurt,3.5,$,83,"325 Sharon Park Dr, Ste A, Menlo Park, CA 94025",Menlo Park,37.424011,-122.196749
+881,f8b71yOEDylJ7qZlp-HkJw,ZERO& Stanford Mall,3.9,N/A,250,"660 Stanford Shopping Ctr, Ste 198, Palo Alto, CA 94304",Palo Alto,37.443520560256296,-122.1709939
+882,ee3J88HC9WU0vcFCvCiLnA,Somisomi,4.2,$,100,"440 University Ave, Palo Alto, CA 94301",Palo Alto,37.44752,-122.15965
+883,YbIEiENNsU9NlLIbxlLisw,Coupa Cafe,3.6,$,1431,"538 Ramona St, Palo Alto, CA 94301",Palo Alto,37.444682,-122.161533
+884,p2qh9Vb6_m7aPsrpD5lA1w,Forbes Family Café,2.6,$$,33,"475 Via Ortega Dr, Stanford, CA 94305",Stanford,37.4281578063965,-122.174194335938
+885,lKdMn-4N22cLda3xvXmvEA,Gong Cha,3.7,$$,226,"272 O'Farrell St, San Francisco, CA 94102",San Francisco,37.78645,-122.40923
+886,2oGYlRxPAn0SyL9AMV5HVw,Tong Sui,4.7,$$,403,"2400 Broadway, Unit 110, Redwood City, CA 94063",Redwood City,37.486511113679136,-122.23139127388882
+887,dTWyjh3VmtstTE4yOlyA1w,Teaspoon,3.4,$,228,"2361 Broadway, Redwood City, CA 94063",Redwood City,37.4863,-122.230747
+888,cQbxRVatvt4g7ytJvxrnnQ,Happy Lemon,4.3,$$,78,"851 Middlefield Rd, Redwood City, CA 94063",Redwood City,37.48595820586902,-122.2288828
+889,_aFiDLWEn_3dkYeN7sCAaA,Cravingz,4.8,N/A,48,"826 Main St, Redwood City, CA 94063",Redwood City,37.485961,-122.226622
+890,_GQ4PDZHbdp6Mvo1OJ6jyQ,Froyola,4.3,$$,46,"2206 Broadway St, Redwood City, CA 94063",Redwood City,37.4867482944358,-122.229360103705
+891,NViFdla81JjimgMgze0vlA,Spill The Tea,3.7,N/A,80,"1036 El Camino Real, Redwood City, CA 94063",Redwood City,37.483934,-122.23264
+892,BftSpsABNEOY0UBea64XTA,Sharetea,3.5,$,601,"1728 Hostetter Rd, Ste 30, San Jose, CA 95131",San Jose,37.3877095395447,-121.88265226193496
+893,N5pS6LIeGQfGs8lI8BRHDg,ZERO& Great Mall,3.9,$$,106,"447 Great Mall Dr, Space 104, Milpitas, CA 95035",Milpitas,37.41605,-121.8991178
+894,WiUdOFpg-Nlej6_R7mlYnQ,Devil & Angel Desserts,3.0,N/A,77,"172 Great Mall Dr, Milpitas, CA 95035",Milpitas,37.416199,-121.896704
+895,OdQyr-WteD4lJYHN9qkH8w,Yummi Tea Cafe,4.1,$$,417,"2191 Morrill Ave, San Jose, CA 95132",San Jose,37.414925,-121.875899
+896,g7Lub5A8K9CYuIIlNxgzMA,Quickly,2.4,$,289,"1350 S Park Victoria Dr, Ste 30, Milpitas, CA 95035",Milpitas,37.4178751788897,-121.874392975463
+897,K75TYCWIRzHja8GDzPKZKA,Happiness Cafe,4.4,$$,463,"1688 Hostetter Rd, Ste C, San Jose, CA 95131",San Jose,37.3863881481701,-121.884803238098
+898,Wrb_zdCnf6IGqm2jCx-u2Q,Gong Cha,3.5,$,587,"1701 Lundy Ave, Ste 170, San Jose, CA 95131",San Jose,37.38753,-121.88725
+899,XgUmwFuPrsZI55QUhlWPvg,Bobaholics,4.1,$,101,"2323 Mckee Rd, Ste 8, San Jose, CA 95116",San Jose,37.36658983053744,-121.85054544110446
+900,MWGxfEtPuJUmnlKZtRbfgg,CoCo Fresh Tea and Juice,3.3,N/A,63,"1477 Berryessa Rd, Ste 40, San Jose, CA 95131",San Jose,37.36939473559974,-121.8799277
+901,U-abbdDht0a-RBDZaYP52Q,T4,3.2,$,382,"1671 N Capitol Ave, San Jose, CA 95132",San Jose,37.3973911068787,-121.87370179693656
+902,-h1KaZzHUNNIZ0uPgdzNIA,MandRo Teahouse-Milpitas,3.8,$$,389,"200 Serra Way, Ste 12, Milpitas, CA 95035",Milpitas,37.42648,-121.91002
+903,vL6zSJYPz422nitD2BfxVQ,The Besteas Cafe,4.9,$$,48,"1075 S White Rd, Ste 70, San Jose, CA 95127",San Jose,37.35663,-121.82005
+904,X94OEUaTDDgCL37uZ4Vvzg,Happy Lemon,4.0,$,177,"311 N Capitol Ave, Ste C, San Jose, CA 95133",San Jose,37.36959250013129,-121.84508738460782
+905,P-pozw-eEpsyos3WlVowuw,Shihlin Taiwan Street Snacks,4.4,$$,157,"1477 Berryessa Rd, Ste30, San Jose, CA 95133",San Jose,37.36962908109842,-121.88024953168818
+906,nDBr0w-FyX-9S2iREivizQ,Hapa Musubi,4.4,N/A,84,"1658 S Milpitas Blvd, Milpitas, CA 95035",Milpitas,37.4104659,-121.8863502
+907,fDUBTV6GDADGYLoRAvAZwA,Tcafé,4.6,$,50,"2002 AlumRock Ave, San Jose, CA 95116",San Jose,37.35568,-121.848703
+908,37QEvHvlRFJ56EfEb46dlA,7 Leaves Cafe,4.0,$$,1238,"1743 Berryessa Rd, San Jose, CA 95131",San Jose,37.3751025967376,-121.872479772728
+909,FiTHvLic1yqVyo98zyrv9g,Flaming Ox,4.4,$$,150,"1085 E Brokaw Rd, Ste 40, San Jose, CA 95131",San Jose,37.383523159573826,-121.8967716
+910,QXuZiara7AoMmWKpw5BaoA,Simpletea,3.9,$$,51,"2520 Berryessa Rd, San Jose, CA 95132",San Jose,37.3875255,-121.85794444581254
+911,525ebu2JEX7wRa2ElALzSA,Taiwan Cafe,3.8,$$,434,"568 N Abel St, Milpitas, CA 95035",Milpitas,37.4358666595318,-121.909899778435
+912,fsw4cYl4yRAl8r7B_BnESw,Auntie K Candy,4.6,N/A,11,"San Jose, CA 95101",San Jose,37.38922119,-121.88752747
+913,JU5AmVZ2Ki_TEjBB4DCLGg,BAMBU,4.0,$,737,"1688 Hostetter Rd, Ste D, San Jose, CA 95131",San Jose,37.38644,-121.88457
+914,NxXuRqcG6EE00Q_yrRn7oQ,Yogurtland,4.3,$,531,"752 E Calaveras Blvd, Milpitas, CA 95035",Milpitas,37.43335199,-121.89294105
+915,-kiiQdM_Tj79_fac_Ntldw,Tapioca Express,2.7,$,258,"2285 McKee Rd, San Jose, CA 95116",San Jose,37.3652659,-121.85075800859846
+916,MHLAiMZeZND30AFf2TVVDQ,Caffe Bene,3.9,$$,537,"181 E Tasman Dr, Ste 80, San Jose, CA 95134",San Jose,37.412773,-121.937613
+917,4grlSFXRQuGg-eW-p59e7w,Sweet Fix Creamery,4.4,$$,512,"2715 Mckee Rd, San Jose, CA 95127",San Jose,37.371157,-121.842127
+918,vjh_OWW_xLGQxQ0I4cUVsg,Oh My Boba,4.2,$,187,"1030 Piedmont Rd, Ste E, San Jose, CA 95132",San Jose,37.39198,-121.84226
+919,aDKp5l93VwhTnuERyxoFdA,Caffino Cup,4.4,$$,148,"315 W Calaveras Blvd, Milpitas, CA 95035",Milpitas,37.42720487195782,-121.9120214
+920,W2kBgLFsWsxGc8dmpvcPGw,Taiwan Porridge - Milpitas,3.8,$$,454,"1706 N Milpitas Blvd, Milpitas, CA 95035",Milpitas,37.45514472027772,-121.9102299
+921,5X5mVZ5pCjd3TmGvuP-YYA,Little Taipei Cafe,3.3,$$,255,"46847 Warm Spring Blvd, Fremont, CA 94539",Fremont,37.4884106309512,-121.929674743439
+922,SL6s1EjXcivfQFvOI9RluQ,Milkcow,3.7,$,1142,"5625 Auto Mall Pkwy, Fremont, CA 94538",Fremont,37.504344,-121.976294
+923,Yp5Bx1O53LMDD1QU9tp6KA,Deluna Dessert Cafe,4.3,$,307,"3581 Truxel Rd, Ste 1, Sacramento, CA 95834",Sacramento,38.63402728208636,-121.50329208151916
+924,6DFlG05ktnlXOUYXEZ7bMg,Sonoma Chocolatiers,3.8,$$,136,"6988 McKinley St, Sebastopol, CA 95472",Sebastopol,38.4031966,-122.824691
+925,iukAez3p6EW81okZ7mb-CA,Mr & Mrs Tea House,3.7,$,360,"544 Clement St, San Francisco, CA 94118",San Francisco,37.783292,-122.465241822931
+926,oasTFgcJWAMD0J37QOtgZg,T% Coffee + Tea - Elk Grove,4.3,$$,555,"8325 Elk Grove Florin Rd, Ste 200, Sacramento, CA 95829",Sacramento,38.455477,-121.370404
+927,MRnQZtwUv_8hef9EVvYsmw,Yokee Milk Tea,4.6,$$,93,"253 Kearny St, San Francisco, CA 94108",San Francisco,37.79054304314519,-122.4042567
+928,NjyZgRN0AuNEerEd-z5VXg,Boba & Brew,4.6,N/A,54,"250 Main St, San Francisco, CA 94105",San Francisco,37.789870870246816,-122.39363206234982
+929,b_ZEMFwyT0jevqayB6Zu-g,FiDi - Little Sweet,4.7,$$,35,"224 Kearny St, San Francisco, CA 94108",San Francisco,37.7904007394903,-122.40375333226862
+930,L1tnkGKiPHn_EIkm2m64Mw,Tibear,4.2,N/A,41,"827 Sacramento St, San Francisco, CA 94108",San Francisco,37.793232,-122.406621
+931,wtJmdL1X1cukZX2ZE-UfCw,Happy Lemon,3.0,$$,29,"425 Mission St, Ste 105, San Francisco, CA 94105",San Francisco,37.789758847844126,-122.3963037705522
+932,fBl3DeIytN_sqApYphdVgQ,Ha Tea,3.8,N/A,32,"1170 Powell St, San Francisco, CA 94108",San Francisco,37.795553,-122.409699
+933,dzGlLkAj9pc-9j8uX72vfA,ZERO &,4.0,$$,104,"845 Market St, Space 14, San Francisco, CA 94103",San Francisco,37.7841,-122.40614
+934,eCZTD10ASzamcbLxnF-KjA,Pink Pink Tea Shoppe,3.8,$$$,219,"845 Market St, Ste FE-11, San Francisco, CA 94103",San Francisco,37.78439432128647,-122.40591787336808
+935,n5M8iTMlWXQ94qlaicWYgA,Zero&,4.1,$$,56,"2252 Fillmore St, San Francisco, CA 94115",San Francisco,37.79055793919994,-122.4339516
+936,bI0djBt4exAWQQOxaVexDA,Imperial Tea Court,3.2,$$,368,"1 Ferry Bldg, 1 Ferry Bldg, San Francisco, CA 94111",San Francisco,37.795536,-122.393441
+937,BKuqWSqVdnLV6aUxYOAzlw,Hi Sweetie Tea and Treats,4.6,$,76,"775 Jackson St, San Francisco, CA 94133",San Francisco,37.7957,-122.40779
+938,SEAeBNHMEuUUoyB99978BA,Miss T,4.6,N/A,13,"708 Kearny St, San Francisco, CA 94108",San Francisco,37.794663,-122.404675
+939,gJsUMxHGXkEdN7hIMhhmKA,STEEP Creamery & Tea,4.0,$$,296,"270 Brannan St, San Francisco, CA 94107",San Francisco,37.782641,-122.391335
+940,s2noUNveNyXYZyVqXGjcNQ,Quickly - Kobe Bento,3.3,$,219,"901 Kearny St, San Francisco, CA 94133",San Francisco,37.79643,-122.40538
+941,ZG0CRrkc9i-AGnea3CeWYw,Red Blossom Tea,4.4,$$,293,"831 Grant Ave, San Francisco, CA 94108",San Francisco,37.7946883786487,-122.406482498759
+942,mc2dgNR3WydStBjDVuL1Iw,Lilikoi,5.0,N/A,1,"1355 Market St, The Market, San Francisco, CA 94103",San Francisco,37.776638892171725,-122.41665923288076
+943,M35asPpc2cemZxgJUz5iuQ,Plentea,4.3,$$,76,"1515 3rd St, Ste 100, San Francisco, CA 94158",San Francisco,37.76934707665651,-122.3889394
+944,OSZ6bFeCcv4PvUmvuiMEJw,Inner Richmond - Little Sweet,4.0,$$,937,"3836 Geary Blvd, San Francisco, CA 94118",San Francisco,37.781425,-122.4608022
+945,J1sdbl2OIz5cLIAndCfGcA,Phi Long Sandwich,4.8,$,49,"4605 Geary Blvd, San Francisco, CA 94118",San Francisco,37.780643,-122.468723
+946,JIKBj-HxCGS09s2NdJjI0w,Three polar bears,4.1,N/A,46,"402 Balboa St, San Francisco, CA 94118",San Francisco,37.77743,-122.463212
+947,y-Mg6CbsiLBOiK4XH0mkpQ,E Tea,3.5,$,239,"5344 Geary Blvd, San Francisco, CA 94121",San Francisco,37.78069,-122.47699
+948,SOBPQqb8bkC6EH7p00jnFQ,BobaHead,3.9,N/A,39,"1770 Fulton St, San Francisco, CA 94117",San Francisco,37.776064,-122.446209
+949,PEcmbEu7bMCBrRF_L9j2BQ,Quickly,3.1,$,192,"709 Larkin St, San Francisco, CA 94109",San Francisco,37.784475818839304,-122.4179234
+950,uew8xmwhq4VDvNDdmXW38g,Sharetea,3.4,$$,539,"135 4th St, San Francisco, CA 94103",San Francisco,37.784589,-122.403344
+951,Na4sLORXAyWokKnzgqQEBQ,Sweet Glory,4.8,$$,234,"721 Larkin St, San Francisco, CA 94109",San Francisco,37.784572960854554,-122.4179317028318
+952,Zn6UlhMoCmO0Cb_0TyvbLw,Sweet Mango Dessert & Cafe,3.9,$,206,"5217 Geary Blvd, San Francisco, CA 94118",San Francisco,37.78024,-122.47542
+953,V8wOXvAbS9ghCMuYlPQVww,SPRO,4.5,$$,302,"601 Mission Bay Blvd N, San Francisco, CA 94158",San Francisco,37.77089814034783,-122.39136027268194
+954,6o0GBaGjWfBkAWFU0Qb6Hw,Boba Guys,4.1,$,598,"8 Octavia St, San Francisco, CA 94102",San Francisco,37.772945,-122.423476
+955,mS8phS8S7uzgeEPQeTdQUA,Lilikoi,3.6,N/A,9,"1355 Market St, San Francisco, CA 94103",San Francisco,37.77669114153179,-122.4163090810946
+956,durukkwUUqNmkbNr0D113A,NaYa Dessert Cafe,3.8,$$,731,"5338 Geary Blvd, San Francisco, CA 94121",San Francisco,37.78076,-122.47679
+957,Q4o18t-lk70kqY6raBdlJw,Tea & Others,4.2,$$,276,"250 Divisadero St, San Francisco, CA 94117",San Francisco,37.77152,-122.43688
+958,O5UZcRndRDB1AH1B_DkHLA,Honey B Tea House,3.4,$,342,"2201 Clement St, San Francisco, CA 94121",San Francisco,37.78186,-122.48289
+959,g2ckHUzTfnsFR_pW0Ism7g,Boba Guys,4.2,$$,166,"836 Divisadero St, San Francisco, CA 94117",San Francisco,37.7774106,-122.4381031
+960,_wZlW8K6aBKfyBPVzyBRMg,Quickly,3.1,$,81,"2800 Leavenworth St, Ste A11, San Francisco, CA 94133",San Francisco,37.807575838789745,-122.41890308688744
+961,gVmKZuMIDV-YXMOFQNkB4w,Maruwu Seicha,4.1,$$,301,"1737 Post St, San Francisco, CA 94115",San Francisco,37.78521075882023,-122.43030687059232
+962,GKKDdG0crNbIOU0fNHhhug,CoCo Fresh Tea & Juice,3.8,$$,158,"652 Market St, San Francisco, CA 94104",San Francisco,37.78846,-122.40294
+963,jUZcvtmFxsedXY92vvLYqw,Tancca,4.0,$$,207,"776 Broadway, San Francisco, CA 94133",San Francisco,37.79759666827415,-122.40996512392546
+964,IJk76B-pTta_klpAZcpQdA,Lou's Cafe,4.4,$$,1921,"5017 Geary Blvd, San Francisco, CA 94118",San Francisco,37.78045,-122.47329246476228
+965,0JBX5bhvJZhmV2Mv0-bBmg,Komeya No Bento,4.6,$$,275,"3137 Laguna St, San Francisco, CA 94123",San Francisco,37.80007,-122.43134
+966,MtTYbQKk57eMwKZuSzMPVg,Love Tea,3.5,$$,90,"601 Broadway, San Francisco, CA 94133",San Francisco,37.797686,-122.407087
+967,O-LIyFcHvd1t57WGErSzzQ,Metro Hong Kong Dessert,3.6,$,118,"928 Stockton St, San Francisco, CA 94108",San Francisco,37.7943384021025,-122.408487623657
+968,6YSoN27f_p4ExWIX3j2X5g,Song Tea & Ceramics,4.9,$$$,82,"2120 Sutter St, San Francisco, CA 94115",San Francisco,37.7859464,-122.4353888
+969,SGBxF2mPPIcoQZYzB9rUhg,Yu's Cafe,3.9,$$,84,"57 Walter U Lum Pl, San Francisco, CA 94108",San Francisco,37.79508,-122.40594
+970,dGMu_3IPt-WcR9NSSq2XGA,Juicy Fruit,4.6,$,93,"768 Jackson St, San Francisco, CA 94133",San Francisco,37.79599575218002,-122.4077393273556
+971,WxC-bzdy05oSzpjEqT3ZVQ,Sweetheart Cafe,3.6,$,496,"909 Grant Ave, San Francisco, CA 94108",San Francisco,37.79527,-122.40666
+972,waCtJ0DY-Y6J7Btg7WRhdg,E Tea,3.2,$,142,"839 Kearny St, San Francisco, CA 94108",San Francisco,37.79584,-122.405228
+973,WbKunUDGXEPFdvcUIwhJIA,Yi Fang Taiwan Fruit Tea,3.8,$$,62,"1737 Post St, Ste 367, San Francisco, CA 94115",San Francisco,37.785123,-122.430536
+974,pj9RLt06iLz4Vo8JEWLjUA,Ten Ren Tea,3.3,$,310,"949 Grant Ave, San Francisco, CA 94108",San Francisco,37.79577,-122.40681
+975,2XQm-uFcTS7oc8MFP-8olA,B Patisserie,4.6,$$,3549,"2821 California St, San Francisco, CA 94115",San Francisco,37.787873,-122.440882
+976,GIUMeJkVAKt5Lvh-0x8Fcg,Maggie's Cafe,2.2,$,119,"848 Grant Ave, San Francisco, CA 94108",San Francisco,37.7949104309082,-122.406265258789
+977,NcBe0E7_Tx4D_21TP3MNcQ,Xpresso Tea,3.7,$,50,"6901 Geary Blvd, San Francisco, CA 94121",San Francisco,37.779377,-122.493614
+978,A2Bpbf-6k_Sv63Lp42LUJA,Fifty / Fifty Coffee and Tea,4.1,$$,495,"3157 Geary Blvd, San Francisco, CA 94118",San Francisco,37.7815834538614,-122.45301963519152
+979,ognXrK8JRWOHCM9IFaKzBQ,Ice N Tea,3.3,N/A,12,"986 Market St, San Francisco, CA 94102",San Francisco,37.782738,-122.410176
+980,1LDXPE6Zgky7FaC5aeqa2w,T4 - Tea 4 U,4.0,$,562,"2212 16th St, Sacramento, CA 95818",Sacramento,38.5645592885008,-121.491134092212
+981,SYf3Ofku3ODbwAvn5kTD5Q,Teaspoon,4.8,N/A,20,"2441 Fair Oaks Blvd, Sacramento, CA 95825",Sacramento,38.574687,-121.4040193
+982,XQtbYdFZe7b0UJxv0iZZqw,T% Coffee +Tea -  Sacramento Midtown,4.2,$$,353,"1809 S St, Ste 103, Sacramento, CA 95811",Sacramento,38.56758,-121.48659
+983,zuBBlTUM6W5DQc_LPDKyXw,Honeybee Boba Cafe,4.1,N/A,75,"6505 Folsom Blvd, Sacramento, CA 95819",Sacramento,38.55477401198837,-121.4273322077581
+984,WGxActLA6TmcAjvMZknSCw,Bober Tea & Coffee,4.3,$$,655,"8848 Calvine Rd, Ste 160, Sacramento, CA 95828",Sacramento,38.4522670379495,-121.37405577398602
+985,MtdCzOs7y1gvOo0J47RhWw,Bober Tea & Coffee,4.3,$$,895,"6900 65th St, Ste 2, Sacramento, CA 95823",Sacramento,38.50089,-121.43173
+986,Zulz4yX8SqDC7b0IX8pebQ,Nameless Tea & Coffee,4.6,N/A,41,"813 16th St, Sacramento, CA 95814",Sacramento,38.57992190091314,-121.4842812
+987,Sx4Zkn0u4Js8r6VFzdwmCQ,Taichi Bubble Tea,3.8,$$,92,"5801 Folsom Blvd, Ste 110, Sacramento, CA 95819",Sacramento,38.55780778716408,-121.4357525
+988,x-CODv1eT8G3L1OEiKh9ZA,Lazi Cow - Folsom,4.0,$$,133,"2379 Iron Point Rd, Ste 110, Folsom, CA 95630",Folsom,38.64508,-121.12342
+989,qgi4uHnOGD085hWE4KDBLw,Matcha Cafe Maiko,4.7,$$,338,"6905 Stockton Blvd, Ste 240, Sacramento, CA 95823",Sacramento,38.501488,-121.431247
+990,-ztD-07ruMV9950ACXg8Dg,Happy Lemon,3.7,$$,135,"3660 Crocker Dr, Ste 110, Sacramento, CA 95818",Sacramento,38.541100016864,-121.482457802377
+991,WOTB0M0_o952Xe_0y9f23g,Bober Tea & Coffee,4.4,$$,169,"2791 E Bidwell St, Folsom, CA 95630",Folsom,38.65351,-121.12279
+992,WtCoasJ-mWGL2N9NZlrS1g,Gong Cha,3.8,$$,285,"6825 Stockton Blvd, Ste 230, Sacramento, CA 95823",Sacramento,38.5023398,-121.4318766
+993,UI-C9C0uuX9BK1zm4dm0Iw,Purple Kow,4.6,$$,87,"1821 Douglas Blvd, Roseville, CA 95661",Roseville,38.74520794646904,-121.2596635
+994,b_bN3q16Ru773fU4ct6axw,RareTea,4.3,$$,278,"414 K St, Ste 225, Sacramento, CA 95814",Sacramento,38.58101494760445,-121.50095581510554
+995,NskXkxLolqK4jq_CkKmUjA,Teaspoon,5.0,N/A,1,"2441 Fair Oaks Blvd, Sacramento, CA 95825",Sacramento,38.574687,-121.4040193
+996,oDEAJAXl0q0fvsE_BwpJVQ,8Teas Bubble,4.3,$,108,"3579 Mather Field Rd, Ste B, Rancho Cordova, CA 95670",Rancho Cordova,38.57210523149514,-121.2990223
+997,Pp094VtW_JRzN4sOjIgX1g,Mr Sun Tea,4.1,$$,128,"2711 Del Paso Rd, Ste 100, Sacramento, CA 95835",Sacramento,38.65738722535918,-121.52237035512589
+998,O0Cwb9PRXB3xJxqlyp7TKw,i-Tea,3.7,$,418,"6461 Stockton Blvd, Ste 4, Sacramento, CA 95828",Sacramento,38.5089463811178,-121.434661547454
+999,mBs-YWp4K-Y94gSUuQiTzQ,Tokyo Cream,4.4,$$,331,"1906 Taylor Rd, Ste 110, Roseville, CA 95661",Roseville,38.76321031985689,-121.25533372163773
+1000,HWDhR_2UxFU8bJWlJj5U5Q,Fusion,3.7,$$,368,"3360 Mather Field Rd, Rancho Cordova, CA 95670",Rancho Cordova,38.573646,-121.302699
+1001,9VtyxJY0GbkbgrdkClrH9A,Teaspoon Roseville ,4.3,$$,137,"2030 Douglas Blvd, Ste 16, Roseville, CA 95661",Roseville,38.74296473091854,-121.25150148010722
+1002,isSkPiDvyleQ79lwX93gIw,Sweetea,4.0,$$,89,"4010 Foothills Blvd, Ste 101, Roseville, CA 95747",Roseville,38.75374860812047,-121.311086547931
+1003,NnSZ-0pMVtl5lcVzhZ0LGw,Dream Tea,4.4,N/A,63,"3633 Bradshaw Rd, Ste E, Sacramento, CA 95827",Sacramento,38.555444,-121.334572
+1004,wQn3INrTGbdgxsItXafIiw,The Bomb Teashop,4.2,$$,251,"1000 Sunrise Ave, Ste 4A, Roseville, CA 95661",Roseville,38.729016195650026,-121.27341651511732
+1005,TZwlCxXMrJ559H2UhFZJug,The Alley Boba Tea - Elk Grove,3.7,$$,150,"7440 Laguna Blvd, Ste 111, Elk Grove, CA 95758",Elk Grove,38.422615,-121.415996
+1006,KLrUTCRTa3FS9sGG-jA0tQ,T4 Arden - Tea For Me,3.4,$,135,"1537 Howe Ave, Ste 112, Sacramento, CA 95825",Sacramento,38.593649,-121.416072
+1007,eipg3HTGL1fFnsyA0ThtRw,T4 Madison-Auburn,3.7,$$,243,"5120 Auburn Blvd, Sacramento, CA 95841",Sacramento,38.66179,-121.34515
+1008,dAUG79Cbd4maBFDgEFsN6g,Su Van,4.0,$,12,"6461 Stockton Blvd, Sacramento, CA 95823",Sacramento,38.5098145,-121.4354594
+1009,pxX71xAIm0kRLLjv455u2Q,The Tea Nook,4.8,N/A,61,"668 5th St, Lincoln, CA 95648",Lincoln,38.89201542762785,-121.2922967
+1010,umDqJeA-Xvj5InHBivK0oQ,Kultura Cafe,4.3,$$,158,"2164 Sunset Blvd, Ste 206, Rocklin, CA 95765",Rocklin,38.804758508102985,-121.27472973578148
+1011,K1e9iw8ZsCSzcTp9thY0Rw,Boba Loca,3.5,$,143,"1689 Arden Way, Ste 1167, Sacramento, CA 95815",Sacramento,38.601552,-121.427359
+1012,ztlUuD5IlNbSxvQqAlIWmg,Tea Culture,3.4,$,508,"8433 Elk Grove Florin Rd, Elk Grove, CA 95624",Elk Grove,38.4511134086885,-121.370253260049
+1013,VEBtExXRjg7LMCRUVkfc_g,Snowbee Tea Station,3.6,$,528,"6905 Stockton Blvd, Ste 250, Sacramento, CA 95823",Sacramento,38.5016246438032,-121.431330218911
+1014,CadteDeoT8TkF4THVDgtUw,T4 Natomas,3.8,$,409,"4660 Natomas Blvd, Unit 120, Sacramento, CA 95835",Sacramento,38.65747,-121.5118251
+1015,qvgg88E5v5JKjFFhKcVErg,Bubble University,4.2,$$,310,"960 Sunrise Ave, Ste 105, Roseville, CA 95661",Roseville,38.730768,-121.272407
+1016,0oyRnylxcQb5XVy490edNg,Quickly,3.6,N/A,70,"3291 Truxel Rd, Ste 6A, Sacramento, CA 95833",Sacramento,38.62522628185703,-121.49888400003572
+1017,icS3v360zm1P3pmQ8LKHrQ,E Tea,3.7,$,150,"900 15th St, Sacramento, CA 95814",Sacramento,38.5794518542265,-121.486359585372
+1018,CFvCQjFA6UCX_CatmVg09A,Kobing Dessert Studio,4.6,$$,124,"6001 San Juan Ave, Citrus Heights, CA 95621",Citrus Heights,38.674771,-121.292973
+1019,PNoXncNvSBG6e0xPsubvCw,B & B Bakery and Boba,4.2,$$,210,"835 Twelve Bridges Dr, Ste 95, Lincoln, CA 95648",Lincoln,38.84977,-121.28638
+1020,3RpOVXSc9Ew7nfP60WR7Bg,Sunright Tea Studio,4.6,$$,82,"1001 E Bidwell St, Ste 102, Folsom, CA 95630",Folsom,38.669586,-121.155886
+1021,OiaYLNLlwraGw6NCDg0sQw,Tea Hub,3.6,$,44,"4543 Freeport Blvd, Sacramento, CA 95822",Sacramento,38.534347,-121.493506
+1022,ZHuopOEkZYa_PS-cJ2UiFA,Tea It,4.5,$,155,"8516 Auburn Blvd, Ste A, Citrus Heights, CA 95610",Citrus Heights,38.720977,-121.2897917
+1023,yLX8geZkzaPxzLUN9GAhEg,QTea Boba,4.4,$,70,"6385 Riverside Blvd, SACRAMENTO, CA 95831",SACRAMENTO,38.5102577,-121.5409141
+1024,wi_jq0diWSEjrts23wAJoA,E Ka Tea,4.1,N/A,17,"2100 16th St, Sacramento, CA 95818",Sacramento,38.56589,-121.49068
+1025,asbDqidw6w_gl8IHjQ_lVg,Boba Pho U,3.8,$$,145,"3071 Freeport Blvd, Sacramento, CA 95818",Sacramento,38.54832904457382,-121.48944061249496
+1026,mMYdvj8HDLGslESDvmaTXA,Urban Fuse,5.0,N/A,3,"1611 Lead Hill Blvd, Ste 160, Roseville, CA 95661",Roseville,38.749054082166,-121.2463853
+1027,f8Ot_S5iyvyREEyBIxqGKQ,Halal Shop,4.8,$$,40,"3116 Stockton Blvd, Sacramento, CA 95820",Sacramento,38.545493,-121.453475
+1028,OgoyAZdiiuMFshx5-IMCdg,Tapioca Express,3.4,$,336,"2069 Arena Blvd, Ste 140, Sacramento, CA 95834",Sacramento,38.6477099,-121.51069
+1029,nUGreiqsR945ar3d94m1LQ,Cool Tea Bar,3.9,$$,566,"5555 Sky Pkwy, Ste 207, Sacramento, CA 95823",Sacramento,38.501437996291,-121.43498940485
+1030,mZR4sXWCrVD6uaelmesVTA,Lollicup,3.6,$,256,"6830 S Stockton Blvd, Ste 250, Sacramento, CA 95823",Sacramento,38.502758,-121.4328123
+1031,Wz1a4t86Hoj9DbCERyWHFg,Happy Mochi,4.2,$,91,"8148 Delta Shores Cir S, Ste 110, Sacramento, CA 95832",Sacramento,38.46475555065307,-121.49255132330522
+1032,kYo5YrhLyo7kZNVQSwCVzw,Vinhouse Tea & Coffee - Sheldon,4.2,$$,596,"8112 Sheldon Rd, Ste 200, Elk Grove, CA 95758",Elk Grove,38.4364602619986,-121.407922098208
+1033,BAsV3pzm8zcoBDuEIOvdDw,Teddy Boba,3.9,$$,69,"10995 Olson Dr, Rancho Cordova, CA 95670",Rancho Cordova,38.59773310167018,-121.28374
+1034,YUavlwdyisyqKW0PiBYYmw,Moon Tea House,4.4,$,206,"1990 Blue Oaks Blvd, Ste 130, Roseville, CA 95747",Roseville,38.79304,-121.35754
+1035,8bP2zvK-uU8RKqWuMBJzDQ,Lumpia Ko - Eats and Boba,4.1,$$,165,"7893 Walerga Rd, Ste 105, Antelope, CA 95843",Antelope,38.7109687,-121.3652862
+1036,FlMcpXShoYlSicnbrdS2lA,Brown Sugar Bubble Milk,4.0,$,175,"4220 Florin Rd, Ste 106, 99 Ranch Supermarket, Sacramento, CA 95823",Sacramento,38.494771,-121.456928
+1037,spnebz3erYConqUEr0x1gw,18 Grams Coffee & Tea,4.4,$$,714,"9677 E Stockton Blvd, Elk Grove, CA 95624",Elk Grove,38.4067729,-121.3856181
+1038,4QkgyBIyqxPzKL7Ul7u0Ig,Tealicious,3.7,$$,366,"5101 Freeport Blvd, Sacramento, CA 95822",Sacramento,38.5275870192814,-121.495912777778
+1039,atF0eF_UDfyqyE02vm9h4g,Sweetea,4.2,$$,67,"8505 Madison Ave, Ste 180, Fair Oaks, CA 95628",Fair Oaks,38.66467526797387,-121.24369925142256
+1040,5Jk9Y-c5rREtRX2VXZbqVg,T4 South Sac,3.4,$,193,"6645 Stockton Blvd, Ste 200, Sacramento, CA 95823",Sacramento,38.5069786509303,-121.433521918952
+1041,FM4QhjERcG1IjT3_Hu24nA,Boba Storie Tea,4.6,$,25,"5247 Elkhorn Blvd, Ste A, Sacramento, CA 95842",Sacramento,38.68781523701739,-121.3416300898515
+1042,AeDoao6bXMAAV3FEoKSNZw,Tapioca And Tea,3.8,$,281,"9105 Bruceville Rd, Ste 3a, Elk Grove, CA 95758",Elk Grove,38.426691,-121.417137
+1043,RGMoIDt9I7dhSY4gDuRfrA,Senpai's Cafe,4.9,N/A,28,"7456 Foothills Blvd, Ste 6, Roseville, CA 95747",Roseville,38.77084387800665,-121.31437115371229
+1044,AIpRkKKiSSLFBw8-U6W2vA,Chaii,4.5,N/A,33,"2992 65th St, Ste 100, Sacramento, CA 95817",Sacramento,38.547127,-121.42818
+1045,baQYN4klh69m3TxhNxuW4A,Bober Tea & Coffee,4.0,$$,251,"1164 Galleria Blvd, Ste 110, Roseville, CA 95678",Roseville,38.771372,-121.263749
+1046,82-QEbAjv6_0KqPCIn6-OQ,The Hangout,4.5,N/A,76,"905 C St, Galt, CA 95632",Galt,38.25366723138989,-121.2988943503161
+1047,CSKHgdCb9ksH_vQviqtrOg,Moo Moo,3.8,$,585,"8698 Elk Grove Blvd, Ste 2B, Elk Grove, CA 95624",Elk Grove,38.40849,-121.38115
+1048,tTQ4W3TV4VbWteEgieOhIQ,Reejoy Bubble Tea,4.1,$,49,"203 Harding Blvd, Oriental Market, Roseville, CA 95678",Roseville,38.74842,-121.27099
+1049,i5rgC3rdGmkqhphjqnN8BQ,Tastea,4.0,$$,263,"8128 Delta Shores Cir S, Ste 100, Sacramento, CA 95832",Sacramento,38.46539013008401,-121.49330316169193
+1050,PG7LViO_MOdm8n0o9YIF_A,T4 Folsom,4.0,$$,245,"2690 E Bidwell St, Ste 600, Folsom, CA 95630",Folsom,38.65755836711539,-121.1254968
+1051,lNDPPFMyUj67_N01w1a36g,Boba Lane,4.8,$$,155,"6160 Stanford Ranch Rd, Ste 800, Rocklin, CA 95765",Rocklin,38.794788,-121.268791
+1052,OyhMt5Hal3esWEmNuX4qCg,Teable Tea Bar,4.4,$$,213,"4789 Granite Dr, Rocklin, CA 95677",Rocklin,38.79061692864693,-121.22182647483017
+1053,9NGH1aZw-GuoH9VOrCrqtA,Koreana Plaza,3.8,$$,390,"10971 Olson Dr, Rancho Cordova, CA 95670",Rancho Cordova,38.5969234,-121.28348406862132
+1054,rHbEqDGF7P_3mQdQ0LgqCg,Fuji Tea House,5.0,N/A,2,"3051 Stanford Ranch Rd, Ste 6, Rocklin, CA 95765",Rocklin,38.8161717,-121.2576033
+1055,nMgc46SmGafzcliazEpLXQ,Cocomilk Cafe,4.3,$$,184,"6519 Savings Pl, Ste 225, Sacramento, CA 95828",Sacramento,38.50150275205603,-121.42814861624262
+1056,QI8Y-VRzObVtLOBaoPWTyw,Tea Bar & Fusion Cafe,4.2,$$,391,"2700 Capitol Ave, Sacramento, CA 95816",Sacramento,38.57053,-121.47192
+1057,GZOM9dyolaoqwkvfNtGMYw,BAMBU,3.9,$,570,"6901 Stockton Blvd, Sacramento, CA 95823",Sacramento,38.501681,-121.430678
+1058,3FIrLXsq987v7ZyojTN4Sw,Yum Cha Cafe,3.5,$,22,"6930 65th St, Sacramento, CA 95823",Sacramento,38.50122,-121.43357
+1059,T202bCCBDNXc29T6QMUO9w,Koalatea Boba,4.2,$$,287,"9620 Elk Grove Florin Rd, Elk Grove, CA 95624",Elk Grove,38.4083975,-121.37176867
+1060,tE5RXLEKH6Tr3iqyVKhikg,Bru Tea Cafe,4.4,$$,144,"9171 Elk Grove Florin Rd, Ste 3, Elk Grove, CA 95624",Elk Grove,38.42428,-121.37078
+1061,XHx6-JqsDR57CR7ENEMnOA,Tea Bay,4.0,$,107,"7680 La Riviera Dr, Sacramento, CA 95826",Sacramento,38.55683,-121.40995
+1062,4lR9Wqy7kDLgX_EhhulnwQ,ICICLES,4.6,$$,360,"1431 Howe Ave, Ste 200, Sacramento, CA 95825",Sacramento,38.592058,-121.4155949
+1063,JQtJgVWMkQy7MUvM_WBCsQ,Aimée's Boba Café,4.3,$,97,"7238 Franklin Blvd, Sacramento, CA 95823",Sacramento,38.494265,-121.460856
+1064,-aZDquW9RidJ7Q2A57jxpw,Boomba Tea,4.5,$,63,"2784 E Bidwell St, Ste 300, Folsom, CA 95630",Folsom,38.65625279550392,-121.1199863
+1065,nfo7HpA-cJH5sadx8L4kNg,Devil & Angel Desserts,4.6,$$,70,"280 Palladio Pkwy, Ste 929, Folsom, CA 95630",Folsom,38.648971,-121.118724
+1066,m7Yir6rmvHuJku-dsMnVAg,Vampire Penguin - Folsom,4.0,$$,86,"420 Palladio Pkwy, Ste 1705, Folsom, CA 95630",Folsom,38.65045,-121.12151
+1067,qMpdp4EPkvjRRImgl1MCCQ,Mochinut,4.2,$$,106,"11009 Olson Dr, Ste 701, Rancho Cordova, CA 95670",Rancho Cordova,38.59692123347231,-121.28176908461847
+1068,NeD6SuMs4x3-aWbjk9ZCww,Poke & Tea,3.8,$$,128,"2310 Sunrise Blvd, Ste 3, Rancho Cordova, CA 95670",Rancho Cordova,38.61746,-121.27023
+1069,I14Qx_N9ko5fsnhj21JOKA,Vinhouse Tea & Coffee - Gerber,4.2,N/A,65,"7928 Gerber Rd, Sacramento, CA 95828",Sacramento,38.48158530145382,-121.4104092
+1070,tpTGIT7v8zSDtk_KUsZlkg,Somisomi,4.6,$,530,"7470 Elk Grove Blvd, Ste 100, Elk Grove, CA 95757",Elk Grove,38.407428,-121.416802
+1071,aiIom8Eawv_E5i3pL4ExRA,Teddy Boba - Rocklin,4.4,$$,83,"5406 Crossings Dr, Ste 103, Rocklin, CA 95677",Rocklin,38.80035,-121.2046
+1072,vClhDOOOd6tr0DXpgkJa_A,Fin’s House,4.2,$$,286,"2580 Arena Blvd, Ste 140, Sacramento, CA 95834",Sacramento,38.642660556233466,-121.51845839657804
+1073,3waUkDQEkrxMJ6tikONIVw,Teaspoon,4.6,N/A,73,"1171 Riley St, Folsom, CA 95630",Folsom,38.67024,-121.16309
+1074,Gd-1HZo_FdO2b5gp3k9PcQ,BAMBU Dessert Drinks,4.4,$$,45,"1870 Prairie City Rd, Ste 300, Folsom, CA 95630",Folsom,38.6492,-121.16478
+1075,y8gKJHeu9F2FEVaZo2I7BQ,Yogurtagogo,3.8,$$,495,"1801 L St, Ste 90, Sacramento, CA 95811",Sacramento,38.57544,-121.48267
+1076,dM3H-X6PtwMkroshmsuxAQ,T4 Elk Grove,3.3,$$,419,"8469 Elk Grove Blvd, Ste 9, Elk Grove, CA 95758",Elk Grove,38.409973,-121.390373
+1077,rLnaCtJz9fXTYDeherWG4Q,Bubble University,4.1,$$,65,"2230 Sunset Blvd, Ste 340, Safeway, Rocklin, CA 95765",Rocklin,38.802991,-121.273162
+1078,mKgC2cNEb0oT5cNvYNPf-g,Ding Tea,4.3,$,130,"4060 Douglas Blvd, Ste 108, Granite Bay, CA 95746",Granite Bay,38.742372,-121.224898
+1079,plMqY8qqRpAxRZUi3VsuhA,One Zo,2.4,N/A,70,"1151 Galleria Blvd, Roseville, CA 95678",Roseville,38.77405507907598,-121.2699736706495
+1080,65XkOo9zwu8BVdD_yHnv-A,Teacup Coffee & Boba Tea,4.0,$$,301,"8351 Elk Grove Blvd, Ste 500, Elk Grove, CA 95758",Elk Grove,38.40966,-121.39652
+1081,_to49X4OUhY6Y-kGq8_Pbw,Mochi Dough,4.3,$$,280,"6900 65th St, Ste 2, Sacramento, CA 95823",Sacramento,38.500896,-121.431859
+1082,IpWylybLDwfjOZFm9vwHSA,Quickly,2.8,$,83,"1151 Galleria Blvd, Roseville, CA 95678",Roseville,38.774175,-121.269611
+1083,SRRTXa7Uaqs8tqi_Z0wHpw,Tea Republic,4.2,$$,165,"4810 Granite Dr, Rocklin, CA 95677",Rocklin,38.790955,-121.224271
+1084,vO_RQaUVfrHx1_WZwPNxSA,Cane Corner,4.4,$$,106,"8519 Bond Rd, Ste 102, Elk Grove, CA 95624",Elk Grove,38.424826,-121.387587
+1085,06uaIusGv77QwbGKurQv_Q,Hyper Tea,4.4,$$,49,"5650 Whitelock Pkwy, Ste 140, Elk Grove, CA 95757",Elk Grove,38.393578,-121.437106
+1086,9qcQkFU-9Cw9pBytP6C5Ig,Feng Cha Folsom,4.6,N/A,88,"1705 Iron Point Rd, Ste 200, Folsom, CA 95630",Folsom,38.64934,-121.15404
+1087,SKfKj_4Qp5KllYJvzh_LiQ,One Milk Tea - Woodcreek,4.1,N/A,34,"4021 Woodcreek Oaks Blvd, Ste 164, Roseville, CA 95747",Roseville,38.769289041139885,-121.3318018487292
+1088,PjKXBJ8tHKcoMNMoUfNIJA,BAMBU,4.1,$,152,"8139 Elk Grove Blvd, Ste 140, Elk Grove, CA 95758",Elk Grove,38.40992783588401,-121.4070436
+1089,FrMpujJKfwKzeO-xi_absQ,There and Back Cafe,4.3,N/A,106,"1020 11th St, Ste 100, Cathedral Square, Sacramento, CA 95814",Sacramento,38.57923,-121.49272
+1090,eOXhzDd7i8ykZ7wvZmvGyA,Gold Pops Gio Rolls,4.5,N/A,62,"8829 Sheldon Rd, Ste 100, Elk Grove, CA 95624",Elk Grove,38.438861,-121.37294
+1091,B_ApZhfNGGhtnApQdqxxzg,Saigon Corner,4.4,$,413,"1589 W El Camino Ave, Ste 101, Sacramento, CA 95833",Sacramento,38.613687,-121.497013
+1092,s2ezwb_yFVVjXxw9Ai3Xvw,Quickly,3.1,$,158,"4650 Mack Rd, Ste 108, Sacramento, CA 95823",Sacramento,38.47327446477295,-121.44778593913595
+1093,INCnmlsYU2hIYIqo_SqLcw,Happy Lemon,3.9,$$,255,"8106 Sheldon Rd, Ste 103, Elk Grove, CA 95758",Elk Grove,38.437149,-121.408304
+1094,ZV9rVTu-ornxLl5RkH7thg,Quickly - Rocklin,4.2,N/A,16,"3211 Stanford Ranch Rd, Ste 300, Rocklin, CA 95765",Rocklin,38.814578,-121.256676
+1095,1nqW6xV-V0uLtvZD5qiNtw,Tea&Poke- Elk Grove,3.0,N/A,11,"9170 Elk Grove Florin Rd, Unit E, Elk Grove, CA 95624",Elk Grove,38.42426,-121.37302
+1096,1w_vJRdzMt-puviiPFCd1A,Panda House,3.1,N/A,141,"2022 Broadway, Sacramento, CA 95818",Sacramento,38.55976,-121.48612
+1097,KsEdRmknS7d2enKTUzub3g,Dumpling & Tea House,4.2,$$,372,"3000 Freeport Blvd, Ste 4, Sacramento, CA 95818",Sacramento,38.550301,-121.489405
+1098,If0K4jeMT4Jswxy2kCevlQ,Happy Lemon,4.1,$$,170,"9688 Bruceville Rd, Ste 102, Elk Grove, CA 95757",Elk Grove,38.4055362729997,-121.418973952532
+1099,vZ74tZKl0HSCCEt4dbdGug,Mochi Dough,4.6,N/A,53,"8848 Calvine Rd, Ste 160, Sacramento, CA 95828",Sacramento,38.45227517742163,-121.3740551
+1100,Mrukx9ApeOOncMzfpf7ZKg,Junni Desserts,4.5,$$,168,"711 E Bidwell St, Ste 10, Folsom, CA 95630",Folsom,38.67071,-121.15877
+1101,nsXWq0iH5rUS6OAhKUSLfA,Tea 18,3.5,$$,196,"10043 Bruceville Rd, Ste 100, Elk Grove, CA 95757",Elk Grove,38.39369,-121.417164
+1102,GEHdKIRvwHVojAr66n2Pmg,Ice Dream,4.7,$$,200,"8775 Center Pkwy, Ste 200, Sacramento, CA 95823",Sacramento,38.43839693435493,-121.4182799349658
+1103,xZFZ3p8u-hezSjSCNGIh2w,Dunkin’,2.2,$,146,"8351 Bruceville Rd, Ste 1, Sacramento, CA 95823",Sacramento,38.4545027,-121.4174335
+1104,j6GWn2C1vSSEZL4IH881Zg,Bobaology,3.7,$,57,"24988 Blue Ravine Rd, Ste 108, Folsom, CA 95630",Folsom,38.690071,-121.125312
+1105,tub1EwRS8k-BhhWBowoLrg,Flor de Dahlia,4.4,$$,12,"1067 C St, Ste 140, Galt, CA 95632",Galt,38.25334,-121.29596
+1106,5T0JNsaChWXvvPGcRt5E4A,Cafe La Vies,4.4,$$,336,"8775 Center Pkwy, Ste E300, Sacramento, CA 95823",Sacramento,38.438396934357755,-121.41827591165662
+1107,4g9w4oqJsCytrbfN6dCZyQ,Teaspoon,4.0,N/A,41,"4420 Town Ctr Blvd, Ste 110, El Dorado Hills, CA 95762",El Dorado Hills,38.651545124430136,-121.06316254471068
+1108,hBs2mEpjMsbrAjd-FZC9qw,Powder,4.5,$$,745,"260 Divisadero St, San Francisco, CA 94117",San Francisco,37.771544,-122.436887
+1109,I7G3cIH4RXG-VNzPg2KSgA,Macu Tea,4.2,$$,134,"3005 Silver Creek Rd, Ste 158, San Jose, CA 95121",San Jose,37.308742205949926,-121.81412589373323
+1110,9nguk6zx3SaRP1Ds3NxA2w,"Pop Up Tea, Coffee & Snacks",4.1,$$,678,"185 Branham Ln, Ste 2, San Jose, CA 95136",San Jose,37.267076,-121.833671
+1111,HTaVHkxzOfqJ7kbnWUMn3A,Tisane,4.1,$$,660,"2980 E Capitol Expy, Ste 50, San Jose, CA 95148",San Jose,37.3308156330866,-121.810699459182
+1112,VkV85hclKc8saSU4UDNjQQ,Pekoe,4.1,$$,2525,"3276 S White Rd, San Jose, CA 95148",San Jose,37.3145584994999,-121.790188997984
+1113,geLnDD-P0oEs7GqwrUgXtA,Moboba,4.7,N/A,37,"3005 Silver Creek Rd, Ste 120, San Jose, CA 95121",San Jose,37.30953584042994,-121.81319045943044
+1114,XS-hR5LEKdVjhOBb1HN1-g,T4,2.9,$$,166,"6950 Almaden Expy, San Jose, CA 95120",San Jose,37.2103965031387,-121.8452444
+1115,1L6UxIfukiqU7Xkvbf9JnA,Phin Cafe,4.3,$,532,"461 Blossom Hill Rd, Ste G, San Jose, CA 95123",San Jose,37.25209337879908,-121.83211524203276
+1116,7b7lIA5WlnnqycTKoLVKCA,Pure Tea Bar,3.7,$$,303,"6195 Santa Teresa Blvd, San Jose, CA 95123",San Jose,37.236431,-121.804763
+1117,bILcb0HzAlZAUKnyWrxPrA,Cool Tea Bar,3.7,$,73,"2569 S King Rd, Ste C8, San Jose, CA 95122",San Jose,37.3193624792952,-121.823397031794
+1118,ovF24qxiBU4kNZ-5BTR8ww,Happy Lemon,4.1,$$,148,"8155 Arroyo Cir, Ste 2, Gilroy Premium Outlets, Gilroy, CA 95020",Gilroy,37.01931,-121.563908
+1119,G8QMQ30aW8_IfLGmaj4cBg,TeaZenTea - San Jose,3.9,N/A,61,"422 West Capitol Expy, San Jose, CA 95136",San Jose,37.273944,-121.850653
+1120,zu5zVG-XMZJ-PRgWBT8p7Q,Hello Tea,3.8,N/A,92,"1051 E Capitol Expy, San Jose, CA 95121",San Jose,37.3012996723006,-121.82281810334514
+1121,dKRAISnpZ356QqvbinNVyg,N7 Draft Tea and Coffee,4.0,$$,532,"3005 Silver Creek Rd, Ste 184, San Jose, CA 95121",San Jose,37.309504,-121.81376869257927
+1122,3kWnAUDFFrjhcfqKTO-4zA,Tastea,3.8,$$,442,"3247 South White Rd, San Jose, CA 95148",San Jose,37.314895,-121.793251
+1123,UYAP3_BD1vXUKWtCl_pWiw,Happy Lemon,3.9,$$,193,"630 Blossom Hill Rd, Ste 30, San Jose, CA 95123",San Jose,37.250214,-121.8442963
+1124,WZIGqacX5XwZqSr9Ww-7_Q,7 Leaves Cafe,4.5,N/A,11,"447 Blossom Hill Rd, San Jose, CA 95123",San Jose,37.251697,-121.829961
+1125,BnQYblIJ6Tk5YOQdMbqfKg,Gong Cha,3.7,$,267,"2200 Eastridge Lp, Ste 2000, San Jose, CA 95122",San Jose,37.3250705936732,-121.815275985379
+1126,DxVEAFp9nKBau4mG8VQawQ,Quickly,2.9,$,135,"2200 Eastridge Loop, Ste 1091, Eastridge, San Jose, CA 95122",San Jose,37.325268,-121.813892
+1127,v6XmkHdNCp8XV0a3FfgD7Q,Aroma,4.5,$$,79,"3005 Silver Creek Rd, Ste 150, San Jose, CA 95121",San Jose,37.30973,-121.81354
+1128,9irgSE9KtPHlAL9Tm7I84g,Tastea,3.8,$$,262,"509 W Capitol Expy, San Jose, CA 95136",San Jose,37.27517,-121.85158
+1129,fGoPd2NBNLraHGVdar9GxA,Happy Lemon,4.1,$$,585,"3005 Silver Creek Rd, Ste 112, San Jose, CA 95121",San Jose,37.309004,-121.813106
+1130,NSFdiaznr7-h5Hp5t3GPqQ,Passion-T Snacks & Desserts,3.8,$$,586,"2266 Senter Rd, Ste 128, San Jose, CA 95112",San Jose,37.310710779747716,-121.84971685971075
+1131,KMnibPylUAMjuh8RkuhPhA,Feng Cha Teahouse -Tully,3.9,$$,119,"1992 Tully Rd, San Jose, CA 95122",San Jose,37.32440325020075,-121.8192547
+1132,YDCBVyzhuHlFniP47D0dlw,Mochinut Cottle Road,4.2,$$,49,"5815 Cottle Rd, San Jose, CA 95123",San Jose,37.245444,-121.804966
+1133,2SMwqdvI-gIgL9QHofPO6w,Arome Cafe,4.2,N/A,32,"4878 San Felipe Rd, Ste 110, San Jose, CA 95135",San Jose,37.300112774072005,-121.770388
+1134,x9atdxXo8XbiKfF_Q_yahg,Tea Era,4.7,$$,64,"6205 Santa Teresa Blvd, San Jose, CA 95119",San Jose,37.236478,-121.803323
+1135,2EsShWc1SpkMiAtScqNHLg,Izumi Matcha,4.3,$$,687,"3005 Silver Creek Rd, Ste 142, San Jose, CA 95121",San Jose,37.3084490872182,-121.81388415159
+1136,LLLvKuD83y2MbbgaaMP9AQ,Star Tea,4.0,$,185,"8650 San Ysidro Ave, Ste 102, Gilroy, CA 95020",Gilroy,37.027274042502945,-121.56622634448463
+1137,RX1q2x_2t2nbj-ycZufXsQ,Aloh-o,2.9,N/A,25,"128 Vintage Way, Ste W-2, Novato, CA 94945",Novato,38.0915829,-122.5561374
+1138,4EZhT_rZuTdbfgN-1k2AKg,Mango's,4.6,$,51,"8499 Old Redwood Hwy, Ste 108, Windsor, CA 95492",Windsor,38.5435,-122.80205
+1139,GhCQjqq-VGW1_gJ2Q4ksuQ,Surf City Squeeze,2.2,$,36,"250 Santa Rosa Plz, Santa Rosa, CA 95401",Santa Rosa,38.4397344413677,-122.717709400944
+1140,PKd0BHzXcDSxFQrjrWHEcQ,Quickly,3.2,$,89,"1451 Southwest Blvd, Ste 109, Rohnert Park, CA 94928",Rohnert Park,38.3387858742772,-122.687486840393
